@@ -1,0 +1,87 @@
+{
+    "id":"18638023",
+    "tms:id":"193869",
+    "accession_number":"1991-89-44",
+    "title":"Sidewall, ca. 1936",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638023\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"ca. 1936",
+    "year_start":"1931",
+    "year_end":"1941",
+    "year_acquired":"1991",
+    "decade":"1930",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Printed in selvage: \"RUN 3, U.W.P.C. OF N.A., UNION MADE.\"",
+    "provenance":null,
+    "dimensions":"49 cm (19 5\/16 in.)",
+    "creditline":"Gift of Suzanne Lipschutz",
+    "description":"Red, blue, and yellow flowers in metallic silver planters placed on a marbleized diamond shape surrounded by a turquoise rectangle. Each planter motif is placed within geometric shapes bordered by thin grey lines on a white ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11349_eb031a56ec809df9_b.jpg",
+                "width":669,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11349_eb031a56ec809df9_n.jpg",
+                "width":209,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11349_eb031a56ec809df9_z.jpg",
+                "width":418,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18048483",
+            "role_id":"35236657",
+            "person_name":"Chicago Wall Paper Manufacturers, Co.",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048483\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, ca. 1936.\nca. 1936. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-44."
+    },
+    "colors":[
+        {
+            "color":"#b5b8bf",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#7e8792",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#4d494a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#221820",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#a4c4cc",
+            "closest_css3":"#b0c4de"
+        }
+    ]
+}

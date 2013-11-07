@@ -1,0 +1,42 @@
+{
+    "id":"18623277",
+    "tms:id":"186475",
+    "accession_number":"1987-96-1",
+    "title":"Plate, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623277\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35236833",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1987",
+    "decade":null,
+    "woe:country":null,
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 2.9 x 26.2 cm (1 1\/8 x 10 5\/16 in.)",
+    "creditline":"Gift of Irene and Paul Hollister",
+    "description":"Dark purple and white glass",
+    "justification":null,
+    "type":{
+        "id":"35236833",
+        "name":"plate"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Plate, 19th century.\n19th century. glass. Gift of Irene and Paul Hollister. 1987-96-1."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18460037",
+    "tms:id":"140598",
+    "accession_number":"1967-92-4",
+    "title":"Blade",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460037\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35291951",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 23 x 11 cm (9 1\/16 x 4 5\/16 in.)",
+    "creditline":"Gift of Paul Manheim",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35291951",
+        "name":"blade"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Blade.\nOverall: 23 x 11 cm (9 1\/16 x 4 5\/16 in.). Gift of Paul Manheim. 1967-92-4."
+    },
+    "colors":[
+
+    ]
+}

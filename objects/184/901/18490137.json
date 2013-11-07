@@ -1,0 +1,72 @@
+{
+    "id":"18490137",
+    "tms:id":"155942",
+    "accession_number":"1976-103-62",
+    "title":"Stencil, \"Kata-gami: Bamboo Leaves\", late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490137\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35431265",
+    "type_id":"35288579",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Mulberry paper, lacquer made from persimmon juice, silk thread",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"43.3 x 29.1 cm (17 1\/16 x 11 7\/16 in.)",
+    "creditline":"Gift of Helen Snyder",
+    "description":"Interlaced pattern of lozenge-shapped leaves",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26026_0eca890309058f36_b.jpg",
+                "width":1024,
+                "height":685,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26026_0eca890309058f36_n.jpg",
+                "width":320,
+                "height":214,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26026_0eca890309058f36_z.jpg",
+                "width":640,
+                "height":428,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil, \"Kata-gami: Bamboo Leaves\", late 19th century.\nlate 19th century. Mulberry paper, lacquer made from persimmon juice, silk thread. Gift of Helen Snyder. 1976-103-62."
+    },
+    "colors":[
+        {
+            "color":"#bdb5a5",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#756456",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#988e7f",
+            "closest_css3":"#808080"
+        }
+    ]
+}

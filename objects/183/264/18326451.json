@@ -1,0 +1,64 @@
+{
+    "id":"18326451",
+    "tms:id":"47737",
+    "accession_number":"1931-64-34",
+    "title":"Spoon, ca. 1722",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18326451\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389463",
+    "type_id":"35249775",
+    "date":"ca. 1722",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Silver",
+    "markings":"On reverse of mid-stem: cursive \"FW\", control mark for Prussia used in 1809.",
+    "signed":null,
+    "inscribed":"On handle: AM.S. G.S. .1.7.2.2.",
+    "provenance":null,
+    "dimensions":"cm: L: 19.2 x W: 4.6 x D: 2.1",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Oval bowl, tapering stem with rattail join, rounded terminal with cast shell on reverse.",
+    "justification":null,
+    "type":{
+        "id":"35249775",
+        "name":"spoon"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19475_1a69a74885ffe75d_b.jpg",
+                "width":425,
+                "height":919,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19475_1a69a74885ffe75d_n.jpg",
+                "width":148,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19475_1a69a74885ffe75d_z.jpg",
+                "width":296,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Spoon, ca. 1722.\nca. 1722. Silver. Gift of Eleanor and Sarah Hewitt. 1931-64-34."
+    },
+    "colors":[
+        {
+            "color":"#a09da6",
+            "closest_css3":"#a9a9a9"
+        }
+    ]
+}

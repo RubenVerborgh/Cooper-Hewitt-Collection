@@ -1,0 +1,80 @@
+{
+    "id":"18429913",
+    "tms:id":"125350",
+    "accession_number":"1960-111-4",
+    "title":"Sidewall, 1870\u201380",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18429913\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1870\u201380",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1960",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"51 x 38 cm (20 1\/16 x 14 15\/16 in.)",
+    "creditline":"Gift of Mrs. Rollin Stickle",
+    "description":"White and gray flowers against a black ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6065_c3c0cecc4fbb9c77_b.jpg",
+                "width":1024,
+                "height":755,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6065_c3c0cecc4fbb9c77_n.jpg",
+                "width":320,
+                "height":236,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6065_c3c0cecc4fbb9c77_z.jpg",
+                "width":640,
+                "height":472,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1870\u201380.\n1870\u201380. Machine-printed. Gift of Mrs. Rollin Stickle. 1960-111-4."
+    },
+    "colors":[
+        {
+            "color":"#cee6f3",
+            "closest_css3":"#e6e6fa"
+        },
+        {
+            "color":"#a3b0af",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#1c1c2b",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#aec2db",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#1c221b",
+            "closest_css3":"#000000"
+        }
+    ]
+}

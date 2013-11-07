@@ -1,0 +1,80 @@
+{
+    "id":"18606565",
+    "tms:id":"96808",
+    "accession_number":"1947-47-5-a,b",
+    "title":"Case, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18606565\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35428569",
+    "type_id":"35268321",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1947",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"Medium: glass beads, horse hair\nTechnique: beadwork",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 10 x 5.5 x 2.5 cm (3 15\/16 x 2 3\/16 x 1 in.)",
+    "creditline":"Gift of Mrs. Henry J. Bernheim",
+    "description":"Case in two parts: one part made to slip over the other. Made of white and colored glass beads in design of human figures, flowers and initials.",
+    "justification":null,
+    "type":{
+        "id":"35268321",
+        "name":"Case"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30412_13e3808cc5e240ae_b.jpg",
+                "width":634,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30412_13e3808cc5e240ae_n.jpg",
+                "width":198,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30412_13e3808cc5e240ae_z.jpg",
+                "width":396,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Case, 19th century.\n19th century. Medium: glass beads, horse hair\nTechnique: beadwork. Gift of Mrs. Henry J. Bernheim. 1947-47-5-a,b."
+    },
+    "colors":[
+        {
+            "color":"#6c655a",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#5b4a36",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#75797c",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#352418",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#8b715a",
+            "closest_css3":"#696969"
+        }
+    ]
+}

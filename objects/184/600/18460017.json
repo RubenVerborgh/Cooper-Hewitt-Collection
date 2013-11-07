@@ -1,0 +1,76 @@
+{
+    "id":"18460017",
+    "tms:id":"140588",
+    "accession_number":"1967-92-16",
+    "title":"Plaque",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460017\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35390047",
+    "type_id":"35259243",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Bronze",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 27 x 9 x 22 cm (10 5\/8 x 3 9\/16 x 8 11\/16 in.)",
+    "creditline":"Gift of Paul Manheim",
+    "description":"Armed deity; standing",
+    "justification":null,
+    "type":{
+        "id":"35259243",
+        "name":"Plaque"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44613_aef4ed39b6a43693_b.jpg",
+                "width":509,
+                "height":744,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44613_aef4ed39b6a43693_n.jpg",
+                "width":219,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44613_aef4ed39b6a43693_z.jpg",
+                "width":438,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Plaque.\nBronze. Gift of Paul Manheim. 1967-92-16."
+    },
+    "colors":[
+        {
+            "color":"#525441",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#605724",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#322f16",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#86887b",
+            "closest_css3":"#808080"
+        }
+    ]
+}

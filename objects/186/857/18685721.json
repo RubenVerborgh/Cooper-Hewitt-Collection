@@ -1,0 +1,42 @@
+{
+    "id":"18685721",
+    "tms:id":"218350",
+    "accession_number":"2000-68-124",
+    "title":"Booklet",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18685721\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35385375",
+    "type_id":"35247571",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2000",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Offset lithograph on light green laid paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of James Howard Fraser",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35247571",
+        "name":"booklet"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Booklet.\nOffset lithograph on light green laid paper. Gift of James Howard Fraser. 2000-68-124."
+    },
+    "colors":[
+
+    ]
+}

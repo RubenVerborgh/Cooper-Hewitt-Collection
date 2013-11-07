@@ -1,0 +1,42 @@
+{
+    "id":"18336837",
+    "tms:id":"52221",
+    "accession_number":"1931-94-70",
+    "title":"Print, \"Plan of Versaille\", 1746",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18336837\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35236873",
+    "date":"1746",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Dup of 1959-182-20",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Plan of Versaille\", 1746.\n1746. Gift of Eleanor and Sarah Hewitt. 1931-94-70."
+    },
+    "colors":[
+
+    ]
+}

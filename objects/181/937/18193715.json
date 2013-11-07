@@ -1,0 +1,87 @@
+{
+    "id":"18193715",
+    "tms:id":"22390",
+    "accession_number":"1917-4-1326",
+    "title":"Drawing, \"The Chariot of the Moon\", 1868\u201370",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18193715\/",
+    "department_id":"35347493",
+    "period_id":"35417175",
+    "media_id":"35419559",
+    "type_id":"35237093",
+    "date":"1868\u201370",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1917",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Brush and oil paint on paper board",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Louis P. Church",
+    "dimensions":"32.8 x 29.4 cm (12 15\/16 x 11 9\/16 in.)",
+    "creditline":"Gift of Louis P. Church",
+    "description":"Sunset landscape with a large red sun hanging over distant hills and a body of water in the foreground.  The sun has been made to represent the wheel of a chariot drawn by two horses driven by a robed figure.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2213_20573cb4501bbc1e_b.jpg",
+                "width":920,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2213_20573cb4501bbc1e_n.jpg",
+                "width":287,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2213_20573cb4501bbc1e_z.jpg",
+                "width":575,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041941",
+            "role_id":"35236565",
+            "person_name":"Frederic Edwin Church",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"The Chariot of the Moon\", 1868\u201370.\n1868\u201370. Brush and oil paint on paper board. Gift of Louis P. Church. 1917-4-1326."
+    },
+    "colors":[
+        {
+            "color":"#605a63",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#b37858",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#a28e89",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#84787d",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#7e5748",
+            "closest_css3":"#696969"
+        }
+    ]
+}

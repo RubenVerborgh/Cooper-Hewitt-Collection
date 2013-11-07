@@ -1,0 +1,80 @@
+{
+    "id":"18394209",
+    "tms:id":"107261",
+    "accession_number":"1953-106-14",
+    "title":"Purse, 1830\u201360",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394209\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35406417",
+    "type_id":"35264073",
+    "date":"1830\u201360",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, glass beads, ivory\nTechnique: bead-linked mesh",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 8 x 5.1 cm (3 1\/8 in. x 2 in.)",
+    "creditline":"Gift of Mrs. Albert Blum",
+    "description":"Purse of black beads strung in an open diamond-shaped pattern with white and gold beads as decoration. Carved ivory or bone ring to slide and close purse. Two small ivory bars at top through last row of beads, to open. Small chain of black and white beads for carrying. Corner tassels of pink beads.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30420_aedf1f7e7d81bb85_b.jpg",
+                "width":587,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30420_aedf1f7e7d81bb85_n.jpg",
+                "width":183,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30420_aedf1f7e7d81bb85_z.jpg",
+                "width":367,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 1830\u201360.\n1830\u201360. Medium: silk, glass beads, ivory\nTechnique: bead-linked mesh. Gift of Mrs. Albert Blum. 1953-106-14."
+    },
+    "colors":[
+        {
+            "color":"#cecedc",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#c1aea9",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#a592a4",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#333039",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#85512b",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

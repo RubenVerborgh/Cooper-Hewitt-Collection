@@ -1,0 +1,42 @@
+{
+    "id":"18398857",
+    "tms:id":"109602",
+    "accession_number":"1953-83-2-a\/bb",
+    "title":"Ornament",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18398857\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35255209",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 13.5 cm (5 5\/16 in.)",
+    "creditline":"Gift of Mabel Haynes",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35255209",
+        "name":"Ornament"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Ornament.\nOverall: 13.5 cm (5 5\/16 in.). Gift of Mabel Haynes. 1953-83-2-a\/bb."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18707613",
+    "tms:id":"229653",
+    "accession_number":"2006-20-49",
+    "title":"Pitcher, 18th\u2013mid-19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18707613\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402543",
+    "type_id":"35237237",
+    "date":"18th\u2013mid-19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2006",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Silver resist",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Jane M. Epstine",
+    "description":"\"Application\"",
+    "justification":null,
+    "type":{
+        "id":"35237237",
+        "name":"Pitcher"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44659_2dae619bfbed28a6_b.jpg",
+                "width":1024,
+                "height":1007,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44659_2dae619bfbed28a6_n.jpg",
+                "width":320,
+                "height":315,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44659_2dae619bfbed28a6_z.jpg",
+                "width":640,
+                "height":629,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Pitcher, 18th\u2013mid-19th century.\n18th\u2013mid-19th century. Silver resist. Bequest of Jane M. Epstine. 2006-20-49."
+    },
+    "colors":[
+        {
+            "color":"#fef185",
+            "closest_css3":"#f0e68c"
+        },
+        {
+            "color":"#c4b351",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#494631",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#706a47",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#c5c1b3",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

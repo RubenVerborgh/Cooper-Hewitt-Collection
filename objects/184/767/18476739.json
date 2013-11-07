@@ -1,0 +1,100 @@
+{
+    "id":"18476739",
+    "tms:id":"149148",
+    "accession_number":"1972-42-71-a\/c",
+    "title":"Border, 1825\u201350",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18476739\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414641",
+    "type_id":"35237285",
+    "date":"1825\u201350",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1972",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Block-printed on handmade paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Inscribed on verso: \"Relt de papier et bordeure du salon de compagnie.\" Howell number 290",
+    "provenance":null,
+    "dimensions":"H x W (a): 87 x 17 cm (34 1\/4 x 6 11\/16 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"The edgings consist of two bands of imitation woven flowers. Between them is an assortment of flowers and foliage positioned along an undulating stem. Block-printed with shiny, oily pigments on joined sheets of paper.\n\nH# 290",
+    "justification":null,
+    "type":{
+        "id":"35237285",
+        "name":"Border"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43272_29076c3c7f2df667_b.jpg",
+                "width":1024,
+                "height":276,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43272_29076c3c7f2df667_n.jpg",
+                "width":320,
+                "height":86,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43272_29076c3c7f2df667_z.jpg",
+                "width":640,
+                "height":173,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7385_6d6d9c4aa5d265ec_b.jpg",
+                "width":1024,
+                "height":261,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7385_6d6d9c4aa5d265ec_n.jpg",
+                "width":320,
+                "height":82,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7385_6d6d9c4aa5d265ec_z.jpg",
+                "width":640,
+                "height":163,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Border, 1825\u201350.\n1825\u201350. Block-printed on handmade paper. Gift of Josephine Howell. 1972-42-71-a\/c."
+    },
+    "colors":[
+        {
+            "color":"#3b3834",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#c7c2b3",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#81332d",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#5c6030",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#9b6d3a",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

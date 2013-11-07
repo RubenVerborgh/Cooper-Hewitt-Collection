@@ -1,0 +1,49 @@
+{
+    "id":"18131181",
+    "tms:id":"11720",
+    "accession_number":"1902-1-526",
+    "title":"Fragment, 16th\u201317th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131181\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394401",
+    "type_id":"35254623",
+    "date":"16th\u201317th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, metallics\nTechnique: supplementary warp forming raised cut pile on a foundation of plain weave faced with metallic supplementary wefts.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Antonio Viv\u00e8s y Escudero",
+    "dimensions":null,
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Scrol pattern on glinting metallic background. Blue.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 16th\u201317th century.\n16th\u201317th century. Medium: silk, metallics\nTechnique: supplementary warp forming raised cut pile on a foundation of plain weave faced with metallic supplementary wefts.. Gift of John Pierpont Morgan. 1902-1-526."
+    },
+    "colors":[
+
+    ]
+}

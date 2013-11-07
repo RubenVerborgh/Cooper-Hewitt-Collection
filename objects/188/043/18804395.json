@@ -1,0 +1,72 @@
+{
+    "id":"18804395",
+    "tms:id":"182482",
+    "accession_number":"1985-103-91",
+    "title":"Fork, 1770\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18804395\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35432983",
+    "type_id":"35254209",
+    "date":"1770\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1985",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"steel, horn, silver, mother-of-pearl, ivory",
+    "markings":null,
+    "signed":null,
+    "inscribed":"On top of handle: 180Z G F E",
+    "provenance":"Robert L. Metzenberg",
+    "dimensions":"L x W: 20.1 x 1.7 cm (7 15\/16 x 11\/16 in.)",
+    "creditline":"The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description":"Fork has two long pointed tines, baluster-shaped neck, silver ferrule decorated with floral pattern. Tapered handle octagonal-shaped in centre, end of handle decorated with horizontal silver band and mother-of-pearl points. Silver mount on top of handle has inscription, ivory knob in centre. The end of handle screwed to the handle; pepper container.",
+    "justification":null,
+    "type":{
+        "id":"35254209",
+        "name":"fork"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22374_7849d484fb101473_b.jpg",
+                "width":275,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22374_7849d484fb101473_n.jpg",
+                "width":86,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22374_7849d484fb101473_z.jpg",
+                "width":172,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fork, 1770\u20131800.\n1770\u20131800. steel, horn, silver, mother-of-pearl, ivory. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-91."
+    },
+    "colors":[
+        {
+            "color":"#b0aba2",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#3e3a31",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#6e695f",
+            "closest_css3":"#696969"
+        }
+    ]
+}

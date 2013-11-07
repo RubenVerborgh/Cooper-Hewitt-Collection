@@ -1,0 +1,42 @@
+{
+    "id":"18388929",
+    "tms:id":"104609",
+    "accession_number":"1951-60-10",
+    "title":"Applique On Net: Bobbin Lace",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18388929\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35285863",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35285863",
+        "name":"Applique on net: bobbin lace"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Applique On Net: Bobbin Lace.\nGift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes. 1951-60-10."
+    },
+    "colors":[
+
+    ]
+}

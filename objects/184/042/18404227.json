@@ -1,0 +1,80 @@
+{
+    "id":"18404227",
+    "tms:id":"112298",
+    "accession_number":"1955-25-6-a\/d",
+    "title":"Textile, late 16th\u2013early 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404227\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35251739",
+    "date":"late 16th\u2013early 17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1955",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 248 x 195 cm (8 ft. 1 5\/8 in. x 6 ft. 4 3\/4 in.); dimensions reflect size before separation of components",
+    "creditline":"Gift of L. Boyd and Annie McQuarrie Hatch",
+    "description":"Medium-scale classical urn and flowers in roughly ogival framework formed by stylized leaf sprays at angles and crowns at tangent points. Double cord selvages.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_b.jpg",
+                "width":614,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_n.jpg",
+                "width":192,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33366_0417dde38a4bbaa8_z.jpg",
+                "width":384,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, late 16th\u2013early 17th century.\nlate 16th\u2013early 17th century. Medium: silk\nTechnique: 5-harness satin damask. Gift of L. Boyd and Annie McQuarrie Hatch. 1955-25-6-a\/d."
+    },
+    "colors":[
+        {
+            "color":"#ad913e",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#e5af47",
+            "closest_css3":"#f4a460"
+        },
+        {
+            "color":"#393d24",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#766a30",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#6b6561",
+            "closest_css3":"#696969"
+        }
+    ]
+}

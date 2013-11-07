@@ -1,0 +1,95 @@
+{
+    "id":"18383269",
+    "tms:id":"101758",
+    "accession_number":"1949-94-18",
+    "title":"Button Showing West Indian Scene, late 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383269\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35376179",
+    "type_id":"35289795",
+    "date":"late 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1949",
+    "decade":null,
+    "woe:country":"23424839",
+    "medium":"Gouache paint on tin verre fix\u00e9, ivory (backing), glass, gilded metal",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of R. Keith Kane from the Estate of Mrs. Robert B. Noyes",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35289795",
+        "name":"Button showing West Indian scene"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4764_e9c281a88579a871_b.jpg",
+                "width":1024,
+                "height":962,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4764_e9c281a88579a871_n.jpg",
+                "width":320,
+                "height":301,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4764_e9c281a88579a871_z.jpg",
+                "width":640,
+                "height":601,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18061469",
+            "role_id":"35236675",
+            "person_name":"Toussaint L'Ouverture",
+            "role_name":"For",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061469\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236675\/"
+        },
+        {
+            "person_id":"18537399",
+            "role_id":"35236711",
+            "person_name":"Agostino Brunias",
+            "role_name":"Attributed to",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537399\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236711\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Button Showing West Indian Scene, late 18th century.\nlate 18th century. Gouache paint on tin verre fix\u00e9, ivory (backing), glass, gilded metal. Gift of R. Keith Kane from the Estate of Mrs. Robert B. Noyes. 1949-94-18."
+    },
+    "colors":[
+        {
+            "color":"#403e4c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#2d2027",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a89796",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#614f47",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#c3a995",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

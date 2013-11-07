@@ -1,0 +1,71 @@
+{
+    "id":"18691491",
+    "tms:id":"221269",
+    "accession_number":"2000-76-1-1",
+    "title":"Prototype Toy Block, \"\"Build the Town\"\", 1941",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18691491\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35414491",
+    "type_id":"35299563",
+    "date":"1941",
+    "year_start":"1941",
+    "year_end":"1941",
+    "year_acquired":"2000",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Painted wood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"cm: 4.9 h x 7.2 w x 7.2 d (1 15\/16 x 2 13\/16 x 2 13\/16 in.)",
+    "creditline":"Gift of Radoslav L. and Elaine F. Sutnar",
+    "description":"Six-sided block: two square faces painted turquoise blue; two opposite rectangular sides painted orange with two white rectangles painted lengthwise across center of each; two opposite rectangular sides painted white with one blue rectangle flanked by two blue squares painted lengthwise across center of each.",
+    "justification":null,
+    "type":{
+        "id":"35299563",
+        "name":"Prototype toy block"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18043523",
+            "role_id":"35236655",
+            "person_name":"Ladislav Sutnar",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043523\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "exhibitions":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Prototype Toy Block, \"\"Build the Town\"\", 1941.\n1941. Painted wood. Gift of Radoslav L. and Elaine F. Sutnar. 2000-76-1-1."
+    },
+    "colors":[
+        {
+            "color":"#c45e2c",
+            "closest_css3":"#d2691e"
+        },
+        {
+            "color":"#9bc0cf",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#88909b",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#e49661",
+            "closest_css3":"#f4a460"
+        },
+        {
+            "color":"#783b24",
+            "closest_css3":"#8b4513"
+        }
+    ]
+}

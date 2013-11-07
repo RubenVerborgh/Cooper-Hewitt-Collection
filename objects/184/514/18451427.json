@@ -1,0 +1,87 @@
+{
+    "id":"18451427",
+    "tms:id":"136234",
+    "accession_number":"1964-24-36",
+    "title":"Hanging, \"Composition in Squares\", 1950\u201353",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451427\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394333",
+    "type_id":"35257233",
+    "date":"1950\u201353",
+    "year_start":"1950",
+    "year_end":"1953",
+    "year_acquired":"1964",
+    "decade":"1950",
+    "woe:country":"23424977",
+    "medium":"Medium: linen and cotton\nTechnique: embroidered on plain weave foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 164 x 130 cm (64 9\/16 x 51 3\/16 in.)",
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":"Grey-green linen embroidered with yarns, cords and couched tape, in white and shades of  yellow, green and orange.",
+    "justification":null,
+    "type":{
+        "id":"35257233",
+        "name":"Hanging"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6324_a20047ff400b1b45_b.jpg",
+                "width":786,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6324_a20047ff400b1b45_n.jpg",
+                "width":246,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6324_a20047ff400b1b45_z.jpg",
+                "width":491,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18045635",
+            "role_id":"35236565",
+            "person_name":"Mariska Karasz",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045635\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Hanging, \"Composition in Squares\", 1950\u201353.\n1950\u201353. Medium: linen and cotton\nTechnique: embroidered on plain weave foundation. Gift of Elizabeth Gordon. 1964-24-36."
+    },
+    "colors":[
+        {
+            "color":"#5d4126",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#826f5f",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#c9ac6c",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#ac6f26",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#5d5247",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

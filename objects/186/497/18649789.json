@@ -1,0 +1,65 @@
+{
+    "id":"18649789",
+    "tms:id":"199811",
+    "accession_number":"1995-101-2",
+    "title":"Sample, 1981\u201383",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649789\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367167",
+    "type_id":"35268079",
+    "date":"1981\u201383",
+    "year_start":"1981",
+    "year_end":"1983",
+    "year_acquired":"1995",
+    "decade":"1980",
+    "woe:country":"23424853",
+    "medium":"printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 20 x 43 cm (7 7\/8 x 16 15\/16 in.)",
+    "creditline":"Gift of Natalie du Pasquier",
+    "description":"Red with stylized trees, cows, birds and plants in purple, white, turquoise, black, yellow and green.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041739",
+            "role_id":"35351535",
+            "person_name":"Natalie Du Pasquier",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041739\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18045919",
+            "role_id":"35236671",
+            "person_name":"Rainbow",
+            "role_name":"Producer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045919\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236671\/"
+        },
+        {
+            "person_id":"18041739",
+            "role_id":"35236655",
+            "person_name":"Natalie Du Pasquier",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041739\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sample, 1981\u201383.\n1981\u201383. printed. Gift of Natalie du Pasquier. 1995-101-2."
+    },
+    "colors":[
+
+    ]
+}

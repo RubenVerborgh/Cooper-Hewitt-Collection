@@ -1,0 +1,42 @@
+{
+    "id":"18490411",
+    "tms:id":"156083",
+    "accession_number":"1976-12-1",
+    "title":"Towel",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490411\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35283283",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"GIft of Dundee Mills",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35283283",
+        "name":"Towel"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Towel.\nGIft of Dundee Mills. 1976-12-1."
+    },
+    "colors":[
+
+    ]
+}

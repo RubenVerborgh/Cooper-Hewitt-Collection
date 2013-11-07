@@ -1,0 +1,42 @@
+{
+    "id":"18175579",
+    "tms:id":"19117",
+    "accession_number":"1912-13-18",
+    "title":"Textile",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18175579\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35418529",
+    "type_id":"35251739",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1912",
+    "decade":null,
+    "woe:country":null,
+    "medium":"embroidery, silk foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Edward Luckemeyer",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile.\nembroidery, silk foundation. Gift of Mrs. Edward Luckemeyer. 1912-13-18."
+    },
+    "colors":[
+
+    ]
+}

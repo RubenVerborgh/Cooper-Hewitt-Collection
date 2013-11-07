@@ -1,0 +1,111 @@
+{
+    "id":"18706745",
+    "tms:id":"229208",
+    "accession_number":"2006-17-1",
+    "title":"Side Chair, \"Sandows No. 5\", 1929",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18706745\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402367",
+    "type_id":"35237951",
+    "date":"1929",
+    "year_start":"1929",
+    "year_end":"1929",
+    "year_acquired":"2006",
+    "decade":"1920",
+    "woe:country":"23424819",
+    "medium":"Chromium-plated tubular steel, fiber, rubber",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Galerie Maria de Beyrie (from Sotheby's)",
+    "dimensions":"H x W x D: 78.5 x 42.5 x 48 cm (30 7\/8 x 16 3\/4 x 18 7\/8 in.)",
+    "creditline":"Museum purchase through gift of Esme Usdan and from General Acquisitions Endowment Fund",
+    "description":"Side chair consisting of tubular chromed metal frame, the back and seat with 30 horizontal ivory-colored elasticized bands attached to frame with metal wire hooks.  Second generation (from original source).",
+    "justification":null,
+    "type":{
+        "id":"35237951",
+        "name":"side chair"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24073_5fd3a562dc644266_b.jpg",
+                "width":768,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24073_5fd3a562dc644266_n.jpg",
+                "width":240,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24073_5fd3a562dc644266_z.jpg",
+                "width":480,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24074_31d46fa275d15b2b_b.jpg",
+                "width":768,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24074_31d46fa275d15b2b_n.jpg",
+                "width":240,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24074_31d46fa275d15b2b_z.jpg",
+                "width":480,
+                "height":640,
+                "is_primary":"0"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24072_017cfbd92ed7a14b_b.jpg",
+                "width":768,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24072_017cfbd92ed7a14b_n.jpg",
+                "width":240,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24072_017cfbd92ed7a14b_z.jpg",
+                "width":480,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18047407",
+            "role_id":"35352249",
+            "person_name":"Sotheby's",
+            "role_name":"Vendor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047407\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Side Chair, \"Sandows No. 5\", 1929.\n1929. Chromium-plated tubular steel, fiber, rubber. Museum purchase through gift of Esme Usdan and from General Acquisitions Endowment Fund. 2006-17-1."
+    },
+    "colors":[
+        {
+            "color":"#4c4d51",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

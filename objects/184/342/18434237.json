@@ -1,0 +1,75 @@
+{
+    "id":"18434237",
+    "tms:id":"127538",
+    "accession_number":"1960-55-1",
+    "title":"Textile, 1760\u201380",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18434237\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"1760\u201380",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1960",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation\nLabel: cotton, printed by engraved copper plate",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 200 x 70.2 cm (78 3\/4 x 27 5\/8 in.)\nRepeat H: 87.9 cm (34 5\/8 in.)",
+    "creditline":"Museum purchase from Au Panier Fleuri Fund",
+    "description":"Length of printed cotton with a large scale design of curving bamboo-like stems with pineapples and feathers as foliage, in blue on a white ground.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38708_6e2c6a234a401585_b.jpg",
+                "width":580,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38708_6e2c6a234a401585_n.jpg",
+                "width":181,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38708_6e2c6a234a401585_z.jpg",
+                "width":362,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18045419",
+            "role_id":"35236657",
+            "person_name":"Bromley Hall",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045419\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 1760\u201380.\n1760\u201380. Medium: cotton\nTechnique: printed by engraved copper plate on plain weave foundation\nLabel: cotton, printed by engraved copper plate. Museum purchase from Au Panier Fleuri Fund. 1960-55-1."
+    },
+    "colors":[
+        {
+            "color":"#81888b",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#555f6b",
+            "closest_css3":"#696969"
+        }
+    ]
+}

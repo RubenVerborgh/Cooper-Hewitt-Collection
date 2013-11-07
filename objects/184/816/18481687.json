@@ -1,0 +1,42 @@
+{
+    "id":"18481687",
+    "tms:id":"151699",
+    "accession_number":"1973-51-127",
+    "title":"Border, ca. 1800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481687\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35237285",
+    "date":"ca. 1800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: cotton\nTechnique: plain weave foundation.  Madder colors are block-printed.  Other colors applied by brush.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Jacques Martin scrapbook",
+    "dimensions":"Warp x Weft: 58.5 x 17 cm (23 1\/16 x 6 11\/16 in.)\nRepeat H: 27.3 cm (10 3\/4 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Massed flowers in bright colors on a drab background.",
+    "justification":null,
+    "type":{
+        "id":"35237285",
+        "name":"Border"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Border, ca. 1800.\nca. 1800. Medium: cotton\nTechnique: plain weave foundation.  Madder colors are block-printed.  Other colors applied by brush.. Gift of Josephine Howell. 1973-51-127."
+    },
+    "colors":[
+
+    ]
+}

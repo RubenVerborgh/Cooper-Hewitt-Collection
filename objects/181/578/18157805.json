@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "16007", 
+  "images": [], 
+  "id": "18157805", 
+  "decade": null, 
+  "dimensions": "H x diam.: 2 x 3.8 cm (13/16 x 1 1/2 in.)", 
+  "title": "Box, 1908-23-26", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver", 
+  "description": null, 
+  "creditline": "Bequest of Katherine Strong Welman", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18157805/", 
+  "type": {
+    "id": "35236855", 
+    "name": "Box"
+  }, 
+  "accession_number": "1908-23-26", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1908"
+}

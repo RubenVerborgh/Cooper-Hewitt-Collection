@@ -1,0 +1,42 @@
+{
+    "id":"18445305",
+    "tms:id":"133144",
+    "accession_number":"1962-54-62",
+    "title":"Man's Coat",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445305\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421029",
+    "type_id":"35270705",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Velvet, uncut",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Man's coat",
+    "justification":null,
+    "type":{
+        "id":"35270705",
+        "name":"Man's coat"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Man's Coat.\nVelvet, uncut. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-54-62."
+    },
+    "colors":[
+
+    ]
+}

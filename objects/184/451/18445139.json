@@ -1,0 +1,80 @@
+{
+    "id":"18445139",
+    "tms:id":"133061",
+    "accession_number":"1962-52-32",
+    "title":"Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445139\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394323",
+    "type_id":"35254623",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: silk, metallic thread\nTechnique: embroidery on damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 29 x 48 cm (11 7\/16 x 18 7\/8 in.)",
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Cream-white damask embroidered with silk and metallic thread in a fantastic design of animals, insects and flowers.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34870_dcccc2ff85c24cb3_b.jpg",
+                "width":1024,
+                "height":659,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34870_dcccc2ff85c24cb3_n.jpg",
+                "width":320,
+                "height":206,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34870_dcccc2ff85c24cb3_z.jpg",
+                "width":640,
+                "height":412,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk, metallic thread\nTechnique: embroidery on damask. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-52-32."
+    },
+    "colors":[
+        {
+            "color":"#97a09d",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#303632",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#9a7858",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#624430",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#5f554e",
+            "closest_css3":"#696969"
+        }
+    ]
+}

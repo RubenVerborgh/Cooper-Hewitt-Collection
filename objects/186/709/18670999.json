@@ -1,0 +1,80 @@
+{
+    "id":"18670999",
+    "tms:id":"210931",
+    "accession_number":"1995-50-341",
+    "title":"Bedcover, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18670999\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35384431",
+    "type_id":"35282877",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1995",
+    "decade":null,
+    "woe:country":"23424900",
+    "medium":"Medium: cotton foundation, wool, silk, metal-wrapped silk sequins, glass beads and metal coils\nTechnique: embroidery in stem, satin and chain stitches on 1\\2 twill",
+    "markings":"Label sewn to back of lower right corner  on which is written in faded ink, \"Drawing Room Portiere Side Door\".",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 257 x 193 cm (8 ft. 5 3\/16 in. x 6 ft. 4 in.)",
+    "creditline":"Bequest of Elinor Merrell",
+    "description":"Design: Border on all four sides of fan-like shapes alternate with sprays of flowers. In the center a circle containing a figure holding a bow, wearing a sheath of arrows and carrying a spear. Embroidery losses in this area. Central circle is surrounded with a floral wreath. Floral sprays coming in diagonally from each corner. Isolated birds and floral sprigs on the field. Piece is surrounded with a woven fringe where the wefts have been braided into deep triangles. Colored silk has been tied to the crossings of the braids.",
+    "justification":null,
+    "type":{
+        "id":"35282877",
+        "name":"Bedcover"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12690_deeb4bfb6313ef46_b.jpg",
+                "width":762,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12690_deeb4bfb6313ef46_n.jpg",
+                "width":238,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12690_deeb4bfb6313ef46_z.jpg",
+                "width":476,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bedcover, 18th century.\n18th century. Medium: cotton foundation, wool, silk, metal-wrapped silk sequins, glass beads and metal coils\nTechnique: embroidery in stem, satin and chain stitches on 1\\2 twill. Bequest of Elinor Merrell. 1995-50-341."
+    },
+    "colors":[
+        {
+            "color":"#e3d3c8",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#c2b8bd",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#9b8f93",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#2e353f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#b38e81",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

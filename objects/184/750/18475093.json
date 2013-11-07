@@ -1,0 +1,42 @@
+{
+    "id":"18475093",
+    "tms:id":"148309",
+    "accession_number":"1971-51-1",
+    "title":"Hair Ornament",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475093\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35259575",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 12.3 x 9.2 x 0.2 cm (4 13\/16 x 3 5\/8 x 1\/16 in.)",
+    "creditline":"Gift of Mrs. William Randolph Hearst, Jr.",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35259575",
+        "name":"Hair ornament"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Hair Ornament.\nH x W x D: 12.3 x 9.2 x 0.2 cm (4 13\/16 x 3 5\/8 x 1\/16 in.). Gift of Mrs. William Randolph Hearst, Jr.. 1971-51-1."
+    },
+    "colors":[
+
+    ]
+}

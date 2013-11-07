@@ -1,0 +1,42 @@
+{
+    "id":"18489029",
+    "tms:id":"155383",
+    "accession_number":"1975-85-4-b",
+    "title":"Textile, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489029\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367167",
+    "type_id":"35251739",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1975",
+    "decade":null,
+    "woe:country":null,
+    "medium":"printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Lincoln Johnson",
+    "description":"One of seven pages from a printed fabric sample book. Page is double-sided.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 19th century.\n19th century. printed. Gift of Mrs. Lincoln Johnson. 1975-85-4-b."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id":"18174989",
+    "tms:id":"19028",
+    "accession_number":"1912-12-29",
+    "title":"Drawing, \"Beach with Four Fishing Boats, Cullercoats, England\", 1881\u201382",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18174989\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35418301",
+    "type_id":"35237093",
+    "date":"1881\u201382",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1912",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Graphite on gray-green paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 9.7 x 34.2 cm (3 13\/16 x 13 7\/16 in.)",
+    "creditline":"Gift of Charles Savage Homer, Jr.",
+    "description":"Horizontal view of a beach with four fishing boats drawn up, and groups of women with baskets looking across the water toward two fishing boats with sails.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47039_272950e04159bf88_b.jpg",
+                "width":1024,
+                "height":319,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47039_272950e04159bf88_n.jpg",
+                "width":320,
+                "height":100,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47039_272950e04159bf88_z.jpg",
+                "width":640,
+                "height":200,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041949",
+            "role_id":"35236565",
+            "person_name":"Winslow Homer",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Beach with Four Fishing Boats, Cullercoats, England\", 1881\u201382.\n1881\u201382. Graphite on gray-green paper. Gift of Charles Savage Homer, Jr.. 1912-12-29."
+    },
+    "colors":[
+        {
+            "color":"#7a735f",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#d9d4b9",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#c0bb7a",
+            "closest_css3":"#bdb76b"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id":"18452061",
+    "tms:id":"136558",
+    "accession_number":"1964-46-2-a,b",
+    "title":"Sidewall, \"John Jay Column\", 1963",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18452061\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1963",
+    "year_start":"1963",
+    "year_end":"1963",
+    "year_acquired":"1964",
+    "decade":"1960",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"83 x 76 cm (32 11\/16 x 29 15\/16 in.)",
+    "creditline":"Gift of New York State Department of Education, University of New York",
+    "description":"Imbricated column, roses and leaves. Design is enlarged from 1964-46-1. a) Two shades of green on white; b) Red on glazed cream ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6371_3e81ac01ced22f11_b.jpg",
+                "width":1024,
+                "height":998,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6371_3e81ac01ced22f11_n.jpg",
+                "width":320,
+                "height":312,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6371_3e81ac01ced22f11_z.jpg",
+                "width":640,
+                "height":624,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18047159",
+            "role_id":"35236657",
+            "person_name":"William J. Galligan",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047159\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, \"John Jay Column\", 1963.\n1963. Machine-printed. Gift of New York State Department of Education, University of New York. 1964-46-2-a,b."
+    },
+    "colors":[
+        {
+            "color":"#884337",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#b8cabc",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#773041",
+            "closest_css3":"#a52a2a"
+        },
+        {
+            "color":"#743e1b",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#b8ccda",
+            "closest_css3":"#b0c4de"
+        }
+    ]
+}

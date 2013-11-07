@@ -1,0 +1,42 @@
+{
+    "id":"18494055",
+    "tms:id":"157918",
+    "accession_number":"1978-146-116",
+    "title":"Matchsafe, \"Valise-shaped matchsafe\", 1877",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18494055\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389463",
+    "type_id":"35287419",
+    "date":"1877",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1978",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Silver",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 4.1 x 2.9 x 1.2 cm (1 5\/8 x 1 1\/8 x 1\/2 in.)",
+    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287419",
+        "name":"Matchsafe"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Matchsafe, \"Valise-shaped matchsafe\", 1877.\n1877. Silver. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-116."
+    },
+    "colors":[
+
+    ]
+}

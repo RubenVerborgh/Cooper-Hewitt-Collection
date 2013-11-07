@@ -1,0 +1,100 @@
+{
+    "id":"18474093",
+    "tms:id":"147806",
+    "accession_number":"1971-50-155",
+    "title":"Sampler, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474093\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112617",
+    "type_id":"35256439",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424900",
+    "medium":"Technique: embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 46.7 x 26 cm (18 3\/8 x 10 1\/4 in.)",
+    "creditline":"Bequest of Marian Hague",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35256439",
+        "name":"Sampler"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45921_71d8e2926d03e6c7_b.jpg",
+                "width":582,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45921_71d8e2926d03e6c7_n.jpg",
+                "width":182,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45921_71d8e2926d03e6c7_z.jpg",
+                "width":364,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28558_70cbd8e16d98efe3_b.jpg",
+                "width":580,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28558_70cbd8e16d98efe3_n.jpg",
+                "width":181,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28558_70cbd8e16d98efe3_z.jpg",
+                "width":362,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sampler, 19th century.\n19th century. Technique: embroidered. Bequest of Marian Hague. 1971-50-155."
+    },
+    "colors":[
+        {
+            "color":"#333e4b",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a6433b",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#495d6b",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#8b8777",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#c57f61",
+            "closest_css3":"#cd853f"
+        }
+    ]
+}

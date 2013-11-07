@@ -1,0 +1,87 @@
+{
+    "id":"18130925",
+    "tms:id":"11608",
+    "accession_number":"1902-1-427-a,b",
+    "title":"Textile, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130925\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: cotton\nTechnique: pile formed by supplementary wefts in a plain weave foundation with stamping (embossed velveteen)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 46.2 x 60.5 cm (18 3\/16 x 23 13\/16 in.)",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Radiating feather on a field of scrolls. Brownish yellow color.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36112_f344a4d88bcc6f80_b.jpg",
+                "width":1024,
+                "height":797,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36112_f344a4d88bcc6f80_n.jpg",
+                "width":320,
+                "height":249,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36112_f344a4d88bcc6f80_z.jpg",
+                "width":640,
+                "height":498,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 19th century.\n19th century. Medium: cotton\nTechnique: pile formed by supplementary wefts in a plain weave foundation with stamping (embossed velveteen). Gift of John Pierpont Morgan. 1902-1-427-a,b."
+    },
+    "colors":[
+        {
+            "color":"#f5b859",
+            "closest_css3":"#f4a460"
+        },
+        {
+            "color":"#ab6a03",
+            "closest_css3":"#b8860b"
+        },
+        {
+            "color":"#7f7f87",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#626a62",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#776a4a",
+            "closest_css3":"#696969"
+        }
+    ]
+}

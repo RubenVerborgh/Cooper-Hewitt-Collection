@@ -1,0 +1,42 @@
+{
+    "id":"18493209",
+    "tms:id":"157493",
+    "accession_number":"1977-75-8",
+    "title":"Commemorative Ribbon",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18493209\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35287953",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1977",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Susanna Ebendorf",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287953",
+        "name":"Commemorative ribbon"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Commemorative Ribbon.\nGift of Susanna Ebendorf. 1977-75-8."
+    },
+    "colors":[
+
+    ]
+}

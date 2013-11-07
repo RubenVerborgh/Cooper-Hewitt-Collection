@@ -1,0 +1,42 @@
+{
+    "id":"18187995",
+    "tms:id":"21180",
+    "accession_number":"1916-29-67",
+    "title":"Cameo",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18187995\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35367577",
+    "type_id":"35237143",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1916",
+    "decade":null,
+    "woe:country":null,
+    "medium":"stone",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 2.7 x 1.9 x 1 cm (1 1\/16 x 3\/4 x 3\/8 in.)",
+    "creditline":"Gift of Georgina and Louisa L. Schuyler",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237143",
+        "name":"Cameo"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Cameo.\nstone. Gift of Georgina and Louisa L. Schuyler. 1916-29-67."
+    },
+    "colors":[
+
+    ]
+}

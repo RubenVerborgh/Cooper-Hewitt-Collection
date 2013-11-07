@@ -1,0 +1,95 @@
+{
+    "id":"18728721",
+    "tms:id":"240361",
+    "accession_number":"2008-42-15",
+    "title":"Plate, 1925",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18728721\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35420853",
+    "type_id":"35236833",
+    "date":"1925",
+    "year_start":"1925",
+    "year_end":"1925",
+    "year_acquired":"2008",
+    "decade":"1920",
+    "woe:country":"23424853",
+    "medium":"Glazed and gilded porcelain",
+    "markings":"On underside:  In an overglaze gold shield below the word ITALIA \"Richard-Ginori\/Pittoria\/Di Doccia\/1925\"; underglaze \"Ginori\" with a star (partial) in green; \"G\u00cc\u00d6PONT\u00cc\" and 1925 between two outwarde facing arrows, in overglaze gold.",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 3.8 x 23.5 cm (1 1\/2 x 9 1\/4 in.)",
+    "creditline":"Gift of the Estate of Edgar Sachs, from the Collection of Hilda G. and Edgar Sachs",
+    "description":"Circular form; white ground glazed in pink and gray with gilding; image of woman dressed in strapless pink gown, standing on one foot in a yoga-like pose, behind miniature architectural arch and an urn, and holding tray with goblet and bread in her right hand, a flower in her left.",
+    "justification":null,
+    "type":{
+        "id":"35236833",
+        "name":"plate"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47443_8ddadb05b8851a75_b.jpg",
+                "width":1024,
+                "height":966,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47443_8ddadb05b8851a75_n.jpg",
+                "width":320,
+                "height":302,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47443_8ddadb05b8851a75_z.jpg",
+                "width":640,
+                "height":604,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18050711",
+            "role_id":"35236657",
+            "person_name":"Richard-Ginori",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050711\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18050709",
+            "role_id":"35236655",
+            "person_name":"Gio Ponti",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050709\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Plate, 1925.\n1925. Glazed and gilded porcelain. Gift of the Estate of Edgar Sachs, from the Collection of Hilda G. and Edgar Sachs. 2008-42-15."
+    },
+    "colors":[
+        {
+            "color":"#a05b87",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#b9955c",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#724759",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#916c61",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#c8bdaa",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

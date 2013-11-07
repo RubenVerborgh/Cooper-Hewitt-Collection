@@ -1,0 +1,42 @@
+{
+    "id":"18563341",
+    "tms:id":"74873",
+    "accession_number":"1941-34-10",
+    "title":"Picture",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563341\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367167",
+    "type_id":"35270021",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1941",
+    "decade":null,
+    "woe:country":null,
+    "medium":"printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. DeWitt Clinton Cohen",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35270021",
+        "name":"Picture"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Picture.\nprinted. Gift of Mr. and Mrs. DeWitt Clinton Cohen. 1941-34-10."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18719169",
+    "tms:id":"235494",
+    "accession_number":"1991-81-1194",
+    "title":"Bathroom Model",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18719169\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35407337",
+    "type_id":"35305301",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1991",
+    "decade":null,
+    "woe:country":null,
+    "medium":"plastic, wood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of David and Gregory Wallance",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35305301",
+        "name":"Bathroom model"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bathroom Model.\nplastic, wood. Gift of David and Gregory Wallance. 1991-81-1194."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18715449",
+    "tms:id":"233627",
+    "accession_number":"2008-18-3",
+    "title":"English Stoneware, \"\"Bacchnalian\"\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18715449\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402703",
+    "type_id":"35304785",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2008",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Ceramic",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Stephen Parks",
+    "description":"\"Bacchanalian\" Jug, after Nicholas Poussin (in National Gallery)",
+    "justification":null,
+    "type":{
+        "id":"35304785",
+        "name":"English Stoneware"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"English Stoneware, \"\"Bacchnalian\"\".\nCeramic. Gift of Stephen Parks. 2008-18-3."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18489027",
+    "tms:id":"155382",
+    "accession_number":"1975-85-4-a",
+    "title":"Textile, ca. 1860",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489027\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402849",
+    "type_id":"35251739",
+    "date":"ca. 1860",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1975",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: wool\nTechnique: block printed on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Lincoln Johnson",
+    "description":"One of seven pages from a printed fabric sample book. Page is double-sided.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1860.\nca. 1860. Medium: wool\nTechnique: block printed on plain weave. Gift of Mrs. Lincoln Johnson. 1975-85-4-a."
+    },
+    "colors":[
+
+    ]
+}

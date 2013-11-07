@@ -1,0 +1,80 @@
+{
+    "id":"18210227",
+    "tms:id":"24927",
+    "accession_number":"1920-19-27",
+    "title":"Purse, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18210227\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35392435",
+    "type_id":"35264073",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1920",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, steel frame\nTechnique: satin with tambour stitch embroidery",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. John Innes Kane",
+    "description":"Steel-framed purse in red quilted satin embroidered on the border with a curlicue design in light gray. Two compartments inside and silk lining.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36505_9d1c8b66c14acc44_b.jpg",
+                "width":822,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36505_9d1c8b66c14acc44_n.jpg",
+                "width":257,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/36505_9d1c8b66c14acc44_z.jpg",
+                "width":513,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 19th century.\n19th century. Medium: silk, steel frame\nTechnique: satin with tambour stitch embroidery. Gift of Mrs. John Innes Kane. 1920-19-27."
+    },
+    "colors":[
+        {
+            "color":"#9a3a45",
+            "closest_css3":"#a52a2a"
+        },
+        {
+            "color":"#ba976f",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#d2be94",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#642621",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#a5446e",
+            "closest_css3":"#cd5c5c"
+        }
+    ]
+}

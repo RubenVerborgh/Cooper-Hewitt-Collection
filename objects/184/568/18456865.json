@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "138991", 
+  "images": [], 
+  "id": "18456865", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Viewer, 1967-45-161-a/e", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": null, 
+  "description": null, 
+  "creditline": "Gift of Anonymous Donor", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18456865/", 
+  "type": {
+    "id": "35291031", 
+    "name": "viewer"
+  }, 
+  "accession_number": "1967-45-161-a/e", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1967"
+}

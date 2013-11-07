@@ -1,0 +1,80 @@
+{
+    "id":"18643323",
+    "tms:id":"196528",
+    "accession_number":"1993-121-29-a,b",
+    "title":"Textile",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643323\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"143989",
+    "type_id":"35251739",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Technique: machine woven damask-like twill",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft (a): 188 x 115.6 cm (6 ft. 2 in. x 45 1\/2 in.)\nWarp x Weft (b): 180.3 x 115.6 cm (5 ft. 11 in. x 45 1\/2 in.)",
+    "creditline":"Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
+    "description":"Woven with tan warp and green and rust wefts.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38444_103341be846ca6ef_b.jpg",
+                "width":1024,
+                "height":655,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38444_103341be846ca6ef_n.jpg",
+                "width":320,
+                "height":205,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38444_103341be846ca6ef_z.jpg",
+                "width":640,
+                "height":410,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile.\nTechnique: machine woven damask-like twill. Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-29-a,b."
+    },
+    "colors":[
+        {
+            "color":"#8a7d47",
+            "closest_css3":"#6b8e23"
+        },
+        {
+            "color":"#b29e84",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#b67043",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#efdcb7",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#ccc2b6",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

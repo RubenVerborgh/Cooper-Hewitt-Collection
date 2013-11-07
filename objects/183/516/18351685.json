@@ -1,0 +1,80 @@
+{
+    "id":"18351685",
+    "tms:id":"59321",
+    "accession_number":"1938-58-1138",
+    "title":"Trimming, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18351685\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254635",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: silk",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Norvin Hewitt Green",
+    "description":"Woven heading with loops and tassels.",
+    "justification":null,
+    "type":{
+        "id":"35254635",
+        "name":"Trimming"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28664_ddd7f12e1c5584d3_b.jpg",
+                "width":1024,
+                "height":509,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28664_ddd7f12e1c5584d3_n.jpg",
+                "width":320,
+                "height":159,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28664_ddd7f12e1c5584d3_z.jpg",
+                "width":640,
+                "height":318,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Trimming, 19th century.\n19th century. Medium: silk. Gift of Norvin Hewitt Green. 1938-58-1138."
+    },
+    "colors":[
+        {
+            "color":"#a3988c",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#8798a5",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#6e6860",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#b0bbc3",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#6c797f",
+            "closest_css3":"#708090"
+        }
+    ]
+}

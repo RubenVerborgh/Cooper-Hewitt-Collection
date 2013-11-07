@@ -1,0 +1,42 @@
+{
+    "id":"18685657",
+    "tms:id":"218318",
+    "accession_number":"2000-68-91",
+    "title":"Program, 1936",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18685657\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35385317",
+    "type_id":"35293353",
+    "date":"1936",
+    "year_start":"1936",
+    "year_end":"1936",
+    "year_acquired":"2000",
+    "decade":"1930",
+    "woe:country":null,
+    "medium":"Letterpress and photo offset lithograph in silver and maroon ink on cream paper board; and blue ink on pink wove paper; mounted on grey-blue wove paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of James Howard Fraser",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35293353",
+        "name":"program"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Program, 1936.\n1936. Letterpress and photo offset lithograph in silver and maroon ink on cream paper board; and blue ink on pink wove paper; mounted on grey-blue wove paper. Gift of James Howard Fraser. 2000-68-91."
+    },
+    "colors":[
+
+    ]
+}

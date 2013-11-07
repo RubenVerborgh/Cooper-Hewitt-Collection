@@ -1,0 +1,42 @@
+{
+    "id":"18643199",
+    "tms:id":"196464",
+    "accession_number":"1993-120-1",
+    "title":"Carpet, ca. 1920\u201330",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643199\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402849",
+    "type_id":"35289007",
+    "date":"ca. 1920\u201330",
+    "year_start":null,
+    "year_end":"1935",
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":"23424909",
+    "medium":"Medium: wool\nTechnique: Machine woven.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 227 x 131 cm (7 ft. 5 3\/8 in. x 51 9\/16 in.)",
+    "creditline":"Gift of Justin G. Schiller",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35289007",
+        "name":"Carpet"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Carpet, ca. 1920\u201330.\nca. 1920\u201330. Medium: wool\nTechnique: Machine woven.. Gift of Justin G. Schiller. 1993-120-1."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "101008", 
+  "images": [], 
+  "id": "18381771", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Dish, 1949-19-22", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver", 
+  "description": null, 
+  "creditline": "Gift of Anonymous Donor", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18381771/", 
+  "type": {
+    "id": "35248735", 
+    "name": "dish"
+  }, 
+  "accession_number": "1949-19-22", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1949"
+}

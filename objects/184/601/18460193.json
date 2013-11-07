@@ -1,0 +1,42 @@
+{
+    "id":"18460193",
+    "tms:id":"140680",
+    "accession_number":"1968-1-22",
+    "title":"Vase",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460193\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35421753",
+    "type_id":"35237225",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1968",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"glass (painted)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 10.9 x 9.2 cm (4 5\/16 x 3 5\/8 in.)",
+    "creditline":"Gift of J. Lionberger Davis",
+    "description":"Translucent glass vase, pale, slightly greenish blue. On out-flaring rim of foot, bulbous body, narrowing to long wide neck with slightly out- flaring lip. Decorated with bandings, linear patterns, dots, in gold and lavender-gray.",
+    "justification":null,
+    "type":{
+        "id":"35237225",
+        "name":"Vase"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Vase.\nglass (painted). Gift of J. Lionberger Davis. 1968-1-22."
+    },
+    "colors":[
+
+    ]
+}

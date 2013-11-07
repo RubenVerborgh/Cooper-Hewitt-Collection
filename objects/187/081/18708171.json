@@ -1,0 +1,80 @@
+{
+    "id":"18708171",
+    "tms:id":"229939",
+    "accession_number":"2007-27-42",
+    "title":"Drawing, \"The Library at Dingestow\", 1840s",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18708171\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35387951",
+    "type_id":"35237093",
+    "date":"1840s",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2007",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Brush and watercolor, pen and black ink over graphite on paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Eugene V. Thaw Collection; Stephen Long, Fullham Road, London",
+    "dimensions":"Frame H x W x D: 39.7 x 50.2 x 2.5 cm (15 5\/8 x 19 3\/4 x 1 in.)\nSheet: 19.5 x 27.4 cm (7 11\/16 x 10 13\/16 in.)",
+    "creditline":"Thaw Collection",
+    "description":"In this view of the library at Dingestow, bookshelves, enclosed by square Corinthian columns and pilasters, line the walls. The frieze with classical busts above the shelves, panelled overmantel and tracery ceiling are inspired by the English Renaissance style of Henry VIII. The seating, slipcovered in red-and-white striped fabric, evokes a comfortable Victorian setting.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/25768_0f019bbc65097aa2_b.jpg",
+                "width":1024,
+                "height":750,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/25768_0f019bbc65097aa2_n.jpg",
+                "width":320,
+                "height":234,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/25768_0f019bbc65097aa2_z.jpg",
+                "width":640,
+                "height":469,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"The Library at Dingestow\", 1840s.\n1840s. Brush and watercolor, pen and black ink over graphite on paper. Thaw Collection. 2007-27-42."
+    },
+    "colors":[
+        {
+            "color":"#ba9973",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#896a4b",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#544339",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#988b79",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#716a64",
+            "closest_css3":"#696969"
+        }
+    ]
+}

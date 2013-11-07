@@ -1,0 +1,79 @@
+{
+    "id":"18357091",
+    "tms:id":"61972",
+    "accession_number":"1938-88-168",
+    "title":"Drawing, \"Set Design showing Fantasy of Rome with the Castel Sant 'Angelo, the Ponte Elio and the Centaurs Aristens and Pappias\", ca. 1740",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18357091\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35375243",
+    "type_id":"35237093",
+    "date":"ca. 1740",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Pen and brown ink, brush and brown and gray watercolor on white laid paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Inscribed in graphite on verso: P 19 \/ upper",
+    "provenance":"Giovanni Piancastelli; Mr. and Mrs. Edward D. Brandegee",
+    "dimensions":"32 x 48.2cm (12 5\/8 x 19in.)\nMat: 55.9 x 71.1 cm (22 x 28 in.)",
+    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description":"Palaces with porticoes and colonnades at left. Statues of two centaurs placed on plinths flank a low stair. At center, a tall obelisk stands with Castel Sant'Angelo behind and the Ponte Elio in the distance. Another palace, decorated with statues and a flower filled vase is at right.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19619_5cfddd359ef5cd0b_b.jpg",
+                "width":1024,
+                "height":698,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19619_5cfddd359ef5cd0b_n.jpg",
+                "width":320,
+                "height":218,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19619_5cfddd359ef5cd0b_z.jpg",
+                "width":640,
+                "height":436,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18057171",
+            "role_id":"35236565",
+            "person_name":"Unknown",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18057171\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Set Design showing Fantasy of Rome with the Castel Sant 'Angelo, the Ponte Elio and the Centaurs Aristens and Pappias\", ca. 1740.\nca. 1740. Pen and brown ink, brush and brown and gray watercolor on white laid paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-168."
+    },
+    "colors":[
+        {
+            "color":"#c7b299",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#887864",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#564a3f",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18489039",
+    "tms:id":"155388",
+    "accession_number":"1975-85-4-g",
+    "title":"Textile, ca. 1860",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489039\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402849",
+    "type_id":"35251739",
+    "date":"ca. 1860",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1975",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: wool\nTechnique: block printed on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 28.6 x 45.4 cm (11 1\/4 x 17 7\/8 in.)",
+    "creditline":"Gift of Mrs. Lincoln Johnson",
+    "description":"One of seven pages from a printed fabric sample book has a bright purple ground with horizontal garlands of plaid ribbon and bunches of pink roses and small orange flowers.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8069_7984e7b03aecce4b_b.jpg",
+                "width":1024,
+                "height":638,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8069_7984e7b03aecce4b_n.jpg",
+                "width":320,
+                "height":199,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8069_7984e7b03aecce4b_z.jpg",
+                "width":640,
+                "height":399,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1860.\nca. 1860. Medium: wool\nTechnique: block printed on plain weave. Gift of Mrs. Lincoln Johnson. 1975-85-4-g."
+    },
+    "colors":[
+        {
+            "color":"#a142ac",
+            "closest_css3":"#9932cc"
+        },
+        {
+            "color":"#762527",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#3b4144",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#5c5f52",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#b8ab8c",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

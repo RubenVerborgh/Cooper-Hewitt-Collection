@@ -1,0 +1,100 @@
+{
+    "id":"18429505",
+    "tms:id":"125141",
+    "accession_number":"1960-1-12",
+    "title":"Sundial And Compass, \"Portable equatorial sundial\", 1748",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18429505\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"51586365",
+    "type_id":"51551277",
+    "date":"1748",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1960",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"Gilt brass, steel",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Engraved signature, city and date: \"J. E. L. Augspurge. 48\", on back of compass.",
+    "provenance":"James Hazen Hyde; 1960: acquired by the Museum",
+    "dimensions":"H x W x D: 2 x 6.4 x 6 cm (13\/16 x 2 1\/2 x 2 3\/8 in.)",
+    "creditline":"Gift of the Estate of James Hazen Hyde",
+    "description":"Scrolled square frame with animal allegories of the Four Continents: camel, horse, lion and monkey; hinged quadrant, hour circle with gnomon and pendulum; in center, recessed circular box with compass needle, the face engraved with mermaid and triton; set on three adjustable legs.",
+    "justification":null,
+    "type":{
+        "id":"51551277",
+        "name":"Sundial and compass"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6086_4271d90f0ec4ce8c_b.jpg",
+                "width":995,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6086_4271d90f0ec4ce8c_n.jpg",
+                "width":311,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6086_4271d90f0ec4ce8c_z.jpg",
+                "width":622,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6085_b5588aa284205f59_b.jpg",
+                "width":1024,
+                "height":996,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6085_b5588aa284205f59_n.jpg",
+                "width":320,
+                "height":311,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6085_b5588aa284205f59_z.jpg",
+                "width":640,
+                "height":623,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sundial And Compass, \"Portable equatorial sundial\", 1748.\n1748. Gilt brass, steel. Gift of the Estate of James Hazen Hyde. 1960-1-12."
+    },
+    "colors":[
+        {
+            "color":"#434154",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#59331d",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#fafbaf",
+            "closest_css3":"#eee8aa"
+        },
+        {
+            "color":"#28212f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#9c5c30",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

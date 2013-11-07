@@ -1,0 +1,42 @@
+{
+    "id":"18188185",
+    "tms:id":"21276",
+    "accession_number":"1916-33-101",
+    "title":"Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188185\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35518793",
+    "type_id":"35254623",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1916",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk; vegetable fiber\nTechnique: painted and printed on fancy gauze weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 124.5 x 73.2 cm (49 in. x 28 13\/16 in.)",
+    "creditline":"Gift of Mrs. William P. Treadwell",
+    "description":"Sheer scarf of fancy gauze weave; white with tiny all-over painted flowers; warp of some vegetable fibre-weft of silk. One tuck near hem.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk; vegetable fiber\nTechnique: painted and printed on fancy gauze weave. Gift of Mrs. William P. Treadwell. 1916-33-101."
+    },
+    "colors":[
+
+    ]
+}

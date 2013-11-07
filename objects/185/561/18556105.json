@@ -1,0 +1,80 @@
+{
+    "id":"18556105",
+    "tms:id":"70701",
+    "accession_number":"1939-17-5",
+    "title":"Sample Book, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556105\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35426571",
+    "type_id":"35247403",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1939",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Medium: silk samples, paper book\nTechnique: stencil-resist dyed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 19 x 26 cm (7 1\/2 x 10 1\/4 in.)",
+    "creditline":"Gift of Rowland Burdon-Muller",
+    "description":"Twenty-four double leaves, uncut, on the outer pages of which are mounted rectangles of silk with stencil-resist patterns, six to a page. First leaf marbled in red, blue and gray and inscribed. Patterns labeled in Japanese. Impressed cardboard cover, green silk thread binding.",
+    "justification":null,
+    "type":{
+        "id":"35247403",
+        "name":"sample book"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3912_5bf7914cc15f2ec6_b.jpg",
+                "width":1024,
+                "height":760,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3912_5bf7914cc15f2ec6_n.jpg",
+                "width":320,
+                "height":238,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3912_5bf7914cc15f2ec6_z.jpg",
+                "width":640,
+                "height":475,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample Book, 19th century.\n19th century. Medium: silk samples, paper book\nTechnique: stencil-resist dyed. Gift of Rowland Burdon-Muller. 1939-17-5."
+    },
+    "colors":[
+        {
+            "color":"#544f59",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#636782",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#627585",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#8b93a7",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#d5f6f6",
+            "closest_css3":"#e0ffff"
+        }
+    ]
+}

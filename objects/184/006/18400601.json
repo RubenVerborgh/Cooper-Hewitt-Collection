@@ -1,0 +1,80 @@
+{
+    "id":"18400601",
+    "tms:id":"110478",
+    "accession_number":"1954-168-2",
+    "title":"Scenic, 1795\u20131825",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18400601\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35406971",
+    "type_id":"35288575",
+    "date":"1795\u20131825",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1954",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Hand painted on handmade paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"282 x 92.5 cm (111 x 36 7\/16 in. )",
+    "creditline":"Gift of John Judkyn in memory of his mother, Florence Judkyn",
+    "description":"Blue-gray sky background. Different varieties of flowering trees and plants with either white or pink blossoms. A perching owl and multicolored bird. At bottom, on green ground, are rocks and two gray fowl.",
+    "justification":null,
+    "type":{
+        "id":"35288575",
+        "name":"Scenic"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/54157_342b0c445427d613_b.jpg",
+                "width":387,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/54157_342b0c445427d613_n.jpg",
+                "width":121,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/54157_342b0c445427d613_z.jpg",
+                "width":242,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Scenic, 1795\u20131825.\n1795\u20131825. Hand painted on handmade paper. Gift of John Judkyn in memory of his mother, Florence Judkyn. 1954-168-2."
+    },
+    "colors":[
+        {
+            "color":"#7b8b71",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#5a584c",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#757469",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#52714e",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#c3c1ae",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

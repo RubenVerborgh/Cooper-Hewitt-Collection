@@ -1,0 +1,72 @@
+{
+    "id":"18489867",
+    "tms:id":"155807",
+    "accession_number":"1976-103-202",
+    "title":"Stencil",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489867\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Helen Snyder",
+    "dimensions":null,
+    "creditline":"Gift of Helen Snyder",
+    "description":"Pattern of staggered rhomboids.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45134_836fdbc15c180304_b.jpg",
+                "width":1024,
+                "height":781,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45134_836fdbc15c180304_n.jpg",
+                "width":320,
+                "height":244,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45134_836fdbc15c180304_z.jpg",
+                "width":640,
+                "height":488,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-202."
+    },
+    "colors":[
+        {
+            "color":"#a98364",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#605241",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#d2c8c0",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

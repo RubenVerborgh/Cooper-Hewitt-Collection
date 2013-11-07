@@ -1,0 +1,42 @@
+{
+    "id":"18805665",
+    "tms:id":"183126",
+    "accession_number":"1985-83-1",
+    "title":"Handkerchief, 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18805665\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"140479",
+    "type_id":"35264069",
+    "date":"20th century",
+    "year_start":"1901",
+    "year_end":"2000",
+    "year_acquired":"1985",
+    "decade":"1900",
+    "woe:country":null,
+    "medium":"Technique: tenerife knotted lace",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Emily Finch",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35264069",
+        "name":"Handkerchief"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Handkerchief, 20th century.\n20th century. Technique: tenerife knotted lace. Gift of Emily Finch. 1985-83-1."
+    },
+    "colors":[
+
+    ]
+}

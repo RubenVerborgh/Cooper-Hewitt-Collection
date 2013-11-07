@@ -1,0 +1,80 @@
+{
+    "id":"18649451",
+    "tms:id":"199635",
+    "accession_number":"1994-80-27",
+    "title":"Textile, ca. 1790",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649451\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"145151",
+    "type_id":"35251739",
+    "date":"ca. 1790",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1994",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Technique: block-printed with resist paste on plain weave foundation. Immersion dyed in indigo vat.",
+    "markings":null,
+    "signed":null,
+    "inscribed":"On back of fabric: \" BLANC TEINTE LES DRAPS ET INDIENNE EN TOUTES SORTES DE COULEURS A JUSTE PRIX A SAIN-BEL\", and \"227\". Both are resist printed in white on a blue background.",
+    "provenance":"Formerly in the collection of Elinor Merrell where it was No. 18 on her list of chefs de piece.",
+    "dimensions":"Warp: 53.5 cm (21 in.). Weft: 63.5 cm (25 in.) Selvedge present at right. Pattern: Height of repeat: 18 cm (7 in.). Width of repeat: 12 cm (4 3\/4 in.)",
+    "creditline":"Gift of Cora Ginsburg",
+    "description":"Fan-like shapes sprouting small leaves in an off-set arrangement.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12107_f582a7ed2fc4cd06_b.jpg",
+                "width":1008,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12107_f582a7ed2fc4cd06_n.jpg",
+                "width":315,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12107_f582a7ed2fc4cd06_z.jpg",
+                "width":630,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1790.\nca. 1790. Technique: block-printed with resist paste on plain weave foundation. Immersion dyed in indigo vat.. Gift of Cora Ginsburg. 1994-80-27."
+    },
+    "colors":[
+        {
+            "color":"#54494a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#f7dfda",
+            "closest_css3":"#ffe4e1"
+        },
+        {
+            "color":"#e4b3a4",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#6f6764",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#b5a194",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

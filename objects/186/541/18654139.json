@@ -1,0 +1,121 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "202030", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_b.jpg", 
+        "width": 1024, 
+        "is_primary": "1", 
+        "height": 866
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_z.jpg", 
+        "width": 640, 
+        "is_primary": "1", 
+        "height": 541
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 271
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13597_3cc751d45ac62612_b.jpg", 
+        "width": 350, 
+        "is_primary": "0", 
+        "height": 1024
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13597_3cc751d45ac62612_z.jpg", 
+        "width": 218, 
+        "is_primary": "0", 
+        "height": 640
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13597_3cc751d45ac62612_n.jpg", 
+        "width": 109, 
+        "is_primary": "0", 
+        "height": 320
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13596_5676dc15f0e43846_b.jpg", 
+        "width": 366, 
+        "is_primary": "0", 
+        "height": 1024
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13596_5676dc15f0e43846_z.jpg", 
+        "width": 229, 
+        "is_primary": "0", 
+        "height": 640
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13596_5676dc15f0e43846_n.jpg", 
+        "width": 114, 
+        "is_primary": "0", 
+        "height": 320
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_b.jpg", 
+        "width": 1024, 
+        "is_primary": "0", 
+        "height": 1005
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_z.jpg", 
+        "width": 640, 
+        "is_primary": "0", 
+        "height": 628
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_n.jpg", 
+        "width": 320, 
+        "is_primary": "0", 
+        "height": 314
+      }
+    }
+  ], 
+  "id": "18654139", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Knife, 1996-81-4, ca. 1880", 
+  "provenance": null, 
+  "participants": [
+    {
+      "person_name": "Gorham Manufacturing Company", 
+      "role_url": "http://collection.cooperhewitt.org/roles/35236685/", 
+      "person_url": "http://collection.cooperhewitt.org/people/18043789/", 
+      "role_name": "Maker", 
+      "person_id": "18043789", 
+      "role_id": "35236685"
+    }
+  ], 
+  "woe:country": "23424977", 
+  "department_id": "35347497", 
+  "medium": "Silver", 
+  "description": null, 
+  "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+  "period_id": null, 
+  "date": "ca. 1880", 
+  "url": "http://collection.cooperhewitt.org/objects/18654139/", 
+  "type": {
+    "id": "35248783", 
+    "name": "knife"
+  }, 
+  "accession_number": "1996-81-4", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1996"
+}

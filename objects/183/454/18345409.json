@@ -1,0 +1,80 @@
+{
+    "id":"18345409",
+    "tms:id":"56579",
+    "accession_number":"1937-74-14",
+    "title":"Swatch",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18345409\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35518945",
+    "type_id":"35287849",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1937",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: silk, viscose",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 5.7 x 10.5 cm (2 1\/4 x 4 1\/8 in.)",
+    "creditline":"Gift of Edith Wetmore",
+    "description":"Black ground with printed lilac colored leaves, woven diagonal gold metallic stripes.",
+    "justification":null,
+    "type":{
+        "id":"35287849",
+        "name":"Swatch"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51843_503eb059296335e6_b.jpg",
+                "width":1024,
+                "height":610,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51843_503eb059296335e6_n.jpg",
+                "width":320,
+                "height":191,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51843_503eb059296335e6_z.jpg",
+                "width":640,
+                "height":381,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Swatch.\nMedium: silk, viscose. Gift of Edith Wetmore. 1937-74-14."
+    },
+    "colors":[
+        {
+            "color":"#a8beca",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#3e404c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#6d7182",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#8d9cac",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#1e1c27",
+            "closest_css3":"#000000"
+        }
+    ]
+}

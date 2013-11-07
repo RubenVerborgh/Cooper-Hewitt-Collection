@@ -1,0 +1,76 @@
+{
+    "id":"18559479",
+    "tms:id":"72945",
+    "accession_number":"1940-81-29",
+    "title":"Christening Gown, 1853",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18559479\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394271",
+    "type_id":"35288813",
+    "date":"1853",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1940",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: linen, cotton\nTechnique: embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Robert B. Noyes",
+    "description":"Bodice with square, low neck and revers in front, collar in back; no sleeves; full skirt with revers.  Embroidery on front panel, revers, shoulders and bottom of skirt in solid stitches, drawnwork and eyelets in design of flowers, scrolls and waving bands.",
+    "justification":null,
+    "type":{
+        "id":"35288813",
+        "name":"Christening gown"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21117_620a91ace1df6b54_b.jpg",
+                "width":821,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21117_620a91ace1df6b54_n.jpg",
+                "width":257,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21117_620a91ace1df6b54_z.jpg",
+                "width":513,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Christening Gown, 1853.\n1853. Medium: linen, cotton\nTechnique: embroidered. Gift of Robert B. Noyes. 1940-81-29."
+    },
+    "colors":[
+        {
+            "color":"#cbe3fc",
+            "closest_css3":"#e6e6fa"
+        },
+        {
+            "color":"#99b4d1",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#6c7789",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#474c5c",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

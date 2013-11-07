@@ -1,0 +1,49 @@
+{
+    "id":"18455175",
+    "tms:id":"138142",
+    "accession_number":"1967-20-43",
+    "title":"Cap, ca. 1890",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18455175\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35259883",
+    "date":"ca. 1890",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: cotton\nTechnique: knotted cord",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 14 x 62 cm (5 1\/2 x 24 7\/16 in.)",
+    "creditline":"Gift of Harvey Smith",
+    "description":"Head covering or cap with two long tassels and cords to tie.",
+    "justification":null,
+    "type":{
+        "id":"35259883",
+        "name":"Cap"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049985",
+            "role_id":"35351535",
+            "person_name":"Harvey Smith",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Cap, ca. 1890.\nca. 1890. Medium: cotton\nTechnique: knotted cord. Gift of Harvey Smith. 1967-20-43."
+    },
+    "colors":[
+
+    ]
+}

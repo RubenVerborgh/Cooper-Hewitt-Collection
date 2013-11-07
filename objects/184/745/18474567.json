@@ -1,0 +1,42 @@
+{
+    "id":"18474567",
+    "tms:id":"148046",
+    "accession_number":"1971-50-37",
+    "title":"Tiraz, 13th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474567\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35397775",
+    "type_id":"35257181",
+    "date":"13th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424802",
+    "medium":"Medium: Red silk embroidered on linen.\nTechnique: Counted running stitches.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Marian Hague",
+    "description":"Embroidered inscription in red.  Object card notes: \"  The inscription repeats the word 'vigorous' - slightly ---- (illegible).\"",
+    "justification":null,
+    "type":{
+        "id":"35257181",
+        "name":"Tiraz"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tiraz, 13th century.\n13th century. Medium: Red silk embroidered on linen.\nTechnique: Counted running stitches.. Bequest of Marian Hague. 1971-50-37."
+    },
+    "colors":[
+
+    ]
+}

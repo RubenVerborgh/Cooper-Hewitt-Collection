@@ -1,0 +1,49 @@
+{
+    "id":"18651105",
+    "tms:id":"200491",
+    "accession_number":"1995-33-2",
+    "title":"Poster, \"Sister, Love Is Blind, So Is AIDS\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18651105\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35238163",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1995",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of the Iris Center",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35238163",
+        "name":"poster"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041185",
+            "role_id":"51571159",
+            "person_name":"Ellen Lupton",
+            "role_name":"Agent",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041185\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Poster, \"Sister, Love Is Blind, So Is AIDS\".\nGift of the Iris Center. 1995-33-2."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18325321",
+    "tms:id":"47280",
+    "accession_number":"1931-6-133",
+    "title":"Fan, 1851\u20131900",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325321\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35411129",
+    "type_id":"35252007",
+    "date":"1851\u20131900",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: lace, gauze (mount); tortoise shell (sticks)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 27 x 49 cm (10 5\/8 x 19 5\/16 in.)",
+    "creditline":"Bequest of Sarah Cooper Hewitt",
+    "description":"Black Chantilly lace mounted on white gauze. Sticks are plain tortoise shell.",
+    "justification":null,
+    "type":{
+        "id":"35252007",
+        "name":"fan"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fan, 1851\u20131900.\n1851\u20131900. Medium: lace, gauze (mount); tortoise shell (sticks). Bequest of Sarah Cooper Hewitt. 1931-6-133."
+    },
+    "colors":[
+
+    ]
+}

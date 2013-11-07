@@ -1,0 +1,80 @@
+{
+    "id":"18445137",
+    "tms:id":"133060",
+    "accession_number":"1962-52-31-a\/i",
+    "title":"Trimmings, early 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445137\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35290607",
+    "date":"early 20th century",
+    "year_start":"1901",
+    "year_end":"1925",
+    "year_acquired":"1962",
+    "decade":"1900",
+    "woe:country":null,
+    "medium":"Medium: silk\nTechnique: needle knotting called bebilla",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Nine bands of polychrome trimmings.",
+    "justification":null,
+    "type":{
+        "id":"35290607",
+        "name":"Trimmings"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6265_67d9222a213b5b8b_b.jpg",
+                "width":1024,
+                "height":602,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6265_67d9222a213b5b8b_n.jpg",
+                "width":320,
+                "height":188,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6265_67d9222a213b5b8b_z.jpg",
+                "width":640,
+                "height":376,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Trimmings, early 20th century.\nearly 20th century. Medium: silk\nTechnique: needle knotting called bebilla. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-52-31-a\/i."
+    },
+    "colors":[
+        {
+            "color":"#eae0ef",
+            "closest_css3":"#e6e6fa"
+        },
+        {
+            "color":"#ac9a9e",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#cac2be",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#4d433f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#8a7e86",
+            "closest_css3":"#808080"
+        }
+    ]
+}

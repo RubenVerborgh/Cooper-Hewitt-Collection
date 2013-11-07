@@ -1,0 +1,57 @@
+{
+    "id":"18212241",
+    "tms:id":"25233",
+    "accession_number":"1920-36-317",
+    "title":"Drawing, \"Embroidery Design: Top Pa\", ca. 1785",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18212241\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35392485",
+    "type_id":"35237093",
+    "date":"ca. 1785",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1920",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Gouache over, graphite\nSupport: white laid paper",
+    "markings":"Marks: FIN DE IOHANNOT DANNONAY 1781",
+    "signed":null,
+    "inscribed":"Inscribed in pen and brown ink at upper right: po 1438",
+    "provenance":null,
+    "dimensions":"29.6 x 14.1 cm (11 5\/8 x 5 9\/16 in.)\nmatted with -75\nMat:  55.9 x 71.1 cm (22 x 28 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18042379",
+            "role_id":"35236657",
+            "person_name":"Fabrique de St. Ruf",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042379\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18042549",
+            "role_id":"35236565",
+            "person_name":"Mademoiselle Montalent",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042549\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Embroidery Design: Top Pa\", ca. 1785.\nca. 1785. Gouache over, graphite\nSupport: white laid paper. Gift of Eleanor and Sarah Hewitt. 1920-36-317."
+    },
+    "colors":[
+
+    ]
+}

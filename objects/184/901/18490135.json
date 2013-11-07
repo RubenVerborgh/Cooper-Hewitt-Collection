@@ -1,0 +1,80 @@
+{
+    "id":"18490135",
+    "tms:id":"155941",
+    "accession_number":"1976-103-61",
+    "title":"Stencil, \"Kata-gami: Bracken Fronds and Water\", late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490135\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35431257",
+    "type_id":"35288579",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Lacquer made from persimmon juice, silk thread on mulberry paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"30.5 x 43.2 cm (12 x 17 in.)",
+    "creditline":"Gift of Helen Snyder",
+    "description":"Rectangular sheet composed of multiple layers of mulberry paper.  The interstices of the design are supported by strands of silk.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30480_37e8c18d1db38c9e_b.jpg",
+                "width":1024,
+                "height":575,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30480_37e8c18d1db38c9e_n.jpg",
+                "width":320,
+                "height":180,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30480_37e8c18d1db38c9e_z.jpg",
+                "width":640,
+                "height":359,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil, \"Kata-gami: Bracken Fronds and Water\", late 19th century.\nlate 19th century. Lacquer made from persimmon juice, silk thread on mulberry paper. Gift of Helen Snyder. 1976-103-61."
+    },
+    "colors":[
+        {
+            "color":"#6f4d39",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#ccc2a6",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#846d57",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#a39178",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#44312a",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

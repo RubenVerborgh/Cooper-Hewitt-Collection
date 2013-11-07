@@ -1,0 +1,49 @@
+{
+    "id":"18130507",
+    "tms:id":"11396",
+    "accession_number":"1902-1-242-a,b",
+    "title":"Tapestry, 14th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18130507\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35366885",
+    "type_id":"35257173",
+    "date":"14th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Medium: silk, metal wrapped linen\nTechnique: lampas (two interconnected twills)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex-collection: Francisco Miquel y Bad\u00eda",
+    "dimensions":"Warp x Weft (A): 26.7 x 20 cm (10 1\/2 x 7 7\/8 in.)\nWarp x Weft (B): 9.5 x 16.8 cm (3 3\/4 x 6 5\/8 in.)",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Large palmette with parts of addorsed birds in blue and tan.",
+    "justification":null,
+    "type":{
+        "id":"35257173",
+        "name":"Tapestry"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Tapestry, 14th century.\n14th century. Medium: silk, metal wrapped linen\nTechnique: lampas (two interconnected twills). Gift of John Pierpont Morgan. 1902-1-242-a,b."
+    },
+    "colors":[
+
+    ]
+}

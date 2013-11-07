@@ -1,0 +1,49 @@
+{
+    "id":"18447251",
+    "tms:id":"134141",
+    "accession_number":"1963-39-129",
+    "title":"Poster, \"Libertad de Cultos (for the Asuntos Interamericanos)\", 1942",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18447251\/",
+    "department_id":"35347493",
+    "period_id":"35417341",
+    "media_id":"35421153",
+    "type_id":"35238163",
+    "date":"1942",
+    "year_start":"1942",
+    "year_end":"1942",
+    "year_acquired":"1963",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Offset lithograph on off-white wove paper",
+    "markings":null,
+    "signed":"Imprinted lower right: E.McKnight-Kauffer \/ '42",
+    "inscribed":"Imprinted in orange across lower section: UNA DE LAS CUATRO LIBERTADES \/ POR LAS QUE LUCHAN LOS ALIADOS",
+    "provenance":null,
+    "dimensions":"50.6 x 36 cm (19 15\/16 x 14 3\/16 in. )",
+    "creditline":"Gift of Mrs. E. McKnight Kauffer",
+    "description":"Before a Latin Cross a sword thrusts through a shredded Nazi flag. Background a deep blue and brown earth is suggested along lower edge.",
+    "justification":null,
+    "type":{
+        "id":"35238163",
+        "name":"poster"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041923",
+            "role_id":"35236655",
+            "person_name":"Edward McKnight Kauffer",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041923\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Poster, \"Libertad de Cultos (for the Asuntos Interamericanos)\", 1942.\n1942. Offset lithograph on off-white wove paper. Gift of Mrs. E. McKnight Kauffer. 1963-39-129."
+    },
+    "colors":[
+
+    ]
+}

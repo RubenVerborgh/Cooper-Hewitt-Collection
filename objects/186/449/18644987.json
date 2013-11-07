@@ -1,0 +1,49 @@
+{
+    "id":"18644987",
+    "tms:id":"197397",
+    "accession_number":"1993-31-125",
+    "title":"Magazine Ad, \"Tearsheet of magazine ad for Schlumberger, \"Continuous Dipmeter\"\", 1958",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18644987\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35422931",
+    "type_id":"35294887",
+    "date":"1958",
+    "year_start":"1958",
+    "year_end":"1958",
+    "year_acquired":"1993",
+    "decade":"1950",
+    "woe:country":null,
+    "medium":"Lithography in black, purple, red and yellow ink on white shiny wove paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Imprinted vertically at upper right: Elaine Lustig\nAt top center: Continuous Dipmeter\/ Simultaneous recording of air data for\/ formation dip angle\/ formation dip orientation\/ hole deviation\/ hole size\nAt center right in purple: SCHLUMBERGER",
+    "provenance":null,
+    "dimensions":"H x W: 28.2 x 21 cm (11 1\/8 x 8 1\/4 in.)",
+    "creditline":"Gift of Tamar Cohen and Dave Slatoff",
+    "description":"The ad shows a drawing of the dipmeter underground and wavelength activity above in yellow, purple and red.",
+    "justification":null,
+    "type":{
+        "id":"35294887",
+        "name":"magazine ad"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18051943",
+            "role_id":"35351535",
+            "person_name":"Private collection",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18051943\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Magazine Ad, \"Tearsheet of magazine ad for Schlumberger, \"Continuous Dipmeter\"\", 1958.\n1958. Lithography in black, purple, red and yellow ink on white shiny wove paper. Gift of Tamar Cohen and Dave Slatoff. 1993-31-125."
+    },
+    "colors":[
+
+    ]
+}

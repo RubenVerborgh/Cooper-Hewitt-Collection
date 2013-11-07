@@ -1,0 +1,105 @@
+{
+  "year_start": "1978", 
+  "exhibitions": [
+    {
+      "url": "http://collection.cooperhewitt.org/exhibitions/35349429/", 
+      "date_end": "1995-08-21", 
+      "date_start": "1995-03-14", 
+      "id": "35349429", 
+      "title": "Body Language: Jewelry and Accessories from the National Design Museum"
+    }
+  ], 
+  "justification": null, 
+  "tms:id": "157700", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/43847_063751cc4bb27322_b.jpg", 
+        "width": 1024, 
+        "is_primary": "1", 
+        "height": 895
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/43847_063751cc4bb27322_z.jpg", 
+        "width": 640, 
+        "is_primary": "1", 
+        "height": 559
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/43847_063751cc4bb27322_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 280
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39165_ca7684404a3a1955_b.jpg", 
+        "width": 763, 
+        "is_primary": "0", 
+        "height": 429
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39165_ca7684404a3a1955_z.jpg", 
+        "width": 640, 
+        "is_primary": "0", 
+        "height": 360
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/39165_ca7684404a3a1955_n.jpg", 
+        "width": 320, 
+        "is_primary": "0", 
+        "height": 180
+      }
+    }
+  ], 
+  "id": "18493621", 
+  "decade": "1970", 
+  "dimensions": "H x W x D: 1.8 x 9.8 x 7.2 cm (11/16 x 3 7/8 x 2 13/16 in.)", 
+  "title": "Compact, 1978-123-2, 1978", 
+  "provenance": null, 
+  "participants": [
+    {
+      "person_name": "Elsa Peretti", 
+      "role_url": "http://collection.cooperhewitt.org/roles/35236655/", 
+      "person_url": "http://collection.cooperhewitt.org/people/18044203/", 
+      "role_name": "Designer", 
+      "person_id": "18044203", 
+      "role_id": "35236655"
+    }, 
+    {
+      "person_name": "Halston Enterprises, Inc.", 
+      "role_url": "http://collection.cooperhewitt.org/roles/35236675/", 
+      "person_url": "http://collection.cooperhewitt.org/people/18044205/", 
+      "role_name": "For", 
+      "person_id": "18044205", 
+      "role_id": "35236675"
+    }, 
+    {
+      "person_name": "Max Factor", 
+      "role_url": "http://collection.cooperhewitt.org/roles/35236667/", 
+      "person_url": "http://collection.cooperhewitt.org/people/18044207/", 
+      "role_name": "Client", 
+      "person_id": "18044207", 
+      "role_id": "35236667"
+    }
+  ], 
+  "woe:country": "23424977", 
+  "department_id": "35347497", 
+  "medium": "Silverplated metal, glass, mirror", 
+  "description": "Irregular heart-shaped case. Molded relief heart shape design on lid. Indentation on rim edge at right near base of heart.", 
+  "creditline": "Gift of Halston Enterprises, Inc.", 
+  "period_id": null, 
+  "date": "1978", 
+  "url": "http://collection.cooperhewitt.org/objects/18493621/", 
+  "type": {
+    "id": "35293161", 
+    "name": "Compact"
+  }, 
+  "accession_number": "1978-123-2", 
+  "year_end": "1978", 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1978"
+}

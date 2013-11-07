@@ -1,0 +1,107 @@
+{
+    "id":"18702867",
+    "tms:id":"227207",
+    "accession_number":"2005-8-39",
+    "title":"Textile, \"Luxemburg\", 1910\u201317",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18702867\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35251739",
+    "date":"1910\u201317",
+    "year_start":"1910",
+    "year_end":"1917",
+    "year_acquired":"2005",
+    "decade":"1910",
+    "woe:country":null,
+    "medium":"Medium: silk \nTechnique: block printed on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Height: 8.6 cm (3 3\/8 in.)\nWidth: 19.4 cm (7 5\/8 in.)",
+    "creditline":"Museum purchase from General Acquisitions Endowment Fund",
+    "description":"All-over abstracted floral in black, dark brown, taupe, and puce on an ivory ground.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/53806_e7054dc58f52de2b_b.jpg",
+                "width":1024,
+                "height":483,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/53806_e7054dc58f52de2b_n.jpg",
+                "width":320,
+                "height":151,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/53806_e7054dc58f52de2b_z.jpg",
+                "width":640,
+                "height":302,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/20554_e1c37e70edb6a0f8_b.jpg",
+                "width":1024,
+                "height":462,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/20554_e1c37e70edb6a0f8_n.jpg",
+                "width":320,
+                "height":145,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/20554_e1c37e70edb6a0f8_z.jpg",
+                "width":640,
+                "height":289,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18048101",
+            "role_id":"35236655",
+            "person_name":"Wiener Werkst\u00e4tte",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18048101\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, \"Luxemburg\", 1910\u201317.\n1910\u201317. Medium: silk \nTechnique: block printed on plain weave. Museum purchase from General Acquisitions Endowment Fund. 2005-8-39."
+    },
+    "colors":[
+        {
+            "color":"#bca48d",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#644b3f",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#b99337",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#e3d9cd",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#9c7732",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

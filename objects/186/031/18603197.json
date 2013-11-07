@@ -1,0 +1,80 @@
+{
+    "id":"18603197",
+    "tms:id":"95034",
+    "accession_number":"1946-100-2",
+    "title":"Fragment, before 16th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18603197\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35254623",
+    "date":"before 16th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1946",
+    "decade":null,
+    "woe:country":"23424919",
+    "medium":"Medium: cotton\nTechnique: discontinuous and interlocked warps and wefts",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Museum purchase through gift of Eleanor and Sarah Hewitt",
+    "description":"Fragment of mummy cloth.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4277_7172da50df3983f9_b.jpg",
+                "width":1024,
+                "height":688,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4277_7172da50df3983f9_n.jpg",
+                "width":320,
+                "height":215,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4277_7172da50df3983f9_z.jpg",
+                "width":640,
+                "height":430,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, before 16th century.\nbefore 16th century. Medium: cotton\nTechnique: discontinuous and interlocked warps and wefts. Museum purchase through gift of Eleanor and Sarah Hewitt. 1946-100-2."
+    },
+    "colors":[
+        {
+            "color":"#14251d",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#5f402f",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#444840",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#945f43",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#2e281e",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

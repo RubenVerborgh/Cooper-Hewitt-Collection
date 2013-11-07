@@ -1,0 +1,76 @@
+{
+    "id":"18634219",
+    "tms:id":"191956",
+    "accession_number":"1990-149-12",
+    "title":"Drawing, \"Parfums Lucien Lelong Paris\", 1946",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18634219\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35475583",
+    "type_id":"35237093",
+    "date":"1946",
+    "year_start":"1946",
+    "year_end":"1946",
+    "year_acquired":"1990",
+    "decade":"1940",
+    "woe:country":"23424819",
+    "medium":"Brush and gouache, black crayon on paper",
+    "markings":null,
+    "signed":"Signed and dated, lower right: JEAN PICART LE DOUX 46.",
+    "inscribed":"Inscribed lower center: Parfums \/ LUCIEN LELONG \/ Paris",
+    "provenance":"Monique Fink",
+    "dimensions":null,
+    "creditline":"Gift of Monique Fink",
+    "description":"A woman with long hair and wearing a dress all in pink, black, and tan. She has semi-morphed into stylized plant forms that covers her dress, neckline, body and hair; dress is corseted and polka-dotted; holds a floral bouquet in one hand.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48285_552b62f8d704cb1d_b.jpg",
+                "width":761,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48285_552b62f8d704cb1d_n.jpg",
+                "width":238,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48285_552b62f8d704cb1d_z.jpg",
+                "width":476,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Parfums Lucien Lelong Paris\", 1946.\n1946. Brush and gouache, black crayon on paper. Gift of Monique Fink. 1990-149-12."
+    },
+    "colors":[
+        {
+            "color":"#5d6659",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#979388",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#c39c97",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#79756e",
+            "closest_css3":"#696969"
+        }
+    ]
+}

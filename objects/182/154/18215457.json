@@ -1,0 +1,42 @@
+{
+    "id":"18215457",
+    "tms:id":"25730",
+    "accession_number":"1921-22-25-a,b",
+    "title":"Fragment, 1701\u201350",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18215457\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"1701\u201350",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1921",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTechnique: uncut supplementary warp pile (velvet)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 9.5 x 50.2 cm (3 3\/4 x 19 3\/4 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Fragment of uncut velvet on silk ground. Originally tomato-red, now faded almost brown on face of fabric. Design in center of scrolling foliage and blossoms with ground in small zigzags, all uncut pile.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 1701\u201350.\n1701\u201350. Medium: silk\nTechnique: uncut supplementary warp pile (velvet). Gift of Eleanor and Sarah Hewitt. 1921-22-25-a,b."
+    },
+    "colors":[
+
+    ]
+}

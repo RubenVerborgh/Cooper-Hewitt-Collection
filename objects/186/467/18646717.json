@@ -1,0 +1,42 @@
+{
+    "id":"18646717",
+    "tms:id":"198263",
+    "accession_number":"1993-68-47",
+    "title":"Comb, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18646717\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35414725",
+    "type_id":"35248789",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Tortoiseshell",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 17.5 x 11 cm (6 7\/8 x 4 5\/16 in.)",
+    "creditline":"Gift of Mrs. Owen E. Robinson and Mrs. John B. Hendry in memory of Mrs. John A. Logan",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35248789",
+        "name":"comb"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Comb, 19th century.\n19th century. Tortoiseshell. Gift of Mrs. Owen E. Robinson and Mrs. John B. Hendry in memory of Mrs. John A. Logan. 1993-68-47."
+    },
+    "colors":[
+
+    ]
+}

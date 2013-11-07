@@ -1,0 +1,80 @@
+{
+    "id":"18617125",
+    "tms:id":"177092",
+    "accession_number":"1981-28-473",
+    "title":"Sampler, 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18617125\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410907",
+    "type_id":"35256439",
+    "date":"20th century",
+    "year_start":"1901",
+    "year_end":"1981",
+    "year_acquired":"1981",
+    "decade":"1900",
+    "woe:country":"20069818",
+    "medium":"Medium: silk embroidery on cotton foundation\nTechnique: withdrawn element work on plain weave foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 19 x 17.1 cm (7 1\/2 x 6 3\/4 in.)",
+    "creditline":"Bequest of Gertrude M. Oppenheimer",
+    "description":"Unfinished sampler with a square of diamond-shaped pattern in reds, orange, yellow, green and blue.",
+    "justification":null,
+    "type":{
+        "id":"35256439",
+        "name":"Sampler"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32170_2ed694596ed5b055_b.jpg",
+                "width":962,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32170_2ed694596ed5b055_n.jpg",
+                "width":301,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32170_2ed694596ed5b055_z.jpg",
+                "width":601,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sampler, 20th century.\n20th century. Medium: silk embroidery on cotton foundation\nTechnique: withdrawn element work on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-473."
+    },
+    "colors":[
+        {
+            "color":"#e5d6d0",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#3b3c38",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#5a130f",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#93150c",
+            "closest_css3":"#8b0000"
+        },
+        {
+            "color":"#bebdb3",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

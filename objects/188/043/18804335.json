@@ -1,0 +1,80 @@
+{
+    "id":"18804335",
+    "tms:id":"182450",
+    "accession_number":"1985-103-64",
+    "title":"Knife, 1660\u201380",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18804335\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35432967",
+    "type_id":"35248783",
+    "date":"1660\u201380",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1985",
+    "decade":null,
+    "woe:country":"23424909",
+    "medium":"steel, enamel",
+    "markings":"On blade: fruit or flower-shaped mark",
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Robert L. Metzenberg",
+    "dimensions":"L x W: 18.7 x 1.6 cm (7 3\/8 x 5\/8 in.)",
+    "creditline":"The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description":"Leaf-shaped blade, bolster engraved. Tapered enamel handle inlaid on light blue ground: multi-colored floral pattern in relief; green, white, yellow, red.",
+    "justification":null,
+    "type":{
+        "id":"35248783",
+        "name":"knife"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/18976_cf3077d856080a57_b.jpg",
+                "width":480,
+                "height":960,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/18976_cf3077d856080a57_n.jpg",
+                "width":160,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/18976_cf3077d856080a57_z.jpg",
+                "width":320,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Knife, 1660\u201380.\n1660\u201380. steel, enamel. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-64."
+    },
+    "colors":[
+        {
+            "color":"#a6b0b5",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#a9a381",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#7e7b66",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#434f47",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#432b1b",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

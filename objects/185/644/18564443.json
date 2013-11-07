@@ -1,0 +1,87 @@
+{
+    "id":"18564443",
+    "tms:id":"75422",
+    "accession_number":"1941-74-11",
+    "title":"Drawing, \"Design for a tile\", after 1917",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564443\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35427299",
+    "type_id":"35237093",
+    "date":"after 1917",
+    "year_start":"1917",
+    "year_end":"1917",
+    "year_acquired":"1941",
+    "decade":"1910",
+    "woe:country":"23424909",
+    "medium":"Graphite and tempera on oiled tracing paper",
+    "markings":"Printed with stamp of firm: Morris 17 George Street Hanover Square London W1",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Width: 22.8 cm\nHeight: 25.7 cm",
+    "creditline":"Gift of Robert W. Friedel",
+    "description":"Blues on white ground; portion of a floral arabesque, the \"left hand\" tile of a \"two-handed\" tile design, 5 in. square.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30159_0718db040aeb4a44_b.jpg",
+                "width":943,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30159_0718db040aeb4a44_n.jpg",
+                "width":295,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30159_0718db040aeb4a44_z.jpg",
+                "width":589,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18043867",
+            "role_id":"35236677",
+            "person_name":"William Morris",
+            "role_name":"After",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043867\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236677\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Design for a tile\", after 1917.\nafter 1917. Graphite and tempera on oiled tracing paper. Gift of Robert W. Friedel. 1941-74-11."
+    },
+    "colors":[
+        {
+            "color":"#c69c47",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#a87c33",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#fee5b5",
+            "closest_css3":"#ffe4b5"
+        },
+        {
+            "color":"#bfb4a1",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#817b75",
+            "closest_css3":"#808080"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18386769",
+    "tms:id":"103518",
+    "accession_number":"1951-111-57",
+    "title":"Bobbin Lace: Mechlin Style",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386769\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35287467",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Frances Morris",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287467",
+        "name":"Bobbin lace: mechlin style"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bobbin Lace: Mechlin Style.\nGift of Frances Morris. 1951-111-57."
+    },
+    "colors":[
+
+    ]
+}

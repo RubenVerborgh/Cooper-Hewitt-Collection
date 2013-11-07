@@ -1,0 +1,42 @@
+{
+    "id":"18568315",
+    "tms:id":"77853",
+    "accession_number":"1942-87-91-b",
+    "title":"Drawing, \"Designs for fabrics to be printed with three colors\", 1920\u201340",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18568315\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"51586067",
+    "type_id":"35237093",
+    "date":"1920\u201340",
+    "year_start":"1920",
+    "year_end":"1940",
+    "year_acquired":"1942",
+    "decade":"1920",
+    "woe:country":"23424819",
+    "medium":"Pencil, poster colors, tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Max Wilner",
+    "description":"Torn asunder. Segment of a circle. Marbled ovoids on netted ground. Triangular, suggests a blue net.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Designs for fabrics to be printed with three colors\", 1920\u201340.\n1920\u201340. Pencil, poster colors, tracing paper. Gift of Max Wilner. 1942-87-91-b."
+    },
+    "colors":[
+
+    ]
+}

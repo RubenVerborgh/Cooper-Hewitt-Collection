@@ -1,0 +1,42 @@
+{
+    "id":"18458813",
+    "tms:id":"139980",
+    "accession_number":"1967-66-82-1\/24",
+    "title":"Calligraphy",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18458813\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35285397",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. Arthur Wiesenberger",
+    "description":"Unbound Manuscript",
+    "justification":null,
+    "type":{
+        "id":"35285397",
+        "name":"Calligraphy"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Calligraphy.\nGift of Mr. and Mrs. Arthur Wiesenberger. 1967-66-82-1\/24."
+    },
+    "colors":[
+
+    ]
+}

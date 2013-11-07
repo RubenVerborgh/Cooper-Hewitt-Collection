@@ -1,0 +1,80 @@
+{
+    "id":"18481665",
+    "tms:id":"151688",
+    "accession_number":"1973-51-117",
+    "title":"Fragment, 1750\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481665\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35254623",
+    "date":"1750\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: cotton\nTechnique: block printed and painted on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Jacques Martin scrapblook",
+    "dimensions":"Warp x Weft: 49 x 49 cm (19 5\/16 x 19 5\/16 in.)\nRepeat H (half-drop): 27 cm (10 5\/8 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Various flowers and trees plus a deer, butterfly, Chinese buildings and people on a white background.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43668_138a15c9a548961d_b.jpg",
+                "width":1020,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43668_138a15c9a548961d_n.jpg",
+                "width":319,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43668_138a15c9a548961d_z.jpg",
+                "width":637,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 1750\u20131800.\n1750\u20131800. Medium: cotton\nTechnique: block printed and painted on plain weave. Gift of Josephine Howell. 1973-51-117."
+    },
+    "colors":[
+        {
+            "color":"#b49a7e",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#907563",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#87433b",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#6a716f",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#8d8e85",
+            "closest_css3":"#808080"
+        }
+    ]
+}

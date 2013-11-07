@@ -1,0 +1,42 @@
+{
+    "id":"18481699",
+    "tms:id":"151705",
+    "accession_number":"1973-51-132",
+    "title":"Textile, ca. 1780",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481699\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"ca. 1780",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: cotton\nTechnique: plain weave foundation.  2 reds block-printed.  Yellow and blue applied by brush.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Jacques martin scrapbook",
+    "dimensions":"Warp x Weft: 60 x 17.5 cm (23 5\/8 x 6 7\/8 in.)\nRepeat (straight): 12.1 x 6.4 cm (4 3\/4 x 2 1\/2 in.)\nPrinting block: 24.1 cm (9 1\/2 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Small flowers within a diamond grid of reserved spaces on a red picottage background.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1780.\nca. 1780. Medium: cotton\nTechnique: plain weave foundation.  2 reds block-printed.  Yellow and blue applied by brush.. Gift of Josephine Howell. 1973-51-132."
+    },
+    "colors":[
+
+    ]
+}

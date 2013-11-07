@@ -1,0 +1,87 @@
+{
+    "id":"18711421",
+    "tms:id":"231591",
+    "accession_number":"2007-17-3",
+    "title":"Embroidery Sample, ca. 1920\u201340",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18711421\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"155509",
+    "type_id":"35287439",
+    "date":"ca. 1920\u201340",
+    "year_start":"1915",
+    "year_end":"1945",
+    "year_acquired":"2007",
+    "decade":"1910",
+    "woe:country":"23424977",
+    "medium":"Technique: hand embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of the Budeiri Family in memory of Alberto Fasola",
+    "description":"Floral paisley motifs embroidered in yellow, orange, and pink chenille, with turquoise and royal blue twisted thread accents, silver metallic couched outlines, on dark brown\/black satin ground.",
+    "justification":null,
+    "type":{
+        "id":"35287439",
+        "name":"Embroidery sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26012_f1f2a9f7a5332c9d_b.jpg",
+                "width":1024,
+                "height":321,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26012_f1f2a9f7a5332c9d_n.jpg",
+                "width":320,
+                "height":100,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26012_f1f2a9f7a5332c9d_z.jpg",
+                "width":640,
+                "height":201,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18061243",
+            "role_id":"35236655",
+            "person_name":"Alberto Fasola",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061243\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Embroidery Sample, ca. 1920\u201340.\nca. 1920\u201340. Technique: hand embroidered. Gift of the Budeiri Family in memory of Alberto Fasola. 2007-17-3."
+    },
+    "colors":[
+        {
+            "color":"#984b32",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#989589",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#3d372f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#c59556",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#263037",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id":"18704675",
+    "tms:id":"228132",
+    "accession_number":"2006-16-1",
+    "title":"Drawing, \"Designs for Bowls, Vases, Candlesticks, and Teapots\", ca. 1928",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18704675\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371277",
+    "type_id":"35237093",
+    "date":"ca. 1928",
+    "year_start":"1918",
+    "year_end":"1938",
+    "year_acquired":"2006",
+    "decade":"1910",
+    "woe:country":null,
+    "medium":"Graphite on tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Inscribed in graphite, verso: 35",
+    "provenance":"Estate of Ilonka Karasz, LAMA sale, December 4, 2005, lot 117; Historical Design, New York, NY",
+    "dimensions":"Sheet: 35.7 x 42.8 cm (14 1\/16 x 16 7\/8 in.)\nMat: 55.9 x 71.1 cm (22 x 28 in.)\nFrame H x W x D: 60 x 75.6 x 2.5 cm (23 5\/8 in. x 29 3\/4 in. x 1 in.)",
+    "creditline":"Museum purchase from General Acquisitions Endowment Fund",
+    "description":"Multiple sketches for bowls, covered vessels, and candlesticks.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22660_4f3f99c15dad0231_b.jpg",
+                "width":1024,
+                "height":852,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22660_4f3f99c15dad0231_n.jpg",
+                "width":320,
+                "height":266,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22660_4f3f99c15dad0231_z.jpg",
+                "width":640,
+                "height":533,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Designs for Bowls, Vases, Candlesticks, and Teapots\", ca. 1928.\nca. 1928. Graphite on tracing paper. Museum purchase from General Acquisitions Endowment Fund. 2006-16-1."
+    },
+    "colors":[
+        {
+            "color":"#beb298",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

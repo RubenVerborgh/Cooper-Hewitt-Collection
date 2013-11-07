@@ -1,0 +1,42 @@
+{
+    "id":"18410425",
+    "tms:id":"115430",
+    "accession_number":"1956-47-84-dd",
+    "title":"Ephemera",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18410425\/",
+    "department_id":"35347493",
+    "period_id":"35417235",
+    "media_id":"35371135",
+    "type_id":"35282777",
+    "date":null,
+    "year_start":null,
+    "year_end":"1954",
+    "year_acquired":"1956",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Ellen Gustav Jensen",
+    "description":"All information is entered in 1956-47-84-aa.",
+    "justification":null,
+    "type":{
+        "id":"35282777",
+        "name":"Ephemera"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Ephemera.\nGift of Ellen Gustav Jensen. 1956-47-84-dd."
+    },
+    "colors":[
+
+    ]
+}

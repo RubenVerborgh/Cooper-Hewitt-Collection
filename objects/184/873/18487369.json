@@ -1,0 +1,95 @@
+{
+    "id":"18487369",
+    "tms:id":"154551",
+    "accession_number":"1975-11-72",
+    "title":"Drawing, \"Carpet Design\", 1928\u201332",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18487369\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35431031",
+    "type_id":"35237093",
+    "date":"1928\u201332",
+    "year_start":"1928",
+    "year_end":"1932",
+    "year_acquired":"1975",
+    "decade":"1920",
+    "woe:country":"23424977",
+    "medium":"Brush and yellow, red and orange gouache, graphite on tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Signed in graphite on verso: Karasz",
+    "provenance":null,
+    "dimensions":"15.8 x 16.5 cm (6 1\/4 x 6 1\/2 in.)\nloss, at margins\nMat:  45.7 x 35.6 cm (18 x 14 in.)",
+    "creditline":"Gift of Donald Deskey",
+    "description":"Square and rectangular geometric designs in yellow, light orange and darker orange, accented with dots and spirals.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39578_ca24312dfbca5433_b.jpg",
+                "width":980,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39578_ca24312dfbca5433_n.jpg",
+                "width":306,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39578_ca24312dfbca5433_z.jpg",
+                "width":612,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041973",
+            "role_id":"35351535",
+            "person_name":"Donald Deskey",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18041973",
+            "role_id":"35236703",
+            "person_name":"Donald Deskey",
+            "role_name":"Office of",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041973\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236703\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Carpet Design\", 1928\u201332.\n1928\u201332. Brush and yellow, red and orange gouache, graphite on tracing paper. Gift of Donald Deskey. 1975-11-72."
+    },
+    "colors":[
+        {
+            "color":"#dfbb35",
+            "closest_css3":"#daa520"
+        },
+        {
+            "color":"#db8636",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#d25b34",
+            "closest_css3":"#d2691e"
+        },
+        {
+            "color":"#e3d19e",
+            "closest_css3":"#eee8aa"
+        },
+        {
+            "color":"#fbf6dd",
+            "closest_css3":"#fff8dc"
+        }
+    ]
+}

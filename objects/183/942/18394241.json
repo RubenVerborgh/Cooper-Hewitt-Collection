@@ -1,0 +1,80 @@
+{
+    "id":"18394241",
+    "tms:id":"107277",
+    "accession_number":"1953-106-29",
+    "title":"Miser's Purse, early 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394241\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35393617",
+    "type_id":"35269513",
+    "date":"early 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, steel\nTechnique: beaded crochet",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"L: 20 cm (7 7\/8 in.)",
+    "creditline":"Gift of Mrs. Albert Blum",
+    "description":"Light brown crocheted silk ornamented with cut steel beads in simple pattern of connected rectangles. Very small cut steel rings control side opening; small bead tassels at either end.",
+    "justification":null,
+    "type":{
+        "id":"35269513",
+        "name":"Miser's purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29852_5f1c57ae22f87a5a_b.jpg",
+                "width":1024,
+                "height":421,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29852_5f1c57ae22f87a5a_n.jpg",
+                "width":320,
+                "height":131,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29852_5f1c57ae22f87a5a_z.jpg",
+                "width":640,
+                "height":263,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Miser's Purse, early 19th century.\nearly 19th century. Medium: silk, steel\nTechnique: beaded crochet. Gift of Mrs. Albert Blum. 1953-106-29."
+    },
+    "colors":[
+        {
+            "color":"#bbb2a1",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#99885e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#5f3e1d",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#e4dfce",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#8f8f82",
+            "closest_css3":"#808080"
+        }
+    ]
+}

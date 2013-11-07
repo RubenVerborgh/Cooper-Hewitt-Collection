@@ -1,0 +1,80 @@
+{
+    "id":"18559123",
+    "tms:id":"72762",
+    "accession_number":"1940-4-6",
+    "title":"Textile, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18559123\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35518687",
+    "type_id":"35251739",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1940",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk, paper with applied gold foil\nTechnique: plain compound twill",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 6.7 x 17.8 cm (2 5\/8 in. x 7 in.)",
+    "creditline":"Gift of Miss Beatrice Kates",
+    "description":"Black twill ground with incomplete design, in flat gold threads, of cloud forms. Gold leaf almost entirely gone.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49059_43bfd9351ff3edb1_b.jpg",
+                "width":1024,
+                "height":469,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49059_43bfd9351ff3edb1_n.jpg",
+                "width":320,
+                "height":147,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49059_43bfd9351ff3edb1_z.jpg",
+                "width":640,
+                "height":293,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 19th century.\n19th century. Medium: silk, paper with applied gold foil\nTechnique: plain compound twill. Gift of Miss Beatrice Kates. 1940-4-6."
+    },
+    "colors":[
+        {
+            "color":"#bfbaad",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#281e16",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#463e33",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#9d9481",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#665e50",
+            "closest_css3":"#696969"
+        }
+    ]
+}

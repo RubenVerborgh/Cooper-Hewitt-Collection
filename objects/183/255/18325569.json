@@ -1,0 +1,42 @@
+{
+    "id":"18325569",
+    "tms:id":"47378",
+    "accession_number":"1931-6-27",
+    "title":"Etui",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325569\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389891",
+    "type_id":"35283353",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":null,
+    "medium":"porcelain",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Sarah Cooper Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35283353",
+        "name":"Etui"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Etui.\nporcelain. Bequest of Sarah Cooper Hewitt. 1931-6-27."
+    },
+    "colors":[
+
+    ]
+}

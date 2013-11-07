@@ -1,0 +1,49 @@
+{
+    "id":"18464301",
+    "tms:id":"142756",
+    "accession_number":"1968-135-88",
+    "title":"Carpet, late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464301\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421901",
+    "type_id":"35289007",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1968",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: cotton, bast, fiber, wool\nTechnique: printed on extra warp cut pile",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 154 x 67.5 cm (60 5\/8 x 26 9\/16 in.)",
+    "creditline":"Gift of Harvey Smith",
+    "description":"The Circus: horizontal panel with three naturalistic scenes framed in arches. The largest scene shows a large standing elephant with a trainer wearing a red coat and a small rearing elephant. The small panel on the left shows a standing bearded figure wearing a red cloak and in the small panel on the right a standing man wearing an animal scene. Colors in shades of brown, tan, red and yellow (faded).",
+    "justification":null,
+    "type":{
+        "id":"35289007",
+        "name":"Carpet"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049985",
+            "role_id":"35351535",
+            "person_name":"Harvey Smith",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Carpet, late 19th century.\nlate 19th century. Medium: cotton, bast, fiber, wool\nTechnique: printed on extra warp cut pile. Gift of Harvey Smith. 1968-135-88."
+    },
+    "colors":[
+
+    ]
+}

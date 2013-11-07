@@ -1,0 +1,42 @@
+{
+    "id":"18480433",
+    "tms:id":"151049",
+    "accession_number":"1973-29-37",
+    "title":"Textile, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18480433\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Medium: cotton\nTechnique: stenciled resist on plain weave (katazome)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 143.5 x 33 cm (56 1\/2 in. x 13 in.)\nRepeat H: 14 cm (5 1\/2 in.)",
+    "creditline":"Gift of Elinor Merrell",
+    "description":"Single and overlapped three-quarter views of chrysanthemums with leaves and curving stems in reserved on a dark blue ground.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 19th century.\n19th century. Medium: cotton\nTechnique: stenciled resist on plain weave (katazome). Gift of Elinor Merrell. 1973-29-37."
+    },
+    "colors":[
+
+    ]
+}

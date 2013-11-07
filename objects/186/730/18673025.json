@@ -1,0 +1,49 @@
+{
+    "id":"18673025",
+    "tms:id":"211955",
+    "accession_number":"1993-65-73",
+    "title":"Drawing, \"Interior Elevation, Executive Visitors\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18673025\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371277",
+    "type_id":"35237093",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":null,
+    "medium":"graphite on tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of John Bruce",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041393",
+            "role_id":"35351535",
+            "person_name":"John Bruce",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041393\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Interior Elevation, Executive Visitors\".\ngraphite on tracing paper. Gift of John Bruce. 1993-65-73."
+    },
+    "colors":[
+
+    ]
+}

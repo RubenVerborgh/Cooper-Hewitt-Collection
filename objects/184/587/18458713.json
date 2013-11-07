@@ -1,0 +1,42 @@
+{
+    "id":"18458713",
+    "tms:id":"139927",
+    "accession_number":"1967-66-38-a,b",
+    "title":"Frame",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18458713\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35256061",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 33 x 33 x 3.5 cm (13 x 13 x 1 3\/8 in.)",
+    "creditline":"Gift of Mr. and Mrs. Arthur Wiesenberger",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35256061",
+        "name":"Frame"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Frame.\nH x W x D: 33 x 33 x 3.5 cm (13 x 13 x 1 3\/8 in.). Gift of Mr. and Mrs. Arthur Wiesenberger. 1967-66-38-a,b."
+    },
+    "colors":[
+
+    ]
+}

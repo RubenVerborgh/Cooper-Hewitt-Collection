@@ -1,0 +1,80 @@
+{
+    "id":"18489195",
+    "tms:id":"155469",
+    "accession_number":"1976-1-13-a,b",
+    "title":"Bottle And Cap",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489195\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35292991",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424957",
+    "medium":"Glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"C. Helme and Alice B. Strater Collection; 1976: acquired by Museum",
+    "dimensions":"H x W x D: 11.1 x 5.2 x 3.8 cm (4 3\/8 x 2 1\/16 x 1 1\/2 in.)",
+    "creditline":"Gift of the C. Helme and Alice B. Strater Collection",
+    "description":"Opaque white bottle with painted decoration.  Drinking man central figure.",
+    "justification":null,
+    "type":{
+        "id":"35292991",
+        "name":"Bottle and cap"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46144_ad4237de3fca1989_b.jpg",
+                "width":616,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46144_ad4237de3fca1989_n.jpg",
+                "width":192,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46144_ad4237de3fca1989_z.jpg",
+                "width":385,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bottle And Cap.\nGlass. Gift of the C. Helme and Alice B. Strater Collection. 1976-1-13-a,b."
+    },
+    "colors":[
+        {
+            "color":"#672818",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#353337",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#4c4e60",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#cfaf5f",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#9295a1",
+            "closest_css3":"#778899"
+        }
+    ]
+}

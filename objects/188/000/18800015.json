@@ -1,0 +1,42 @@
+{
+    "id":"18800015",
+    "tms:id":"180170",
+    "accession_number":"1982-52-12",
+    "title":"Bookmark",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18800015\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367167",
+    "type_id":"35288907",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1982",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. Boris Kroll",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35288907",
+        "name":"Bookmark"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bookmark.\nprinted. Gift of Mr. and Mrs. Boris Kroll. 1982-52-12."
+    },
+    "colors":[
+
+    ]
+}

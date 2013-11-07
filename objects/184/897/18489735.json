@@ -1,0 +1,68 @@
+{
+    "id":"18489735",
+    "tms:id":"155741",
+    "accession_number":"1976-103-143",
+    "title":"Stencil",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489735\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Helen Snyder",
+    "dimensions":null,
+    "creditline":"Gift of Helen Snyder",
+    "description":"Allover floral pattern.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44870_fa06cfbcc8a0382e_b.jpg",
+                "width":1024,
+                "height":802,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44870_fa06cfbcc8a0382e_n.jpg",
+                "width":320,
+                "height":250,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44870_fa06cfbcc8a0382e_z.jpg",
+                "width":640,
+                "height":501,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-143."
+    },
+    "colors":[
+        {
+            "color":"#756055",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#8f8680",
+            "closest_css3":"#808080"
+        }
+    ]
+}

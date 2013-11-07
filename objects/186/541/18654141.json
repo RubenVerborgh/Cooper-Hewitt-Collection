@@ -1,0 +1,141 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "202031", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_b.jpg", 
+        "width": 1024, 
+        "is_primary": "1", 
+        "height": 866
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_z.jpg", 
+        "width": 640, 
+        "is_primary": "1", 
+        "height": 541
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/19391_4d1c9f3c627d447e_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 271
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13599_9f8b1038d1cc8d36_b.jpg", 
+        "width": 1024, 
+        "is_primary": "0", 
+        "height": 513
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13599_9f8b1038d1cc8d36_z.jpg", 
+        "width": 640, 
+        "is_primary": "0", 
+        "height": 321
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13599_9f8b1038d1cc8d36_n.jpg", 
+        "width": 320, 
+        "is_primary": "0", 
+        "height": 160
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_b.jpg", 
+        "width": 1024, 
+        "is_primary": "0", 
+        "height": 1005
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_z.jpg", 
+        "width": 640, 
+        "is_primary": "0", 
+        "height": 628
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/12815_b2985dfffe827e0f_n.jpg", 
+        "width": 320, 
+        "is_primary": "0", 
+        "height": 314
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13601_d0fc5da1b2b608c3_b.jpg", 
+        "width": 322, 
+        "is_primary": "0", 
+        "height": 1024
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13601_d0fc5da1b2b608c3_z.jpg", 
+        "width": 201, 
+        "is_primary": "0", 
+        "height": 640
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13601_d0fc5da1b2b608c3_n.jpg", 
+        "width": 100, 
+        "is_primary": "0", 
+        "height": 320
+      }
+    }, 
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13600_e25afad78f29a89d_b.jpg", 
+        "width": 339, 
+        "is_primary": "0", 
+        "height": 1024
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13600_e25afad78f29a89d_z.jpg", 
+        "width": 212, 
+        "is_primary": "0", 
+        "height": 640
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/13600_e25afad78f29a89d_n.jpg", 
+        "width": 106, 
+        "is_primary": "0", 
+        "height": 320
+      }
+    }
+  ], 
+  "id": "18654141", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Knife, 1996-81-5, ca. 1880", 
+  "provenance": null, 
+  "participants": [
+    {
+      "person_name": "Gorham Manufacturing Company", 
+      "role_url": "http://collection.cooperhewitt.org/roles/35236685/", 
+      "person_url": "http://collection.cooperhewitt.org/people/18043789/", 
+      "role_name": "Maker", 
+      "person_id": "18043789", 
+      "role_id": "35236685"
+    }
+  ], 
+  "woe:country": "23424977", 
+  "department_id": "35347497", 
+  "medium": "Silver", 
+  "description": null, 
+  "creditline": "Museum purchase from General Acquisitions Endowment Fund", 
+  "period_id": null, 
+  "date": "ca. 1880", 
+  "url": "http://collection.cooperhewitt.org/objects/18654141/", 
+  "type": {
+    "id": "35248783", 
+    "name": "knife"
+  }, 
+  "accession_number": "1996-81-5", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1996"
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18392313",
+    "tms:id":"106311",
+    "accession_number":"1952-6-2",
+    "title":"Simple Weave: Stripes, Bands,",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18392313\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35269657",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1952",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Albert Sidney Johnstone",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35269657",
+        "name":"simple weave: stripes, bands,"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Simple Weave: Stripes, Bands,.\nGift of Mrs. Albert Sidney Johnstone. 1952-6-2."
+    },
+    "colors":[
+
+    ]
+}

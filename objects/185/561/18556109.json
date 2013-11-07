@@ -1,0 +1,80 @@
+{
+    "id":"18556109",
+    "tms:id":"70703",
+    "accession_number":"1939-17-6-a\/lll",
+    "title":"Sample Book",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556109\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35247403",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1939",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Medium: silk\nTechnique: stencil-dyed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Rowland Burdon-Muller",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35247403",
+        "name":"sample book"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4357_3663639659966973_b.jpg",
+                "width":1024,
+                "height":751,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4357_3663639659966973_n.jpg",
+                "width":320,
+                "height":235,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4357_3663639659966973_z.jpg",
+                "width":640,
+                "height":469,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample Book.\nMedium: silk\nTechnique: stencil-dyed. Gift of Rowland Burdon-Muller. 1939-17-6-a\/lll."
+    },
+    "colors":[
+        {
+            "color":"#312d46",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#feb5c9",
+            "closest_css3":"#ffb6c1"
+        },
+        {
+            "color":"#404963",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#60768d",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#7293ac",
+            "closest_css3":"#778899"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id":"18497717",
+    "tms:id":"159755",
+    "accession_number":"1979-25-1-a",
+    "title":"Curtain, late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18497717\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"115755",
+    "type_id":"35269651",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1979",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Technique: block printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Isabelle Dufresne",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35269651",
+        "name":"Curtain"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29676_2c1120da8f7233f3_b.jpg",
+                "width":1024,
+                "height":703,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29676_2c1120da8f7233f3_n.jpg",
+                "width":320,
+                "height":220,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29676_2c1120da8f7233f3_z.jpg",
+                "width":640,
+                "height":439,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18045993",
+            "role_id":"35236655",
+            "person_name":"Mariano Fortuny",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045993\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Curtain, late 19th century.\nlate 19th century. Technique: block printed. Gift of Isabelle Dufresne. 1979-25-1-a."
+    },
+    "colors":[
+        {
+            "color":"#d5d1c6",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#4c5250",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#220c0e",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#64544d",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#6b6b62",
+            "closest_css3":"#696969"
+        }
+    ]
+}

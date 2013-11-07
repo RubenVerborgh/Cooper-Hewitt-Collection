@@ -1,0 +1,49 @@
+{
+    "id":"18451479",
+    "tms:id":"136260",
+    "accession_number":"1964-24-63-a",
+    "title":"Tablecloth, ca. 1956",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451479\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112909",
+    "type_id":"35237897",
+    "date":"ca. 1956",
+    "year_start":"1931",
+    "year_end":"1981",
+    "year_acquired":"1964",
+    "decade":"1930",
+    "woe:country":"23424954",
+    "medium":"Technique: damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237897",
+        "name":"tablecloth"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18045553",
+            "role_id":"35236655",
+            "person_name":"Astrid Sampe",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045553\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Tablecloth, ca. 1956.\nca. 1956. Technique: damask. Gift of Elizabeth Gordon. 1964-24-63-a."
+    },
+    "colors":[
+
+    ]
+}

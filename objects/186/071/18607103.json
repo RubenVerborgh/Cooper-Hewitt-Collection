@@ -1,0 +1,80 @@
+{
+    "id":"18607103",
+    "tms:id":"97078",
+    "accession_number":"1947-92-2-a\/d",
+    "title":"Sidewall, ca. 1940",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18607103\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"ca. 1940",
+    "year_start":"1935",
+    "year_end":"1945",
+    "year_acquired":"1947",
+    "decade":"1930",
+    "woe:country":null,
+    "medium":"machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"45 x 40 cm (17 11\/16 x 15 3\/4 in.)",
+    "creditline":"Gift of United Wall-paper, Inc.",
+    "description":"Four samples retained.  a (modern plaid), b (pussywillow), c (botany print), d (swan lake).",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17187_b4cab6b6179e5807_b.jpg",
+                "width":922,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17187_b4cab6b6179e5807_n.jpg",
+                "width":288,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17187_b4cab6b6179e5807_z.jpg",
+                "width":576,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, ca. 1940.\nca. 1940. machine-printed. Gift of United Wall-paper, Inc.. 1947-92-2-a\/d."
+    },
+    "colors":[
+        {
+            "color":"#9dadb7",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#8e946d",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#89807b",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#3c5242",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#819490",
+            "closest_css3":"#778899"
+        }
+    ]
+}

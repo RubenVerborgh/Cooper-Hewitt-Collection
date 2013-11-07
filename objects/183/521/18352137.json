@@ -1,0 +1,42 @@
+{
+    "id":"18352137",
+    "tms:id":"59498",
+    "accession_number":"1938-58-1416-d",
+    "title":"Border",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18352137\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112695",
+    "type_id":"35237285",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Technique: bobbin lace, continuous braid-like",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Norvin Hewitt Green",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237285",
+        "name":"Border"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Border.\nTechnique: bobbin lace, continuous braid-like. Gift of Norvin Hewitt Green. 1938-58-1416-d."
+    },
+    "colors":[
+
+    ]
+}

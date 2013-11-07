@@ -1,0 +1,80 @@
+{
+    "id":"18478441",
+    "tms:id":"150030",
+    "accession_number":"1972-75-82",
+    "title":"Sample, ca. 1952",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478441\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35379407",
+    "type_id":"35268079",
+    "date":"ca. 1952",
+    "year_start":"1947",
+    "year_end":"1957",
+    "year_acquired":"1972",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Medium: synthetic, metallic\nTechnique: plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":"c. 1952 Dorothy Liebes",
+    "provenance":null,
+    "dimensions":"Warp x Weft: 28 x 23 cm (11 in. x 9 1\/16 in.)",
+    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
+    "description":"Sample with a warp of black ribbon. Weft is black ribbon with silver metallic ribbon alternating in the weft.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38760_263399abd8dbd753_b.jpg",
+                "width":1024,
+                "height":641,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38760_263399abd8dbd753_n.jpg",
+                "width":320,
+                "height":200,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38760_263399abd8dbd753_z.jpg",
+                "width":640,
+                "height":400,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample, ca. 1952.\nca. 1952. Medium: synthetic, metallic\nTechnique: plain weave. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-82."
+    },
+    "colors":[
+        {
+            "color":"#2b2e2d",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#c2c4d0",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#7e9c9b",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#3d4f49",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#9e9fad",
+            "closest_css3":"#a9a9a9"
+        }
+    ]
+}

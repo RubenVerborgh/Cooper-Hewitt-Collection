@@ -1,0 +1,49 @@
+{
+    "id":"18464257",
+    "tms:id":"142734",
+    "accession_number":"1968-135-69",
+    "title":"Fragment",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18464257\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35397113",
+    "type_id":"35254623",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1968",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: cotton (?)\nTechnique: supplementary weft in a plain weave foundation (velveteen)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 159 x 130 cm (5 ft. 2 5\/8 in. x 51 3\/16 in.)",
+    "creditline":"Gift of Harvey Smith",
+    "description":"Border, part of a valance, with a pattern of palmettes and Empire motifs.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049985",
+            "role_id":"35351535",
+            "person_name":"Harvey Smith",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment.\nMedium: cotton (?)\nTechnique: supplementary weft in a plain weave foundation (velveteen). Gift of Harvey Smith. 1968-135-69."
+    },
+    "colors":[
+
+    ]
+}

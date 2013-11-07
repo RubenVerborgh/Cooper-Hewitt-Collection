@@ -1,0 +1,80 @@
+{
+    "id":"18316155",
+    "tms:id":"43565",
+    "accession_number":"1928-16-41",
+    "title":"Embroidered Picture, late 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316155\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35259407",
+    "date":"late 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1928",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: silk\nTechnique: satin weave, embroidered with silk floss and hand-painted",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Landscape showing a stream with rocks, trees, grass and a bridge; two women fishing, one wading in the stream. In a border of blue satin with urns, vines, birds in oval medallions, scrolls, etc.",
+    "justification":null,
+    "type":{
+        "id":"35259407",
+        "name":"Embroidered picture"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22479_0f7558a88e4112c2_b.jpg",
+                "width":1024,
+                "height":751,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22479_0f7558a88e4112c2_n.jpg",
+                "width":320,
+                "height":235,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/22479_0f7558a88e4112c2_z.jpg",
+                "width":640,
+                "height":469,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Embroidered Picture, late 18th century.\nlate 18th century. Medium: silk\nTechnique: satin weave, embroidered with silk floss and hand-painted. Gift of Eleanor and Sarah Hewitt. 1928-16-41."
+    },
+    "colors":[
+        {
+            "color":"#2c3344",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#435162",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#79838b",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#9b9490",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#64666a",
+            "closest_css3":"#696969"
+        }
+    ]
+}

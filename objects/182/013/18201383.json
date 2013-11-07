@@ -1,0 +1,87 @@
+{
+    "id":"18201383",
+    "tms:id":"23569",
+    "accession_number":"1917-4-752-c",
+    "title":"Drawing, \"Standing bedouin\", 1868",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18201383\/",
+    "department_id":"35347493",
+    "period_id":"35417175",
+    "media_id":"35410443",
+    "type_id":"35237093",
+    "date":"1868",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1917",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Oil on brown paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Verso:  Pencil sketches; profile of a support; plans?",
+    "provenance":null,
+    "dimensions":"H: 35.2 x  W: 26.2 cm",
+    "creditline":"Gift of Louis P. Church",
+    "description":"Vertical drawing of a bedouin leaning against a column.  A lower part of a column is at right.  View of Mountains.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2170_5f8b7a0c1cca50de_b.jpg",
+                "width":763,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2170_5f8b7a0c1cca50de_n.jpg",
+                "width":239,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2170_5f8b7a0c1cca50de_z.jpg",
+                "width":477,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041941",
+            "role_id":"35236565",
+            "person_name":"Frederic Edwin Church",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Standing bedouin\", 1868.\n1868. Oil on brown paper. Gift of Louis P. Church. 1917-4-752-c."
+    },
+    "colors":[
+        {
+            "color":"#9b7661",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#7a5848",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#a19b8f",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#38383c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#58423d",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

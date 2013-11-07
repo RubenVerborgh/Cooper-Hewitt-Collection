@@ -1,0 +1,87 @@
+{
+    "id":"18731793",
+    "tms:id":"241994",
+    "accession_number":"2009-20-16",
+    "title":"Poster, \"International Design Festival, Osaka, 1983\", 1983",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731793\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35433377",
+    "type_id":"35238163",
+    "date":"1983",
+    "year_start":"1983",
+    "year_end":"1983",
+    "year_acquired":"2009",
+    "decade":"1980",
+    "woe:country":null,
+    "medium":"Photo-offset lithograph on paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Marc Benda",
+    "dimensions":"102.7 x 72.8 cm (40 7\/16 x 28 11\/16 in.)",
+    "creditline":"Gift of Sara and Marc Benda",
+    "description":"Black background. In top, large gold circle with smaller circles at its center. Smaller circles arranged to form a square with four layers in blue, green, purple and red. Japanese text below large gold circle in white, with interspersed English in gold: \"1st INTERNATIONAL\/ DESIGN FESTIVAL, OSAKA\/ 1983\/ INTERNATIONAL DESIGN EXHIBITION 10.22.-11.9. OSAKA-JO-HALL\/ OPENING CEREMONY 10.7. EXPO-HALL DESIGN FORUM '83 11.1. MORINOMIYA PIROTI-HALL\"",
+    "justification":null,
+    "type":{
+        "id":"35238163",
+        "name":"poster"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31355_72e521491fad4b5a_b.jpg",
+                "width":751,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31355_72e521491fad4b5a_n.jpg",
+                "width":235,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31355_72e521491fad4b5a_z.jpg",
+                "width":469,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18535857",
+            "role_id":"35236655",
+            "person_name":"Yusaku Kamekura",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18535857\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Poster, \"International Design Festival, Osaka, 1983\", 1983.\n1983. Photo-offset lithograph on paper. Gift of Sara and Marc Benda. 2009-20-16."
+    },
+    "colors":[
+        {
+            "color":"#d1b572",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#261e2a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#241d12",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#b08c57",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#624f3c",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

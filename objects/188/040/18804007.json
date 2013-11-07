@@ -1,0 +1,80 @@
+{
+    "id":"18804007",
+    "tms:id":"182281",
+    "accession_number":"1985-103-247",
+    "title":"Folding Spoon, ca. 1700",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18804007\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389463",
+    "type_id":"35293717",
+    "date":"ca. 1700",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1985",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"Silver",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Robert L. Metzenberg",
+    "dimensions":"L x W: 16 x 3.8 cm (6 5\/16 x 1 1\/2 in.)",
+    "creditline":"The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg",
+    "description":"Oval spoon bowl, rattail and engraved decoration on back of spoon. Flat handle, flaring towards the end. Hinged, small sliding band. Handle has engraved floral decoartion on front and back with a lion in a cartouche on the back.",
+    "justification":null,
+    "type":{
+        "id":"35293717",
+        "name":"Folding spoon"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_b.jpg",
+                "width":611,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_n.jpg",
+                "width":191,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19119_8e3f9eac0bf767be_z.jpg",
+                "width":382,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Folding Spoon, ca. 1700.\nca. 1700. Silver. The Robert L. Metzenberg Collection, gift of Eleanor L. Metzenberg. 1985-103-247."
+    },
+    "colors":[
+        {
+            "color":"#b8aa91",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#929089",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#524636",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#6c675a",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#8e7a64",
+            "closest_css3":"#808080"
+        }
+    ]
+}

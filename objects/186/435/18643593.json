@@ -1,0 +1,42 @@
+{
+    "id":"18643593",
+    "tms:id":"196663",
+    "accession_number":"1993-13-4",
+    "title":"Dish, 1966",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643593\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35418527",
+    "type_id":"35248735",
+    "date":"1966",
+    "year_start":"1966",
+    "year_end":"1966",
+    "year_acquired":"1993",
+    "decade":"1960",
+    "woe:country":null,
+    "medium":"Porcelain, enamel",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Diameter: 8.8 cm (3 7\/16 in.)",
+    "creditline":"Gift of Ludmilla Shapiro",
+    "description":"A rooster painted in center in green and orange.",
+    "justification":null,
+    "type":{
+        "id":"35248735",
+        "name":"dish"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Dish, 1966.\n1966. Porcelain, enamel. Gift of Ludmilla Shapiro. 1993-13-4."
+    },
+    "colors":[
+
+    ]
+}

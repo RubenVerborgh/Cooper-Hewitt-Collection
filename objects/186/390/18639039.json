@@ -1,0 +1,80 @@
+{
+    "id":"18639039",
+    "tms:id":"194381",
+    "accession_number":"1992-139-65",
+    "title":"Sidewall, 1928\u201340",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639039\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1928\u201340",
+    "year_start":"1928",
+    "year_end":"1940",
+    "year_acquired":"1992",
+    "decade":"1920",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook",
+    "description":"Floral sprig design printed on a diamond trellis background. Printed in red, blue, green and gray with a white mica background. Printed on ungrounded paper.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12400_44f69a71e6adb1b2_b.jpg",
+                "width":673,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12400_44f69a71e6adb1b2_n.jpg",
+                "width":210,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12400_44f69a71e6adb1b2_z.jpg",
+                "width":421,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1928\u201340.\n1928\u201340. Machine-printed. Gift of Mark Bitter, Robert Bitter, Ward Bitter, and Tami Bitter Cook. 1992-139-65."
+    },
+    "colors":[
+        {
+            "color":"#afac9b",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#aec4cc",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#837a62",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#808a7c",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#626754",
+            "closest_css3":"#696969"
+        }
+    ]
+}

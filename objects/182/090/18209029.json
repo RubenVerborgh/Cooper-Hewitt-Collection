@@ -1,0 +1,42 @@
+{
+    "id":"18209029",
+    "tms:id":"24740",
+    "accession_number":"1920-15-14",
+    "title":"Tile, late 18th\u2013early 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18209029\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35392367",
+    "type_id":"35250645",
+    "date":"late 18th\u2013early 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1920",
+    "decade":null,
+    "woe:country":"23424950",
+    "medium":"Earthenware, glazed and high frie decorated",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 1.6 x 20 x 20 cm (5\/8 x 7 7\/8 x 7 7\/8 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Still life of lemon and grapes on a plate, a knife, and oil and vinegar flasks.",
+    "justification":null,
+    "type":{
+        "id":"35250645",
+        "name":"tile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tile, late 18th\u2013early 19th century.\nlate 18th\u2013early 19th century. Earthenware, glazed and high frie decorated. Gift of Eleanor and Sarah Hewitt. 1920-15-14."
+    },
+    "colors":[
+
+    ]
+}

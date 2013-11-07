@@ -1,0 +1,42 @@
+{
+    "id":"18615911",
+    "tms:id":"176482",
+    "accession_number":"1981-11-21",
+    "title":"Handkerchief",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18615911\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367167",
+    "type_id":"35264069",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1981",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. Simeon Braguin",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35264069",
+        "name":"Handkerchief"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Handkerchief.\nprinted. Gift of Mr. and Mrs. Simeon Braguin. 1981-11-21."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id":"18694887",
+    "tms:id":"222998",
+    "accession_number":"2001-29-67",
+    "title":"Magazine Cover, \"American Fabrics\", fall 1951",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18694887\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35424285",
+    "type_id":"35294969",
+    "date":"fall 1951",
+    "year_start":"1951",
+    "year_end":"1951",
+    "year_acquired":"2001",
+    "decade":"1950",
+    "woe:country":null,
+    "medium":"Heavy paper",
+    "markings":null,
+    "signed":"Signature printed at upper right: lustig.",
+    "inscribed":"Printed in black ink, lower left: AMERICAN FABRICS. Printed vertically in white ink, left margin: Fall 1951 Three Dollars a Copy Number Nineteen.",
+    "provenance":null,
+    "dimensions":"37.1 x 30.5 cm (14 5\/8 x 12 in. )",
+    "creditline":"Gift of Susan Lustig Peck",
+    "description":"Grey, blue and red swatches of color on a white ground.",
+    "justification":null,
+    "type":{
+        "id":"35294969",
+        "name":"Magazine cover"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39760_9a31939741690266_b.jpg",
+                "width":834,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39760_9a31939741690266_n.jpg",
+                "width":261,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39760_9a31939741690266_z.jpg",
+                "width":521,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18043331",
+            "role_id":"35236763",
+            "person_name":"Alvin Lustig",
+            "role_name":"Graphic Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18043331\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236763\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Magazine Cover, \"American Fabrics\", fall 1951.\nfall 1951. Heavy paper. Gift of Susan Lustig Peck. 2001-29-67."
+    },
+    "colors":[
+        {
+            "color":"#d85c5c",
+            "closest_css3":"#cd5c5c"
+        },
+        {
+            "color":"#95928d",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#6591ab",
+            "closest_css3":"#5f9ea0"
+        },
+        {
+            "color":"#3d3838",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#b8b4a9",
+            "closest_css3":"#a9a9a9"
+        }
+    ]
+}

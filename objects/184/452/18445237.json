@@ -1,0 +1,80 @@
+{
+    "id":"18445237",
+    "tms:id":"133110",
+    "accession_number":"1962-54-35",
+    "title":"Waistcoat, ca. 1790",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445237\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421015",
+    "type_id":"35256965",
+    "date":"ca. 1790",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk embroidery on silk foundation\nTechnique: embroidered using satin and stem stitch in twelve colors of silk, two colors of couched silk chenille, appliqu\u00e9 of black silk plain weave on 7&1 satin foundation.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Ex-Collection of Henri Lavedan",
+    "dimensions":null,
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Gentleman's waistcoat with double-breasted closing. Decoration of black silk medallions embroidered in flower sprays at the center front.",
+    "justification":null,
+    "type":{
+        "id":"35256965",
+        "name":"Waistcoat"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6276_aa9d5cd5b6f01468_b.jpg",
+                "width":643,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6276_aa9d5cd5b6f01468_n.jpg",
+                "width":201,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6276_aa9d5cd5b6f01468_z.jpg",
+                "width":402,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Waistcoat, ca. 1790.\nca. 1790. Medium: silk embroidery on silk foundation\nTechnique: embroidered using satin and stem stitch in twelve colors of silk, two colors of couched silk chenille, appliqu\u00e9 of black silk plain weave on 7&amp;1 satin foundation.. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-54-35."
+    },
+    "colors":[
+        {
+            "color":"#2b383c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#fce3a6",
+            "closest_css3":"#ffdead"
+        },
+        {
+            "color":"#d8af7e",
+            "closest_css3":"#deb887"
+        },
+        {
+            "color":"#b58b52",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#7b6849",
+            "closest_css3":"#696969"
+        }
+    ]
+}

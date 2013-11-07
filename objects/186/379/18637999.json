@@ -1,0 +1,87 @@
+{
+    "id":"18637999",
+    "tms:id":"193857",
+    "accession_number":"1991-89-33",
+    "title":"Sidewall, 1948\u201354",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637999\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1948\u201354",
+    "year_start":"1948",
+    "year_end":"1954",
+    "year_acquired":"1991",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Printed on selvage: \"WASHABLE FADEPROOF, RUN 5Y13, WALLTESTED, PATENT NO 228200, JOIN HERE, STYLE TESTED, UNION MADE, U.W.U.N.\"",
+    "provenance":null,
+    "dimensions":"49 cm (19 5\/16 in.)",
+    "creditline":"Gift of Suzanne Lipschutz",
+    "description":"Children's wallpaper, with pink and blue horizontal stripes containing toys such as a teddybear, toy soldier, wagon, balls, alphabet blocks of red, blue, light green and white bordered by barber pole stripes.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11642_48ea1f9fd2953c85_b.jpg",
+                "width":684,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11642_48ea1f9fd2953c85_n.jpg",
+                "width":214,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11642_48ea1f9fd2953c85_z.jpg",
+                "width":428,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046421",
+            "role_id":"35236657",
+            "person_name":"United Wallpapers",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046421\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1948\u201354.\n1948\u201354. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-33."
+    },
+    "colors":[
+        {
+            "color":"#95b0cc",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#aca7b0",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#7087a3",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#495d7d",
+            "closest_css3":"#483d8b"
+        },
+        {
+            "color":"#c2d9e9",
+            "closest_css3":"#b0e0e6"
+        }
+    ]
+}

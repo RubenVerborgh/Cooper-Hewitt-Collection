@@ -1,0 +1,80 @@
+{
+    "id":"18383221",
+    "tms:id":"101734",
+    "accession_number":"1949-92-11",
+    "title":"Fragment, 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383221\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1949",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk\nTechnique: plain compound satin",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 21.3 x 7.6 cm (8 3\/8 x 3 in.)",
+    "creditline":"Gift of Walter Hochstradter",
+    "description":"Floral roundels enclosing dragons on a diaper background with small swastikas in yellow, rose and blue.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49307_5428ca55460ac387_b.jpg",
+                "width":415,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49307_5428ca55460ac387_n.jpg",
+                "width":130,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49307_5428ca55460ac387_z.jpg",
+                "width":259,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk\nTechnique: plain compound satin. Gift of Walter Hochstradter. 1949-92-11."
+    },
+    "colors":[
+        {
+            "color":"#423b25",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#5c583a",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#292824",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#3d2a1b",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a09b84",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

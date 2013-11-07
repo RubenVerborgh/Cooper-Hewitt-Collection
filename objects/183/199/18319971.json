@@ -1,0 +1,42 @@
+{
+    "id":"18319971",
+    "tms:id":"45096",
+    "accession_number":"1931-48-89-a,b",
+    "title":"Spurs, \"Pair of women's silver spurs\", 1852",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319971\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389463",
+    "type_id":"35285825",
+    "date":"1852",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Silver",
+    "markings":"Lion passant, (sterling); anchor (Birmingham), Date letter (D- 1852) R.P. (maker)",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 14 x 8 x 1.8 cm (5 1\/2 x 3 1\/8 x 11\/16 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Pair of silver spurs for a woman; curved section to fit around shoe with extended piece holding rowel; chain and buckle to hold spur in place.",
+    "justification":null,
+    "type":{
+        "id":"35285825",
+        "name":"Spurs"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Spurs, \"Pair of women's silver spurs\", 1852.\n1852. Silver. Gift of Eleanor and Sarah Hewitt. 1931-48-89-a,b."
+    },
+    "colors":[
+
+    ]
+}

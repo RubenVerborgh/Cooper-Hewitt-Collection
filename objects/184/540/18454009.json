@@ -1,0 +1,42 @@
+{
+    "id":"18454009",
+    "tms:id":"137559",
+    "accession_number":"1966-53-1",
+    "title":"Bowl",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18454009\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35237197",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1966",
+    "decade":null,
+    "woe:country":null,
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 7.5 x 30 cm (2 15\/16 x 11 13\/16 in.)",
+    "creditline":"Gift of Edward Kallop",
+    "description":"Clear glass bowl with pronounced lip that projects out from bowl ( approx. 2 inches) ;Lip is frosted glass decoracted with mermaids in high relief.",
+    "justification":null,
+    "type":{
+        "id":"35237197",
+        "name":"Bowl"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bowl.\nglass. Gift of Edward Kallop. 1966-53-1."
+    },
+    "colors":[
+
+    ]
+}

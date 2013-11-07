@@ -1,0 +1,80 @@
+{
+    "id":"18384437",
+    "tms:id":"102352",
+    "accession_number":"1950-21-1",
+    "title":"Textile, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18384437\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35251739",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1950",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk\nTechnique: plain compound twill, brocaded",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 22.5 x 41 cm (8 7\/8 x 16 1\/8 in.)",
+    "creditline":"Gift of Walter Hochstradter",
+    "description":"Hexagonal motif enclosing rosettes. Blue, red and green on tan ground.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48929_54cc642a222a97f7_b.jpg",
+                "width":326,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48929_54cc642a222a97f7_n.jpg",
+                "width":102,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48929_54cc642a222a97f7_z.jpg",
+                "width":204,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 18th century.\n18th century. Medium: silk\nTechnique: plain compound twill, brocaded. Gift of Walter Hochstradter. 1950-21-1."
+    },
+    "colors":[
+        {
+            "color":"#6f706a",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#83704c",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#5d5130",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#a08b66",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#282c2b",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id":"18731973",
+    "tms:id":"242087",
+    "accession_number":"2009-18-52-a,b",
+    "title":"Wine Decanter With Stopper, \"No. 176\", ca. 1880",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731973\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"51588547",
+    "type_id":"35305989",
+    "date":"ca. 1880",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2009",
+    "decade":null,
+    "woe:country":"23424750",
+    "medium":"Mouth-blown crystal, hand-cut and polished",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 29.5 x 11 cm (11 5\/8 x 4 5\/16 in.)",
+    "creditline":"Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund",
+    "description":"Mouth-blown crystal, hand-cut and polished",
+    "justification":null,
+    "type":{
+        "id":"35305989",
+        "name":"Wine decanter with stopper"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32232_1e1f58210a41f5df_b.jpg",
+                "width":1024,
+                "height":752,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32232_1e1f58210a41f5df_n.jpg",
+                "width":320,
+                "height":235,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32232_1e1f58210a41f5df_z.jpg",
+                "width":640,
+                "height":470,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18061841",
+            "role_id":"35236657",
+            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18061841",
+            "role_id":"51571131",
+            "person_name":"J. & L. Lobmeyr GmbH, Vienna, Austria",
+            "role_name":"Lender",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18061841\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571131\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Wine Decanter With Stopper, \"No. 176\", ca. 1880.\nca. 1880. Mouth-blown crystal, hand-cut and polished. Museum purchase through gift of Dale and Doug Anderson, Anonymous Donor, Arthur Liu, and Prairie Pictures, Inc. and from General Acquisitions Endowment Fund. 2009-18-52-a,b."
+    },
+    "colors":[
+        {
+            "color":"#ffffff",
+            "closest_css3":"#ffffff"
+        }
+    ]
+}

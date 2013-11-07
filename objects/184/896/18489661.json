@@ -1,0 +1,80 @@
+{
+    "id":"18489661",
+    "tms:id":"155704",
+    "accession_number":"1976-103-11",
+    "title":"Stencil, \"Dragonflies\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489661\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35431259",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Cut paper, silk thread",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"26.9 x 42.2 cm (10 9\/16 x 16 5\/8 in.)\nimage: 19.1 x 35. cm\nMat:  35.6 x 45.7 cm (14 x 18 in.)",
+    "creditline":"Gift of Helen Snyder",
+    "description":"Motif of dragon flies",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/58037_d003d9184f701e2e_b.jpg",
+                "width":1024,
+                "height":768,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/58037_d003d9184f701e2e_n.jpg",
+                "width":320,
+                "height":240,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/58037_d003d9184f701e2e_z.jpg",
+                "width":640,
+                "height":480,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil, \"Dragonflies\".\nCut paper, silk thread. Gift of Helen Snyder. 1976-103-11."
+    },
+    "colors":[
+        {
+            "color":"#333226",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a0b7ac",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#4e6771",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#7d9085",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#3a4748",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id":"18400915",
+    "tms:id":"110635",
+    "accession_number":"1954-21-19",
+    "title":"Sidewall, \"Prism Blocks\", 1953",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18400915\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35426827",
+    "type_id":"35256475",
+    "date":"1953",
+    "year_start":"1953",
+    "year_end":"1953",
+    "year_acquired":"1954",
+    "decade":"1950",
+    "woe:country":"23424977",
+    "medium":"Screen printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"58.5 x 76 cm (23 1\/16 x 29 15\/16 in.)",
+    "creditline":"Gift of B.H. Hellman",
+    "description":"Pale green vertical rectangles alternate with white vertical rectangles in checker board fashion as a background. Prismatic \"diamonds\" outlined in green are printed against the white rectangles, while slightly different \"diamonds\" of the same size are outlined in black and printed against the green rectangles. From Shumacher's \"Crystal\" collection.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5025_a3aee29493e0deeb_b.jpg",
+                "width":1024,
+                "height":760,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5025_a3aee29493e0deeb_n.jpg",
+                "width":320,
+                "height":237,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5025_a3aee29493e0deeb_z.jpg",
+                "width":640,
+                "height":475,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046337",
+            "role_id":"35236657",
+            "person_name":"F. Schumacher & Co.",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046337\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18047201",
+            "role_id":"35236655",
+            "person_name":"Paul McCobb",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18047201\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, \"Prism Blocks\", 1953.\n1953. Screen printed. Gift of B.H. Hellman. 1954-21-19."
+    },
+    "colors":[
+        {
+            "color":"#abbfbe",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#7e9395",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#d0e3ed",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#637a76",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#605954",
+            "closest_css3":"#696969"
+        }
+    ]
+}

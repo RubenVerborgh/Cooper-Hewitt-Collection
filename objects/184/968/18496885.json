@@ -1,0 +1,42 @@
+{
+    "id":"18496885",
+    "tms:id":"159336",
+    "accession_number":"1978-169-44",
+    "title":"Tile,study Collection",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18496885\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35293187",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1978",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor M. Delanoy",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35293187",
+        "name":"tile,study collection"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tile,study Collection.\nGift of Eleanor M. Delanoy. 1978-169-44."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id":"18404097",
+    "tms:id":"112232",
+    "accession_number":"1955-163-9",
+    "title":"Plate, 1753\u201356",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404097\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35392471",
+    "type_id":"35236833",
+    "date":"1753\u201356",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1955",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Glazed porcelain",
+    "markings":"On base: underglaze red anchor",
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Irwin Untermyer; 1955: acquired by Museum",
+    "dimensions":"H x diam.: 2.9 x 21 cm (1 1\/8 x 8 1\/4 in.)",
+    "creditline":"Gift of Irwin Untermyer",
+    "description":"Scalloped circular form with brown and aqua foliate scroll.  Foliage includes a pear, plums, kidney beans, and beans in a pod.",
+    "justification":null,
+    "type":{
+        "id":"35236833",
+        "name":"plate"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44833_618d7bbe3090f13e_b.jpg",
+                "width":1024,
+                "height":1011,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44833_618d7bbe3090f13e_n.jpg",
+                "width":320,
+                "height":316,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44833_618d7bbe3090f13e_z.jpg",
+                "width":640,
+                "height":632,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18536265",
+            "role_id":"35236657",
+            "person_name":"Chelsea Porcelain Manufactory",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536265\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Plate, 1753\u201356.\n1753\u201356. Glazed porcelain. Gift of Irwin Untermyer. 1955-163-9."
+    },
+    "colors":[
+        {
+            "color":"#84a893",
+            "closest_css3":"#8fbc8f"
+        },
+        {
+            "color":"#9f7a5e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#6f7b71",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#72503f",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#d1cb9c",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

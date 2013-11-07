@@ -1,0 +1,42 @@
+{
+    "id":"18622451",
+    "tms:id":"186062",
+    "accession_number":"1987-46-22",
+    "title":"Sample",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622451\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"140501",
+    "type_id":"35268079",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1987",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Technique: plain weave foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 4 x 14 cm (1 9\/16 x 5 1\/2 in.)",
+    "creditline":"Museum purchase from Au Panier Fleuri Fund",
+    "description":"Broken stripes of lavendar, green dark brown and medium brown with shapes in the stripes on white.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample.\nTechnique: plain weave foundation. Museum purchase from Au Panier Fleuri Fund. 1987-46-22."
+    },
+    "colors":[
+
+    ]
+}

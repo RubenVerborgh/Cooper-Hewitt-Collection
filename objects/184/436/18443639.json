@@ -1,0 +1,49 @@
+{
+    "id":"18443639",
+    "tms:id":"132302",
+    "accession_number":"1962-198-34",
+    "title":"Print, 1721\u201340",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18443639\/",
+    "department_id":"35347493",
+    "period_id":"35417081",
+    "media_id":"35389393",
+    "type_id":"35236873",
+    "date":"1721\u201340",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424829",
+    "medium":"Engraving",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Museum purchase through gift of Mrs. J.G.K. Duer",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049865",
+            "role_id":"35236661",
+            "person_name":"Jeremias Wolff",
+            "role_name":"Publisher",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049865\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236661\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Print, 1721\u201340.\n1721\u201340. Engraving. Museum purchase through gift of Mrs. J.G.K. Duer. 1962-198-34."
+    },
+    "colors":[
+
+    ]
+}

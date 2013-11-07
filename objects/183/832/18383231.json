@@ -1,0 +1,80 @@
+{
+    "id":"18383231",
+    "tms:id":"101739",
+    "accession_number":"1949-92-2",
+    "title":"Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383231\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1949",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk\nTechnique: plain compound weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 30.2 x 7.5 cm (11 7\/8 x 2 15\/16 in.)",
+    "creditline":"Gift of Walter Hochstradter",
+    "description":"Geometrical design in green, tan, yellow and blue.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_b.jpg",
+                "width":296,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_n.jpg",
+                "width":92,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49304_6f07e61ceae7a10b_z.jpg",
+                "width":185,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: plain compound weave. Gift of Walter Hochstradter. 1949-92-2."
+    },
+    "colors":[
+        {
+            "color":"#efd2ac",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#565335",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#786c4c",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#453517",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#34352f",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

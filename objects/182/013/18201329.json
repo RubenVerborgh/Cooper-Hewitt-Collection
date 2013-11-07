@@ -1,0 +1,87 @@
+{
+    "id":"18201329",
+    "tms:id":"23561",
+    "accession_number":"1917-4-749-b",
+    "title":"Drawing, \"Floating Icebergs\", 1859",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18201329\/",
+    "department_id":"35347493",
+    "period_id":"35417175",
+    "media_id":"35394407",
+    "type_id":"35237093",
+    "date":"1859",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1917",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Oil",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Sheet: 5.9 x 29.5 cm (2 5\/16 x 11 5\/8 in.)",
+    "creditline":"Gift of Louis P. Church",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2168_39abfeee7fff4f3e_b.jpg",
+                "width":1024,
+                "height":277,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2168_39abfeee7fff4f3e_n.jpg",
+                "width":320,
+                "height":86,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2168_39abfeee7fff4f3e_z.jpg",
+                "width":640,
+                "height":173,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041941",
+            "role_id":"35236565",
+            "person_name":"Frederic Edwin Church",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Floating Icebergs\", 1859.\n1859. Oil. Gift of Louis P. Church. 1917-4-749-b."
+    },
+    "colors":[
+        {
+            "color":"#5c4e43",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#7c7364",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#ded4c6",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#a29887",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#372f2a",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

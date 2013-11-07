@@ -1,0 +1,75 @@
+{
+    "id":"18348653",
+    "tms:id":"58071",
+    "accession_number":"1938-57-1443",
+    "title":"Drawing, \"Teatro Filarmonico, Accademia Filarmonica, Verona, Italy:  Section and Ceiling\", 1715\u201320",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18348653\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35374751",
+    "type_id":"35237093",
+    "date":"1715\u201320",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Pen and brown ink, brush and brown wash, black chalk on white laid paper",
+    "markings":null,
+    "signed":"Signed in pen and brown ink, at lower right: Francesco Bibiena Archto. inventore Giuseppe Chamant delineo.",
+    "inscribed":"Inscribed in pen and brown ink, at upper left : Spaccato ed Alsato nel Auditorio del Teatro di Verona e sua suffitta;  various inscriptions in pen and brown ink throughout.",
+    "provenance":"Bequest of Erskine Hewitt",
+    "dimensions":"39.8 x 57 cm (15 11\/16 x 22 7\/16 in.)\nMat:  55.9 x 71.1 cm (22 x 28 in.)",
+    "creditline":"Bequest of Erskine Hewitt",
+    "description":"Architectural drawing for the Teatro Filarmonico. Lower right side of drawing details seating section of theater. Upper right side details ceiling decoration. Lower left side depicts left side of the stage. Each design is noted with letters and accompanied by a description in Italian.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39499_5bce90a0d557cab9_b.jpg",
+                "width":1024,
+                "height":724,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39499_5bce90a0d557cab9_n.jpg",
+                "width":320,
+                "height":226,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39499_5bce90a0d557cab9_z.jpg",
+                "width":640,
+                "height":452,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18042221",
+            "role_id":"35236663",
+            "person_name":"Francesco Galli Bibiena",
+            "role_name":"Architect",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042221\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236663\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Teatro Filarmonico, Accademia Filarmonica, Verona, Italy:  Section and Ceiling\", 1715\u201320.\n1715\u201320. Pen and brown ink, brush and brown wash, black chalk on white laid paper. Bequest of Erskine Hewitt. 1938-57-1443."
+    },
+    "colors":[
+        {
+            "color":"#a68f70",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#c1b198",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

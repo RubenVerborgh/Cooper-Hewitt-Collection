@@ -1,0 +1,42 @@
+{
+    "id":"18640263",
+    "tms:id":"194996",
+    "accession_number":"1992-5-66-a,b",
+    "title":"Jug",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18640263\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389891",
+    "type_id":"35237591",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1992",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Porcelain",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Wendy Vanderbilt Lehman",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237591",
+        "name":"jug"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Jug.\nPorcelain. Gift of Wendy Vanderbilt Lehman. 1992-5-66-a,b."
+    },
+    "colors":[
+
+    ]
+}

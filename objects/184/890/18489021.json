@@ -1,0 +1,42 @@
+{
+    "id":"18489021",
+    "tms:id":"155379",
+    "accession_number":"1975-85-1",
+    "title":"Textile",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489021\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"135615",
+    "type_id":"35251739",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1975",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Technique: weft ikat",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Lincoln Johnson",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile.\nTechnique: weft ikat. Gift of Mrs. Lincoln Johnson. 1975-85-1."
+    },
+    "colors":[
+
+    ]
+}

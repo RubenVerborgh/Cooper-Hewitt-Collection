@@ -1,0 +1,49 @@
+{
+    "id":"18104407",
+    "tms:id":"6972",
+    "accession_number":"1899-13-33",
+    "title":"Fragment",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104407\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410723",
+    "type_id":"35254623",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1899",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, metallic, cotton\nTechnique: woven",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Dikran Kelekian",
+    "description":"Gold leaves facing in alternate directions in alternate rows on a background of diagonally ribbed coral silk.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18050399",
+            "role_id":"35351535",
+            "person_name":"Dikran Kelekian",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050399\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment.\nMedium: silk, metallic, cotton\nTechnique: woven. Gift of Dikran Kelekian. 1899-13-33."
+    },
+    "colors":[
+
+    ]
+}

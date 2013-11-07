@@ -1,0 +1,49 @@
+{
+    "id":"18174765",
+    "tms:id":"18995",
+    "accession_number":"1912-12-258",
+    "title":"Drawing, \"Man with a Scythe\", ca. 1865",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18174765\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35418397",
+    "type_id":"35237093",
+    "date":"ca. 1865",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1912",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Graphite, corrections in brush and white gouache on heavy white wove paper.",
+    "markings":"Stamped in black ink, at lower right corner: Museum for the Arts of Decoration, Cooper Union [Lugt, 457d].",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Sheet: 14.2 x 35.7 cm (5 9\/16 x 14 1\/16 in.)",
+    "creditline":"Gift of Charles Savage Homer, Jr.",
+    "description":"Horizontal view of a man, shown from the back, mowing with a scythe at lower center foreground while the upper bodies of two other men are visible in the field at right middleground; a building, fence and trees fill the horizon in the background.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041949",
+            "role_id":"35236565",
+            "person_name":"Winslow Homer",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041949\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Man with a Scythe\", ca. 1865.\nca. 1865. Graphite, corrections in brush and white gouache on heavy white wove paper.. Gift of Charles Savage Homer, Jr.. 1912-12-258."
+    },
+    "colors":[
+
+    ]
+}

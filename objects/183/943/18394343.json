@@ -1,0 +1,80 @@
+{
+    "id":"18394343",
+    "tms:id":"107328",
+    "accession_number":"1953-106-77",
+    "title":"Miser's Purse, 1820\u201340",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394343\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394499",
+    "type_id":"35269513",
+    "date":"1820\u201340",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, metal\nTechnique: netting",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"L: 37.5 cm (14 3\/4 in.)",
+    "creditline":"Gift of Mrs. Albert Blum",
+    "description":"Dark green silk net in which six threads cross each other at intervals forming diamond shapes, which are wholly covered by cut steel beads. Two steel rings control purse opening. Elaborate tassels at each end of cut steel bars, beads and twisted wire.",
+    "justification":null,
+    "type":{
+        "id":"35269513",
+        "name":"Miser's purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27629_51ce31df0ba7e65c_b.jpg",
+                "width":1024,
+                "height":767,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27629_51ce31df0ba7e65c_n.jpg",
+                "width":320,
+                "height":240,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27629_51ce31df0ba7e65c_z.jpg",
+                "width":640,
+                "height":479,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Miser's Purse, 1820\u201340.\n1820\u201340. Medium: silk, metal\nTechnique: netting. Gift of Mrs. Albert Blum. 1953-106-77."
+    },
+    "colors":[
+        {
+            "color":"#cfd1dd",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#6f7376",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#3c423c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#574b41",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#241712",
+            "closest_css3":"#000000"
+        }
+    ]
+}

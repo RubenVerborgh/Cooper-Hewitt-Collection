@@ -1,0 +1,87 @@
+{
+    "id":"18390129",
+    "tms:id":"105209",
+    "accession_number":"1952-105-25",
+    "title":"Textile, \"The Tiger Lily\", 1886",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18390129\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"117147",
+    "type_id":"35251739",
+    "date":"1886",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1952",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Technique: printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. G. Glen Gould",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17950_a426126140be891c_b.jpg",
+                "width":1024,
+                "height":754,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17950_a426126140be891c_n.jpg",
+                "width":320,
+                "height":236,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17950_a426126140be891c_z.jpg",
+                "width":640,
+                "height":471,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18045971",
+            "role_id":"35236655",
+            "person_name":"Arthur Wilcock",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18045971\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, \"The Tiger Lily\", 1886.\n1886. Technique: printed. Gift of Mr. and Mrs. G. Glen Gould. 1952-105-25."
+    },
+    "colors":[
+        {
+            "color":"#2c426e",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#193135",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#830b0f",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#c67d93",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#a42b35",
+            "closest_css3":"#a52a2a"
+        }
+    ]
+}

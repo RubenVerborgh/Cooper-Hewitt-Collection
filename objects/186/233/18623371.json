@@ -1,0 +1,42 @@
+{
+    "id":"18623371",
+    "tms:id":"186522",
+    "accession_number":"1988-1-5",
+    "title":"Plate, Salad",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623371\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35380441",
+    "type_id":"35293621",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1988",
+    "decade":null,
+    "woe:country":null,
+    "medium":"black plastic, opaque",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 1.8 x 20.4 cm (11\/16 x 8 1\/16 in.)",
+    "creditline":"Gift of George Schmidt, Inc.",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35293621",
+        "name":"Plate, salad"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Plate, Salad.\nblack plastic, opaque. Gift of George Schmidt, Inc.. 1988-1-5."
+    },
+    "colors":[
+
+    ]
+}

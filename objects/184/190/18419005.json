@@ -1,0 +1,49 @@
+{
+    "id":"18419005",
+    "tms:id":"119739",
+    "accession_number":"1957-46-11",
+    "title":"Drawing, \"Textile Design: Star Flowers\", 1800\u20131818",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18419005\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35237093",
+    "date":"1800\u20131818",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1957",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Sheet: 20.7 x 25.7 cm (8 1\/8 x 10 1\/8 in)\nImage: 14.6 x 18.3 cm (5 3\/4 x 7 3\/16 in)",
+    "creditline":"Museum purchase from Friends of the Museum Fund",
+    "description":"Small clusters of pink, blue and white flowers on black ground decorated with a leafy pattern and star motifs.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18041965",
+            "role_id":"35236657",
+            "person_name":"Fabrique de Fazy aux Bergues",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041965\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Textile Design: Star Flowers\", 1800\u20131818.\n1800\u20131818. Sheet: 20.7 x 25.7 cm (8 1\/8 x 10 1\/8 in)\nImage: 14.6 x 18.3 cm (5 3\/4 x 7 3\/16 in). Museum purchase from Friends of the Museum Fund. 1957-46-11."
+    },
+    "colors":[
+
+    ]
+}

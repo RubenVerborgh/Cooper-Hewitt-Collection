@@ -1,0 +1,80 @@
+{
+    "id":"18310027",
+    "tms:id":"41113",
+    "accession_number":"1925-2-347",
+    "title":"Purse, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18310027\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35392901",
+    "type_id":"35264073",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1925",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, steel beads\nTechnique: knotted net",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 13.3 x 16.5 cm (5 1\/4 x 6 1\/2 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Bag of green silk netted and ornamented with steel beads. Looped fringe of steel beads on three sides; green silk drawstring at top.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29207_63a42fdb1080180d_b.jpg",
+                "width":681,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29207_63a42fdb1080180d_n.jpg",
+                "width":213,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29207_63a42fdb1080180d_z.jpg",
+                "width":426,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 19th century.\n19th century. Medium: silk, steel beads\nTechnique: knotted net. Gift of Eleanor and Sarah Hewitt. 1925-2-347."
+    },
+    "colors":[
+        {
+            "color":"#252d24",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#494031",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#4d5951",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#727c79",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#352316",
+            "closest_css3":"#000000"
+        }
+    ]
+}

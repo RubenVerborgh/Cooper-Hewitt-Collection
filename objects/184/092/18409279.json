@@ -1,0 +1,42 @@
+{
+    "id":"18409279",
+    "tms:id":"114834",
+    "accession_number":"1956-32-48",
+    "title":"Ornament, Christmas Tree, 1850\u201399",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18409279\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35419699",
+    "type_id":"35290715",
+    "date":"1850\u201399",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1956",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Sugar",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mary M. Kenway from the estate of Sarah B. Russell",
+    "description":"Basket with white bird with a blue-tinted tail.",
+    "justification":null,
+    "type":{
+        "id":"35290715",
+        "name":"Ornament, christmas tree"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Ornament, Christmas Tree, 1850\u201399.\n1850\u201399. Sugar. Gift of Mary M. Kenway from the estate of Sarah B. Russell. 1956-32-48."
+    },
+    "colors":[
+
+    ]
+}

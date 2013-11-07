@@ -1,0 +1,80 @@
+{
+    "id":"18460205",
+    "tms:id":"140686",
+    "accession_number":"1968-1-4",
+    "title":"Figure, \"crab\", ca. 1904",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460205\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35392471",
+    "type_id":"35237189",
+    "date":"ca. 1904",
+    "year_start":null,
+    "year_end":"1914",
+    "year_acquired":"1968",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"glazed porcelain",
+    "markings":"impressed on underside: SEVRES",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"3.5 x 9.4 x 7.7 cm (1 3\/8 x 3 11\/16 x 3 1\/16 in. )",
+    "creditline":"Gift of J. Lionberger Davis",
+    "description":"Figure of a crab on rock-like base, claws resting on shell which forms small disg. Mottled glaze, some crystalline glaze. Crab pink, shell cream-colored, base blues, greens, cream.",
+    "justification":null,
+    "type":{
+        "id":"35237189",
+        "name":"Figure"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6450_400930e43ca0576f_b.jpg",
+                "width":1024,
+                "height":812,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6450_400930e43ca0576f_n.jpg",
+                "width":320,
+                "height":254,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6450_400930e43ca0576f_z.jpg",
+                "width":640,
+                "height":507,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Figure, \"crab\", ca. 1904.\nca. 1904. glazed porcelain. Gift of J. Lionberger Davis. 1968-1-4."
+    },
+    "colors":[
+        {
+            "color":"#c2b9b5",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#575243",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#343324",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#8d897b",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#6f715f",
+            "closest_css3":"#696969"
+        }
+    ]
+}

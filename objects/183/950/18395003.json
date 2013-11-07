@@ -1,0 +1,79 @@
+{
+    "id":"18395003",
+    "tms:id":"107660",
+    "accession_number":"1953-155-1",
+    "title":"Drawing, \"Capri, The Southern Coast and The Faraglione\", ca. 1865",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18395003\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35406473",
+    "type_id":"35237093",
+    "date":"ca. 1865",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Brush and gray wash, possibly charcoal, over graphite on off-white wove paper",
+    "markings":null,
+    "signed":"Signed in brush ? and wash, lower left: Wm S. Haseltine",
+    "inscribed":"Recto: Inscribed in graphite, on rocks, center right: red[d]ish grey\/yellow\n[see curtorial remarks for possible verso inscription].",
+    "provenance":"Gift of Mrs. Roger H. Plowden (Mrs. Helen Haseltine Plowden)",
+    "dimensions":"38.1 x 54.3 cm (15 x 21 3\/8 in.)",
+    "creditline":"Gift of Mrs. Helen Haseltine Plowden",
+    "description":"Horizontal view of the rocky coast and sea with large rocks in lower left foreground leading to larger outcroppings in the middle distance, tapering off in the background, as a rowboat, at center, containing three figures, moves shoreward, where boats beach near dwellings, at center left  of middleground.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4994_c2f2da27d86c362d_b.jpg",
+                "width":1024,
+                "height":722,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4994_c2f2da27d86c362d_n.jpg",
+                "width":320,
+                "height":225,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4994_c2f2da27d86c362d_z.jpg",
+                "width":640,
+                "height":451,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18042301",
+            "role_id":"35236565",
+            "person_name":"William Stanley Haseltine",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042301\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Capri, The Southern Coast and The Faraglione\", ca. 1865.\nca. 1865. Brush and gray wash, possibly charcoal, over graphite on off-white wove paper. Gift of Mrs. Helen Haseltine Plowden. 1953-155-1."
+    },
+    "colors":[
+        {
+            "color":"#af957e",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#856d59",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#624e3c",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

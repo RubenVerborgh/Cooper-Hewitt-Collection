@@ -1,0 +1,42 @@
+{
+    "id":"18556809",
+    "tms:id":"71056",
+    "accession_number":"1939-40-4",
+    "title":"Weaver's Thesis Book, ca. 1860",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556809\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35426645",
+    "type_id":"35287913",
+    "date":"ca. 1860",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1939",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: paper bound with buckram covered cardboard with suede back and corners, containing samples and mises-en-carte.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H: 4 x W: 29 x L: 44.3 cm",
+    "creditline":"Museum purchase from Trustees' Book Appropriation",
+    "description":"Uncompleted book written in delicate longhand labelled on title page; \"Theorie des Etoffes Unies et Faconnees\".  Contains 131 samples of fabrics, 99 mises-encarte, numerous sketches for heddle arrangements, technical drawings and descriptions of fabrics.",
+    "justification":null,
+    "type":{
+        "id":"35287913",
+        "name":"Weaver's thesis book"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Weaver's Thesis Book, ca. 1860.\nca. 1860. Medium: paper bound with buckram covered cardboard with suede back and corners, containing samples and mises-en-carte.. Museum purchase from Trustees&#039; Book Appropriation. 1939-40-4."
+    },
+    "colors":[
+
+    ]
+}

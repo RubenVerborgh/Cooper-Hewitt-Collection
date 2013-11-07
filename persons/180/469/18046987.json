@@ -1,0 +1,42 @@
+{
+    "id":"18046987",
+    "url":"http:\/\/collection.cooperhewitt.org\/people\/18046987\/",
+    "name":"Ericson & Weiss",
+    "supersedes":"0",
+    "superseded_by":"0",
+    "count_objects":"75",
+    "biography":null,
+    "woe:country":null,
+    "date":null,
+    "roles":[
+        {
+            "id":"35236565",
+            "name":"Artist",
+            "count_objects":"73"
+        },
+        {
+            "id":"35236691",
+            "name":"Collector",
+            "count_objects":"1"
+        },
+        {
+            "id":"35236655",
+            "name":"Designer",
+            "count_objects":"1"
+        }
+    ],
+    "concordances":{
+        "freebase:id":null,
+        "ulan:id":null,
+        "ima:id":null,
+        "lcnaf:id":null,
+        "ldm:id":null,
+        "moma:id":null,
+        "phm:id":null,
+        "tms:id":"3460",
+        "vanda:id":null,
+        "viaf:id":null,
+        "walker:id":null,
+        "wikipedia:id":null
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18404855",
+    "tms:id":"112612",
+    "accession_number":"1955-78-1-b",
+    "title":"Suspender",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18404855\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"119853",
+    "type_id":"35289889",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1955",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Technique: counted stitch embroidery",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Dexter J. Purinton",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35289889",
+        "name":"Suspender"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Suspender.\nTechnique: counted stitch embroidery. Gift of Mrs. Dexter J. Purinton. 1955-78-1-b."
+    },
+    "colors":[
+
+    ]
+}

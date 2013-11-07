@@ -1,0 +1,95 @@
+{
+    "id":"18678353",
+    "tms:id":"214642",
+    "accession_number":"1969-165-546",
+    "title":"Sample, \"Mexicotton Solid\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678353\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35268079",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1969",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: cotton\nTechnique: plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 31.1 x 30.5 cm (12 1\/4 x 12 in.)",
+    "creditline":"Gift of Alexander H. Girard",
+    "description":"Plain-woven cotton in light green. Slight variations in the color of the warp threads give a subtle stripe effect. Number 1212.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17674_7b2b629225b40e89_b.jpg",
+                "width":1024,
+                "height":1018,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17674_7b2b629225b40e89_n.jpg",
+                "width":320,
+                "height":318,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/17674_7b2b629225b40e89_z.jpg",
+                "width":640,
+                "height":636,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046041",
+            "role_id":"35351535",
+            "person_name":"Alexander Hayden Girard",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18046041",
+            "role_id":"35236655",
+            "person_name":"Alexander Hayden Girard",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046041\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sample, \"Mexicotton Solid\".\nMedium: cotton\nTechnique: plain weave. Gift of Alexander H. Girard. 1969-165-546."
+    },
+    "colors":[
+        {
+            "color":"#8aae4f",
+            "closest_css3":"#9acd32"
+        },
+        {
+            "color":"#505645",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#f1e7ca",
+            "closest_css3":"#ffebcd"
+        },
+        {
+            "color":"#5e554e",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#72775c",
+            "closest_css3":"#696969"
+        }
+    ]
+}

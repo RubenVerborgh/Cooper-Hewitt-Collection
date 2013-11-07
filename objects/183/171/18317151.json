@@ -1,0 +1,92 @@
+{
+    "id":"18317151",
+    "tms:id":"43967",
+    "accession_number":"1930-14-1-a\/k",
+    "title":"Sidewall, 1920\u201330",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18317151\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35393249",
+    "type_id":"35256475",
+    "date":"1920\u201330",
+    "year_start":"1920",
+    "year_end":"1930",
+    "year_acquired":"1930",
+    "decade":"1920",
+    "woe:country":"23424819",
+    "medium":"Machine-printed, block printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall (e): 44.7 x 47.5 cm (17 5\/8 x 18 11\/16 in.)",
+    "creditline":"Gift of Charles Grimmer & Son",
+    "description":"An assortment of wallpapers some of which appear to be French. Varied subject matter. Strong color. Diagonals and stylized foliage. Samples -h\/j are children's papers.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48783_9583e8f00e2d7667_b.jpg",
+                "width":1024,
+                "height":972,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48783_9583e8f00e2d7667_n.jpg",
+                "width":320,
+                "height":304,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48783_9583e8f00e2d7667_z.jpg",
+                "width":640,
+                "height":607,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2916_7e516fbfc3ebf671_b.jpg",
+                "width":1024,
+                "height":969,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2916_7e516fbfc3ebf671_n.jpg",
+                "width":320,
+                "height":303,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2916_7e516fbfc3ebf671_z.jpg",
+                "width":640,
+                "height":606,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1920\u201330.\n1920\u201330. Machine-printed, block printed. Gift of Charles Grimmer &amp; Son. 1930-14-1-a\/k."
+    },
+    "colors":[
+        {
+            "color":"#c5b49d",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#d4a473",
+            "closest_css3":"#e9967a"
+        },
+        {
+            "color":"#a06f46",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

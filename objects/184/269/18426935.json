@@ -1,0 +1,80 @@
+{
+    "id":"18426935",
+    "tms:id":"123852",
+    "accession_number":"1959-66-351",
+    "title":"Button, \"Button with portrait of a lady\", 18th\u201319th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18426935\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35420321",
+    "type_id":"35237135",
+    "date":"18th\u201319th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1959",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Painted ivory, gilded metal, glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Julia Hutchins Wolcott",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237135",
+        "name":"button"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26079_b95f686f2a8f7396_b.jpg",
+                "width":1005,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26079_b95f686f2a8f7396_n.jpg",
+                "width":314,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26079_b95f686f2a8f7396_z.jpg",
+                "width":628,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Button, \"Button with portrait of a lady\", 18th\u201319th century.\n18th\u201319th century. Painted ivory, gilded metal, glass. Bequest of Julia Hutchins Wolcott. 1959-66-351."
+    },
+    "colors":[
+        {
+            "color":"#dcd8c4",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#947d2f",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#abab83",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#84876e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#574625",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

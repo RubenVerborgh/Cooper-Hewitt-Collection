@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "101030", 
+  "images": [], 
+  "id": "18381815", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Miniature, \"bowl\"", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver gilt", 
+  "description": null, 
+  "creditline": "Gift of Anonymous Donor", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18381815/", 
+  "type": {
+    "id": "35264083", 
+    "name": "miniature"
+  }, 
+  "accession_number": "1949-19-42", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1949"
+}

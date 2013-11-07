@@ -1,0 +1,80 @@
+{
+    "id":"18638075",
+    "tms:id":"193896",
+    "accession_number":"1991-89-68",
+    "title":"Sidewall, 1936\u201356",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638075\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35431827",
+    "type_id":"35256475",
+    "date":"1936\u201356",
+    "year_start":"1936",
+    "year_end":"1956",
+    "year_acquired":"1991",
+    "decade":"1930",
+    "woe:country":"23424977",
+    "medium":"Machine-printed, ribbed ground",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Printed on selvage: \"UP, U.W.P.C. OF N.A., UNION MADE, RUN 41, 5056, WATERFAST\"",
+    "provenance":null,
+    "dimensions":"596 x 49 cm (234 5\/8 x 19 5\/16 in. )",
+    "creditline":"Gift of Suzanne Lipschutz",
+    "description":"An allover design of white, cream, and pastel blue and green five petalled leaves and berries with connecting stems on a pale pink ground with satin finish.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11360_dba6ba22c6329727_b.jpg",
+                "width":481,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11360_dba6ba22c6329727_n.jpg",
+                "width":150,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11360_dba6ba22c6329727_z.jpg",
+                "width":301,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1936\u201356.\n1936\u201356. Machine-printed, ribbed ground. Gift of Suzanne Lipschutz. 1991-89-68."
+    },
+    "colors":[
+        {
+            "color":"#a0afb2",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#82898b",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#c7dad8",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#53544f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#2c302c",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

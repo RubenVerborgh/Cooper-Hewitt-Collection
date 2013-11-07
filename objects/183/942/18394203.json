@@ -1,0 +1,80 @@
+{
+    "id":"18394203",
+    "tms:id":"107258",
+    "accession_number":"1953-106-11",
+    "title":"Purse, 1830\u201350",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18394203\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35406413",
+    "type_id":"35264073",
+    "date":"1830\u201350",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, metallic beads\nTechnique: embroidered net with beads",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 12 x 5.1 cm (4 3\/4 x 2 in.)",
+    "creditline":"Gift of Mrs. Albert Blum",
+    "description":"Flat purse of fine black net embroidered with cut steel beads arranged in point ovals and tent stitch in yellow and green silks. Fitted at top to steel frame with catch-chain of steels bands. Lined with pink taffeta.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31938_3e4a8f8c33fff33b_b.jpg",
+                "width":357,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31938_3e4a8f8c33fff33b_n.jpg",
+                "width":112,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31938_3e4a8f8c33fff33b_z.jpg",
+                "width":223,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 1830\u201350.\n1830\u201350. Medium: silk, metallic beads\nTechnique: embroidered net with beads. Gift of Mrs. Albert Blum. 1953-106-11."
+    },
+    "colors":[
+        {
+            "color":"#352f2a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#939fa2",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#4a2016",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#715040",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#a59388",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

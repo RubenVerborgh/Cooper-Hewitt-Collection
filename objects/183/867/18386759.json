@@ -1,0 +1,42 @@
+{
+    "id":"18386759",
+    "tms:id":"103513",
+    "accession_number":"1951-111-53-a",
+    "title":"Edge Lace",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386759\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112427",
+    "type_id":"35285639",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: \nTechnique: needle lace",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Frances Morris",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35285639",
+        "name":"Edge lace"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Edge Lace.\nMedium: \nTechnique: needle lace. Gift of Frances Morris. 1951-111-53-a."
+    },
+    "colors":[
+
+    ]
+}

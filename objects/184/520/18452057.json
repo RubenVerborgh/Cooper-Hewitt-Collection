@@ -1,0 +1,42 @@
+{
+    "id":"18452057",
+    "tms:id":"136556",
+    "accession_number":"1964-45-1",
+    "title":"Bobbin Lace Applique On Net",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18452057\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35291599",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1964",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Edward L. Kallop Jr.",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35291599",
+        "name":"Bobbin lace applique on net"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bobbin Lace Applique On Net.\nGift of Edward L. Kallop Jr.. 1964-45-1."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18316359",
+    "tms:id":"43648",
+    "accession_number":"1928-2-74",
+    "title":"Domino Paper, ca. 1750",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316359\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35367331",
+    "type_id":"35284913",
+    "date":"ca. 1750",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1928",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Block-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"48 x 36 cm (18 7\/8 x 14 3\/16 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Vertical rectangle. Yellow field, with serpentine ribbon intertwined with floral vine, alternating with black band composed of leaves and fruit.",
+    "justification":null,
+    "type":{
+        "id":"35284913",
+        "name":"Domino paper"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27073_467a97d04508dd0c_b.jpg",
+                "width":772,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27073_467a97d04508dd0c_n.jpg",
+                "width":241,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/27073_467a97d04508dd0c_z.jpg",
+                "width":483,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Domino Paper, ca. 1750.\nca. 1750. Block-printed. Gift of Eleanor and Sarah Hewitt. 1928-2-74."
+    },
+    "colors":[
+        {
+            "color":"#b3a594",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#4a464d",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#6b777d",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#857a77",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#aa8384",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18604599",
+    "tms:id":"95824",
+    "accession_number":"1946-65-1",
+    "title":"Embroidered Picture",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18604599\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112617",
+    "type_id":"35259407",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1946",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Technique: embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Marian Hague",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35259407",
+        "name":"Embroidered picture"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26830_e8e2a8119d9a9f37_b.jpg",
+                "width":1024,
+                "height":825,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26830_e8e2a8119d9a9f37_n.jpg",
+                "width":320,
+                "height":258,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26830_e8e2a8119d9a9f37_z.jpg",
+                "width":640,
+                "height":515,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Embroidered Picture.\nTechnique: embroidered. Gift of Marian Hague. 1946-65-1."
+    },
+    "colors":[
+        {
+            "color":"#918661",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#dad2af",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#bcab7b",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#35342c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#564123",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

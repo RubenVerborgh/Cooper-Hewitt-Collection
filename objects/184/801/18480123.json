@@ -1,0 +1,87 @@
+{
+    "id":"18480123",
+    "tms:id":"150894",
+    "accession_number":"1973-15-96",
+    "title":"Drawing, \"Product Label, Swift and Co.\", January 31, 1931",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18480123\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35519637",
+    "type_id":"35237093",
+    "date":"January 31, 1931",
+    "year_start":"1931",
+    "year_end":"1931",
+    "year_acquired":"1973",
+    "decade":"1930",
+    "woe:country":"23424977",
+    "medium":"Brush and gouache, gold paint, graphite on heavy cream paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Henry Dreyfuss",
+    "dimensions":"11.1 x 33 cm (4 3\/8 in. x 13 in.)",
+    "creditline":"Gift of University of California, Los Angeles",
+    "description":"Product label decorated with two orange with gold triangles on a white ground.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39361_6d96b2064af8f4f6_b.jpg",
+                "width":1024,
+                "height":349,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39361_6d96b2064af8f4f6_n.jpg",
+                "width":320,
+                "height":109,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/39361_6d96b2064af8f4f6_z.jpg",
+                "width":640,
+                "height":218,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041501",
+            "role_id":"35236655",
+            "person_name":"Henry Dreyfuss",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041501\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Product Label, Swift and Co.\", January 31, 1931.\nJanuary 31, 1931. Brush and gouache, gold paint, graphite on heavy cream paper. Gift of University of California, Los Angeles. 1973-15-96."
+    },
+    "colors":[
+        {
+            "color":"#d44826",
+            "closest_css3":"#d2691e"
+        },
+        {
+            "color":"#785d3a",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#9d8351",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#984d34",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#caa586",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "180393", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/10128_22251c68937914a4_b.jpg", 
+        "width": 1024, 
+        "is_primary": "1", 
+        "height": 728
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/10128_22251c68937914a4_z.jpg", 
+        "width": 640, 
+        "is_primary": "1", 
+        "height": 455
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/10128_22251c68937914a4_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 228
+      }
+    }
+  ], 
+  "id": "18800461", 
+  "decade": null, 
+  "dimensions": "71 x 89 cm (27 15/16 x 35 1/16 in. )", 
+  "title": "Window Shade, 1983-29-13, 1875\u20131900", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": "23424977", 
+  "department_id": "35347503", 
+  "medium": "Block-printed and flocked with applied mica flakes, canvas", 
+  "description": "Two boys and two large dogs at watering trough. Surrounded by foliage. Printed in metallic colors and burgundy flock on light green fabric support. Flitter shade with applied gold mica flakes.", 
+  "creditline": "Gift of Theodore A. Krieg", 
+  "period_id": null, 
+  "date": "1875\u20131900", 
+  "url": "http://collection.cooperhewitt.org/objects/18800461/", 
+  "type": {
+    "id": "35289345", 
+    "name": "Window shade"
+  }, 
+  "accession_number": "1983-29-13", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1983"
+}

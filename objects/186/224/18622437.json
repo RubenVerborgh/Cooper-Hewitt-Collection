@@ -1,0 +1,42 @@
+{
+    "id":"18622437",
+    "tms:id":"186055",
+    "accession_number":"1987-46-16",
+    "title":"Sample",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622437\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"140881",
+    "type_id":"35268079",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1987",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Technique: discharge printed on indigo dyed plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 10 x 4.7 cm (3 15\/16 x 1 7\/8 in.)",
+    "creditline":"Museum purchase from Au Panier Fleuri Fund",
+    "description":"Orange and yellow circles in orange grid on dark blue.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample.\nTechnique: discharge printed on indigo dyed plain weave. Museum purchase from Au Panier Fleuri Fund. 1987-46-16."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18643287",
+    "tms:id":"196509",
+    "accession_number":"1993-121-12",
+    "title":"Sample",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643287\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"126163",
+    "type_id":"35268079",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: \nTechnique: plain weave with discontinuous supplementary weft (brocade)",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Written on cardboard by Trude Guermonprez. \"INLALY WORK WITH GOLD AND SILK, T.GUERMONPREZ\"",
+    "provenance":null,
+    "dimensions":"Mount: 27.9 x 12.1 cm (11 in. x 4 3\/4 in.)",
+    "creditline":"Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
+    "description":"White with metallic gold brocading. Some of the weft has been twisted to form 3 dimensional curls. Sample is mounted on cardboard.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38418_beb6069ed8c5de63_b.jpg",
+                "width":444,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38418_beb6069ed8c5de63_n.jpg",
+                "width":139,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38418_beb6069ed8c5de63_z.jpg",
+                "width":278,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample.\nMedium: \nTechnique: plain weave with discontinuous supplementary weft (brocade). Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-12."
+    },
+    "colors":[
+        {
+            "color":"#b8a094",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#ded2cc",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#a37e62",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#9c9faa",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#875e39",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

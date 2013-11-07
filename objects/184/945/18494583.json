@@ -1,0 +1,42 @@
+{
+    "id":"18494583",
+    "tms:id":"158182",
+    "accession_number":"1978-146-1398",
+    "title":"Matchsafe",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18494583\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389421",
+    "type_id":"35287419",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1978",
+    "decade":null,
+    "woe:country":null,
+    "medium":"metal",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 5.1 x 3 x 1.2 cm (2 x 1 3\/16 x 1\/2 in.)",
+    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287419",
+        "name":"Matchsafe"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Matchsafe.\nmetal. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-1398."
+    },
+    "colors":[
+
+    ]
+}

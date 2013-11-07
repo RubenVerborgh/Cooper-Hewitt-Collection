@@ -1,0 +1,80 @@
+{
+    "id":"18333811",
+    "tms:id":"50704",
+    "accession_number":"1931-86-2",
+    "title":"Armchair, ca. 1800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18333811\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35411547",
+    "type_id":"35237947",
+    "date":"ca. 1800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"painted and gilded beech wood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"82.5 x 56.5 x 63.0 cm (32 1\/2 x 22 1\/4 x 24 13\/16 in. )",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Chair has crozier posts and a narrow top rail.  Lower back rail is pierced with full and half lozenges.  A caned oval panel and two vertical splints included.  Simple curved arms are supported on stumps which curve out to meet extensions of curved, tapered, octagonal front legs.  Rear legs raked sharply backwards.  Caned seat.  On black ground, gilded design of panels and lines.",
+    "justification":null,
+    "type":{
+        "id":"35237947",
+        "name":"armchair"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3076_6375359985618713_b.jpg",
+                "width":749,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3076_6375359985618713_n.jpg",
+                "width":234,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3076_6375359985618713_z.jpg",
+                "width":468,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Armchair, ca. 1800.\nca. 1800. painted and gilded beech wood. Gift of Eleanor and Sarah Hewitt. 1931-86-2."
+    },
+    "colors":[
+        {
+            "color":"#a7aa9c",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#2d241b",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#888a73",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#240d0a",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#6a6757",
+            "closest_css3":"#696969"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18649305",
+    "tms:id":"199562",
+    "accession_number":"1994-71-9",
+    "title":"Vase, ca. 1925",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649305\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371509",
+    "type_id":"35237225",
+    "date":"ca. 1925",
+    "year_start":"1920",
+    "year_end":"1930",
+    "year_acquired":"1994",
+    "decade":"1920",
+    "woe:country":"23424909",
+    "medium":"Glass, enamel",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 34.9 x 13.5 cm diameter  (13 3\/4 x 5 5\/16 in.)",
+    "creditline":"Museum purchase from the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Funds",
+    "description":"Clear glass vase with red and black enamel decoration",
+    "justification":null,
+    "type":{
+        "id":"35237225",
+        "name":"Vase"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Vase, ca. 1925.\nca. 1925. Glass, enamel. Museum purchase from the Decorative Arts Association Acquisition and Smithsonian Collections Acquisition Funds. 1994-71-9."
+    },
+    "colors":[
+
+    ]
+}

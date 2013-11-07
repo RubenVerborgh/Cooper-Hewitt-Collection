@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "180133", 
+  "images": [], 
+  "id": "18799943", 
+  "decade": null, 
+  "dimensions": "H x diam.: 20.9 x 8 cm (8 1/4 x 3 1/8 in.)", 
+  "title": "Caster, 1982-39-1-a,b", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver", 
+  "description": null, 
+  "creditline": "Gift of Phelps Warren", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18799943/", 
+  "type": {
+    "id": "35251361", 
+    "name": "caster"
+  }, 
+  "accession_number": "1982-39-1-a,b", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1982"
+}

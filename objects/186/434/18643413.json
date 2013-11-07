@@ -1,0 +1,80 @@
+{
+    "id":"18643413",
+    "tms:id":"196573",
+    "accession_number":"1993-121-7",
+    "title":"Rug Or Hanging Sample, 1945\u201365",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643413\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"139983",
+    "type_id":"35294711",
+    "date":"1945\u201365",
+    "year_start":"1945",
+    "year_end":"1965",
+    "year_acquired":"1993",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Medium: \nTechnique: knotted pile",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 44 x 48 cm (17 5\/16 x 18 7\/8 in.)",
+    "creditline":"Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives",
+    "description":"Sampler for a knotted pile rug or hanging woven in off-white with circular shape in shades of blue and green.",
+    "justification":null,
+    "type":{
+        "id":"35294711",
+        "name":"Rug or hanging sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38413_4247c4a5e1ee5601_b.jpg",
+                "width":1024,
+                "height":921,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38413_4247c4a5e1ee5601_n.jpg",
+                "width":320,
+                "height":288,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/38413_4247c4a5e1ee5601_z.jpg",
+                "width":640,
+                "height":576,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Rug Or Hanging Sample, 1945\u201365.\n1945\u201365. Medium: \nTechnique: knotted pile. Gift of Mr. Eric and Mrs. Sylvia Elsesser, The Trude Guermonprez Archives. 1993-121-7."
+    },
+    "colors":[
+        {
+            "color":"#bbb095",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#18281b",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#314b56",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#958461",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#d4ccc9",
+            "closest_css3":"#d3d3d3"
+        }
+    ]
+}

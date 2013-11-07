@@ -1,0 +1,42 @@
+{
+    "id":"18441269",
+    "tms:id":"131106",
+    "accession_number":"1962-135-79-d",
+    "title":"Magazine",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18441269\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35247567",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Griffith Baily Coale",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35247567",
+        "name":"magazine"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Magazine.\nGift of Mrs. Griffith Baily Coale. 1962-135-79-d."
+    },
+    "colors":[
+
+    ]
+}

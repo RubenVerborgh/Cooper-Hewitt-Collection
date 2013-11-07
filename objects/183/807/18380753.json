@@ -1,0 +1,80 @@
+{
+    "id":"18380753",
+    "tms:id":"98014",
+    "accession_number":"1948-134-79",
+    "title":"Print, \"Cave of the Hermitess (Sennyo no Hora), No. 26\", ca. 1910",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18380753\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35236873",
+    "date":"ca. 1910",
+    "year_start":"1905",
+    "year_end":"1915",
+    "year_acquired":"1948",
+    "decade":"1900",
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":"In graphite, lower left: Cave of the Hermitess",
+    "signed":null,
+    "inscribed":"Inscribed in black ink, lower left: [Japanese characters] \/ no. 26 \/ Sennyo no Hora.",
+    "provenance":"Mary Rutherford Jay",
+    "dimensions":"40.8 x 27.9 cm (16 1\/16 in. x 11 in.)",
+    "creditline":"Gift of Mary Rutherford Jay",
+    "description":"A large iris, outer perianth leaves in mottled magenta; inner leaves purple.",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51038_54ba242317ca5adf_b.jpg",
+                "width":709,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51038_54ba242317ca5adf_n.jpg",
+                "width":222,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51038_54ba242317ca5adf_z.jpg",
+                "width":443,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Cave of the Hermitess (Sennyo no Hora), No. 26\", ca. 1910.\nca. 1910. 40.8 x 27.9 cm (16 1\/16 in. x 11 in.). Gift of Mary Rutherford Jay. 1948-134-79."
+    },
+    "colors":[
+        {
+            "color":"#af5374",
+            "closest_css3":"#cd5c5c"
+        },
+        {
+            "color":"#812c3d",
+            "closest_css3":"#a52a2a"
+        },
+        {
+            "color":"#bece95",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#ca88a1",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#849e80",
+            "closest_css3":"#808080"
+        }
+    ]
+}

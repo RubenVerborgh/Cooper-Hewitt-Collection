@@ -1,0 +1,32 @@
+{
+    "id":"18060899",
+    "url":"http:\/\/collection.cooperhewitt.org\/people\/18060899\/",
+    "name":"Tord Boontje",
+    "supersedes":"0",
+    "superseded_by":"0",
+    "count_objects":"2",
+    "biography":null,
+    "woe:country":"23424909",
+    "date":"Dutch, b. 1968",
+    "roles":[
+        {
+            "id":"35236655",
+            "name":"Designer",
+            "count_objects":"2"
+        }
+    ],
+    "concordances":{
+        "freebase:id":"\/m\/06zr9s4",
+        "ulan:id":null,
+        "ima:id":"5658",
+        "lcnaf:id":null,
+        "ldm:id":null,
+        "moma:id":null,
+        "phm:id":null,
+        "tms:id":"13650",
+        "vanda:id":"5727",
+        "viaf:id":"24125511",
+        "walker:id":null,
+        "wikipedia:id":null
+    }
+}

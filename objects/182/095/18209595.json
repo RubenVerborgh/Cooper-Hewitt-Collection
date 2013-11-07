@@ -1,0 +1,100 @@
+{
+    "id":"18209595",
+    "tms:id":"24824",
+    "accession_number":"1920-15-403",
+    "title":"Armchair, ca. 1750",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18209595\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35392391",
+    "type_id":"35237947",
+    "date":"ca. 1750",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1920",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Carved fruitwood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"93 x 59 x 49 cm (36 5\/8 x 23 1\/4 x 19 5\/16 in. )",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"The open back and splat are formed by two intertwined curvate members moulded with scrolls.  Curved arms and arm stumps.  Cabriole front and rear legs. seat caned.",
+    "justification":null,
+    "type":{
+        "id":"35237947",
+        "name":"armchair"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2263_cfa512f568711b6b_b.jpg",
+                "width":722,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2263_cfa512f568711b6b_n.jpg",
+                "width":226,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2263_cfa512f568711b6b_z.jpg",
+                "width":451,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2264_7912dfb3c3b1de2b_b.jpg",
+                "width":685,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2264_7912dfb3c3b1de2b_n.jpg",
+                "width":214,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2264_7912dfb3c3b1de2b_z.jpg",
+                "width":428,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Armchair, ca. 1750.\nca. 1750. Carved fruitwood. Gift of Eleanor and Sarah Hewitt. 1920-15-403."
+    },
+    "colors":[
+        {
+            "color":"#200d0d",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#44170f",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#564b42",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#8d8071",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#9f9e97",
+            "closest_css3":"#a9a9a9"
+        }
+    ]
+}

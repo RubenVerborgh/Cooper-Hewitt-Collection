@@ -1,0 +1,87 @@
+{
+    "id":"18701059",
+    "tms:id":"226171",
+    "accession_number":"2004-14-2",
+    "title":"Drawing, \"Columbus Circle and Huntington Hartford Building and Thermometer\", 1963",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18701059\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35380985",
+    "type_id":"35237093",
+    "date":"1963",
+    "year_start":"1963",
+    "year_end":"1963",
+    "year_acquired":"2004",
+    "decade":"1960",
+    "woe:country":null,
+    "medium":"Brush and gouache",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 27.9 x 106.7 cm (11 x 42 in.)",
+    "creditline":"Gift of John Rombola",
+    "description":"Original artwork for radio station WPAT Carcard project",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49025_302be22358efc523_b.jpg",
+                "width":1024,
+                "height":275,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49025_302be22358efc523_n.jpg",
+                "width":320,
+                "height":86,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49025_302be22358efc523_z.jpg",
+                "width":640,
+                "height":172,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18057787",
+            "role_id":"35236667",
+            "person_name":"Radio Station WPAT",
+            "role_name":"Client",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18057787\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236667\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Columbus Circle and Huntington Hartford Building and Thermometer\", 1963.\n1963. Brush and gouache. Gift of John Rombola. 2004-14-2."
+    },
+    "colors":[
+        {
+            "color":"#f2ecd5",
+            "closest_css3":"#faebd7"
+        },
+        {
+            "color":"#f9c51a",
+            "closest_css3":"#ffd700"
+        },
+        {
+            "color":"#b39353",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#ed7b22",
+            "closest_css3":"#d2691e"
+        },
+        {
+            "color":"#5eaeaf",
+            "closest_css3":"#5f9ea0"
+        }
+    ]
+}

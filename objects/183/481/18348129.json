@@ -1,0 +1,42 @@
+{
+    "id":"18348129",
+    "tms:id":"57862",
+    "accession_number":"1938-57-1208-c",
+    "title":"Bobbin Lace Continuous Tape",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18348129\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35287985",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Erskine Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287985",
+        "name":"Bobbin lace continuous tape"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bobbin Lace Continuous Tape.\nBequest of Erskine Hewitt. 1938-57-1208-c."
+    },
+    "colors":[
+
+    ]
+}

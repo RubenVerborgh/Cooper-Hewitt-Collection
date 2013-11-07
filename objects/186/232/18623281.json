@@ -1,0 +1,42 @@
+{
+    "id":"18623281",
+    "tms:id":"186477",
+    "accession_number":"1987-96-3",
+    "title":"Bowl, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18623281\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35237197",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1987",
+    "decade":null,
+    "woe:country":null,
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 10.5 x 25.5 cm (4 1\/8 x 10 1\/16 in.)",
+    "creditline":"Gift of Irene and Paul Hollister",
+    "description":"Dark purple and white glass bowl",
+    "justification":null,
+    "type":{
+        "id":"35237197",
+        "name":"Bowl"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bowl, 19th century.\n19th century. glass. Gift of Irene and Paul Hollister. 1987-96-3."
+    },
+    "colors":[
+
+    ]
+}

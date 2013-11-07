@@ -1,0 +1,42 @@
+{
+    "id":"18400959",
+    "tms:id":"110657",
+    "accession_number":"1954-23-2",
+    "title":"Drawing, ca. 1848",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18400959\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35407031",
+    "type_id":"35237093",
+    "date":"ca. 1848",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1954",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Rose, dark red, orange, and yellow tempera on paper (mounted on paper)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of John Judkyn",
+    "description":"Vertical rectangle.  One repeat showing red and orange stylized foliage against a yellow ground.  Partially squared off (in pencil) for transfer.  Continuation of repeat on 1954-23-7.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, ca. 1848.\nca. 1848. Rose, dark red, orange, and yellow tempera on paper (mounted on paper). Gift of John Judkyn. 1954-23-2."
+    },
+    "colors":[
+
+    ]
+}

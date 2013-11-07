@@ -1,0 +1,79 @@
+{
+    "id":"18637833",
+    "tms:id":"193772",
+    "accession_number":"1991-89-21",
+    "title":"Sidewall, \"Westward-Ho\", 1953",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637833\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1953",
+    "year_start":"1953",
+    "year_end":"1953",
+    "year_acquired":"1991",
+    "decade":"1950",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Printed on selvage: \"JOIN, TRIM, RUN A, AMERICAN HOLIDAY COLLECTION\"",
+    "provenance":null,
+    "dimensions":"W: 56 cm (22 1\/16 in.)",
+    "creditline":"Gift of Suzanne Lipschutz",
+    "description":"Children's paper with white, turquoise, and brown covered wagons, horses, and bulls on a light blue ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11633_17f815fe6a97836d_b.jpg",
+                "width":658,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11633_17f815fe6a97836d_n.jpg",
+                "width":206,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11633_17f815fe6a97836d_z.jpg",
+                "width":411,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046427",
+            "role_id":"35236655",
+            "person_name":"James Seeman Studios Inc.",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046427\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, \"Westward-Ho\", 1953.\n1953. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-21."
+    },
+    "colors":[
+        {
+            "color":"#cfc9c4",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#856957",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#56493b",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

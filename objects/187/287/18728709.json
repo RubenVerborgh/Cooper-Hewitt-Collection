@@ -1,0 +1,80 @@
+{
+    "id":"18728709",
+    "tms:id":"240355",
+    "accession_number":"2008-42-5-a,b",
+    "title":"Butter Dish, ca. 1925",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18728709\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389891",
+    "type_id":"35300111",
+    "date":"ca. 1925",
+    "year_start":"1920",
+    "year_end":"1930",
+    "year_acquired":"2008",
+    "decade":"1920",
+    "woe:country":null,
+    "medium":"Porcelain",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of the Estate of Edgar Sachs, from the Collection of Hilda G. and Edgar Sachs",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35300111",
+        "name":"butter dish"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42375_4e35cbfad81f8409_b.jpg",
+                "width":1024,
+                "height":470,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42375_4e35cbfad81f8409_n.jpg",
+                "width":320,
+                "height":147,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42375_4e35cbfad81f8409_z.jpg",
+                "width":640,
+                "height":294,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Butter Dish, ca. 1925.\nca. 1925. Porcelain. Gift of the Estate of Edgar Sachs, from the Collection of Hilda G. and Edgar Sachs. 2008-42-5-a,b."
+    },
+    "colors":[
+        {
+            "color":"#847d76",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#a22512",
+            "closest_css3":"#b22222"
+        },
+        {
+            "color":"#664c3b",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#a17859",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#453e30",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

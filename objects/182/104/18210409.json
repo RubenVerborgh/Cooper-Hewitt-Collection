@@ -1,0 +1,42 @@
+{
+    "id":"18210409",
+    "tms:id":"24954",
+    "accession_number":"1920-19-84-a,b",
+    "title":"Wash Stand, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18210409\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389779",
+    "type_id":"35270677",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1920",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"wood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 91.3 x 34.5 cm (35 15\/16 x 13 9\/16 in.)",
+    "creditline":"Gift of Mrs. John Innes Kane",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35270677",
+        "name":"Wash stand"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Wash Stand, 19th century.\n19th century. wood. Gift of Mrs. John Innes Kane. 1920-19-84-a,b."
+    },
+    "colors":[
+
+    ]
+}

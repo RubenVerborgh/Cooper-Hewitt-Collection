@@ -1,0 +1,96 @@
+{
+    "id":"18616961",
+    "tms:id":"177010",
+    "accession_number":"1981-28-4",
+    "title":"Sampler, 1840",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616961\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410907",
+    "type_id":"35256439",
+    "date":"1840",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1981",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross and double running stitches on a plain weave foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 35 x 41.3 cm (13 3\/4 x 16 1\/4 in.)",
+    "creditline":"Bequest of Gertrude M. Oppenheimer",
+    "description":"Signature and floral motifs within 5.5 cm (2 3\/16\") border of the twelve Zodiac signs divided by season. In each corner is a picture of a person personifying one of the four seasons. Idea of Zodiac border continues from 15th-16th century woven tapestries.",
+    "justification":null,
+    "type":{
+        "id":"35256439",
+        "name":"Sampler"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55214_0eda2308587d961c_b.jpg",
+                "width":1024,
+                "height":871,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55214_0eda2308587d961c_n.jpg",
+                "width":320,
+                "height":272,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55214_0eda2308587d961c_z.jpg",
+                "width":640,
+                "height":544,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33999_35693b2c704b38f5_b.jpg",
+                "width":1024,
+                "height":878,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33999_35693b2c704b38f5_n.jpg",
+                "width":320,
+                "height":274,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33999_35693b2c704b38f5_z.jpg",
+                "width":640,
+                "height":548,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sampler, 1840.\n1840. Medium: silk embroidery on cotton foundation\nTechnique: embroidered in cross and double running stitches on a plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-4."
+    },
+    "colors":[
+        {
+            "color":"#a59050",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#807a4d",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#6c5f39",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#e2dacc",
+            "closest_css3":"#dcdcdc"
+        }
+    ]
+}

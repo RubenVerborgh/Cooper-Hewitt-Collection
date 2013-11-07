@@ -1,0 +1,80 @@
+{
+    "id":"18622975",
+    "tms:id":"186324",
+    "accession_number":"1987-70-1",
+    "title":"Textile, 1810\u201315",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18622975\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"1810\u201315",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1987",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: cotton\nTechnique: block printed on plain weave; blue and black printed; orange and yellow immersion dyed. (One color is a development of the other probably using a chromate.); many block marks present; size of the repeat unit is probably not the s",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp: 96cm (371\/2 in.) by weft: 63.5 cm (25 in.) Both selvedges present.\nPattern: Size of unit of repeat: 16 3\/4 by 13 inches, in offset (half-drop )        alignment.",
+    "creditline":"Gift of Cora Ginsburg",
+    "description":"Two curving tree trunks, one sparse, the other with many leaves and flowers, in an offset alignment. Bright orange, yellow, blue and black.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46744_78b9646cabab2d96_b.jpg",
+                "width":677,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46744_78b9646cabab2d96_n.jpg",
+                "width":212,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46744_78b9646cabab2d96_z.jpg",
+                "width":423,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 1810\u201315.\n1810\u201315. Medium: cotton\nTechnique: block printed on plain weave; blue and black printed; orange and yellow immersion dyed. (One color is a development of the other probably using a chromate.); many block marks present; size of the repeat unit is probably not the s. Gift of Cora Ginsburg. 1987-70-1."
+    },
+    "colors":[
+        {
+            "color":"#ca7f24",
+            "closest_css3":"#d2691e"
+        },
+        {
+            "color":"#3f4550",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#b79532",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#476074",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#7f5834",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

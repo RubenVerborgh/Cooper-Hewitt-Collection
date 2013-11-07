@@ -1,0 +1,42 @@
+{
+    "id":"18136007",
+    "tms:id":"12500",
+    "accession_number":"1903-11-31",
+    "title":"Tapestry Weave",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18136007\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35259411",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1903",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Sarah Cooper Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35259411",
+        "name":"tapestry weave"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tapestry Weave.\nGift of Sarah Cooper Hewitt. 1903-11-31."
+    },
+    "colors":[
+
+    ]
+}

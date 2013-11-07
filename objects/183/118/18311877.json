@@ -1,0 +1,80 @@
+{
+    "id":"18311877",
+    "tms:id":"41847",
+    "accession_number":"1926-11-15",
+    "title":"Gaming Purse, 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18311877\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394299",
+    "type_id":"35284073",
+    "date":"17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1926",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Medium: silk, metal thread\nTechnique: embroidered on velvet",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 6 x 20 cm (2 3\/8 x 7 7\/8 in.)",
+    "creditline":"Gift of Charles W. Gould",
+    "description":"Purse of red velvet with silk drawstring. Embroidery is in metal thread in design of conventionalized forms radiating from center.",
+    "justification":null,
+    "type":{
+        "id":"35284073",
+        "name":"Gaming purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30058_5c4462ef1800924e_b.jpg",
+                "width":1024,
+                "height":976,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30058_5c4462ef1800924e_n.jpg",
+                "width":320,
+                "height":305,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/30058_5c4462ef1800924e_z.jpg",
+                "width":640,
+                "height":610,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Gaming Purse, 17th century.\n17th century. Medium: silk, metal thread\nTechnique: embroidered on velvet. Gift of Charles W. Gould. 1926-11-15."
+    },
+    "colors":[
+        {
+            "color":"#2f110e",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#5b5c52",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#3a3126",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#5a1e17",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#794d37",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

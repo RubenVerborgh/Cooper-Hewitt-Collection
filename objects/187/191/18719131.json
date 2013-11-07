@@ -1,0 +1,42 @@
+{
+    "id":"18719131",
+    "tms:id":"235475",
+    "accession_number":"1991-81-1175",
+    "title":"Spoon Top, \"Palisander\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18719131\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389779",
+    "type_id":"35305293",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1991",
+    "decade":null,
+    "woe:country":null,
+    "medium":"wood",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of David and Gregory Wallance",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35305293",
+        "name":"Spoon top"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Spoon Top, \"Palisander\".\nwood. Gift of David and Gregory Wallance. 1991-81-1175."
+    },
+    "colors":[
+
+    ]
+}

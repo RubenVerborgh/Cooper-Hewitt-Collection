@@ -1,0 +1,80 @@
+{
+    "id":"18639975",
+    "tms:id":"194852",
+    "accession_number":"1992-39-10",
+    "title":"Dish, 1991",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18639975\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402647",
+    "type_id":"35248735",
+    "date":"1991",
+    "year_start":"1991",
+    "year_end":"1991",
+    "year_acquired":"1992",
+    "decade":"1990",
+    "woe:country":"23424977",
+    "medium":"Earthenware",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Museum purchase from Decorative Arts Association Acquisition Fund",
+    "description":"Leaf shaped dish.",
+    "justification":null,
+    "type":{
+        "id":"35248735",
+        "name":"dish"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15707_2ec04a0f872a25da_b.jpg",
+                "width":1024,
+                "height":812,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15707_2ec04a0f872a25da_n.jpg",
+                "width":320,
+                "height":254,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15707_2ec04a0f872a25da_z.jpg",
+                "width":640,
+                "height":508,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Dish, 1991.\n1991. Earthenware. Museum purchase from Decorative Arts Association Acquisition Fund. 1992-39-10."
+    },
+    "colors":[
+        {
+            "color":"#2a2735",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#89483f",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#2f1c1a",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#645663",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#c5948b",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

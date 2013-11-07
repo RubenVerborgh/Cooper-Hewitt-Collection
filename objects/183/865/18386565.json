@@ -1,0 +1,80 @@
+{
+    "id":"18386565",
+    "tms:id":"103416",
+    "accession_number":"1951-105-22",
+    "title":"Miser's Purse, 1830\u201360",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18386565\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35392901",
+    "type_id":"35269513",
+    "date":"1830\u201360",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, steel beads\nTechnique: knitted using openwork stitches",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 36 x 4 cm (14 3\/16 x 1 9\/16 in.)",
+    "creditline":"Gift of Richard C. Greenleaf",
+    "description":"Knitted miser's purse of tan silk with cut steel beads, with beaded tassel at rounded end and bead loop fringe at flat end. Plain cut steel rings to fasten.",
+    "justification":null,
+    "type":{
+        "id":"35269513",
+        "name":"Miser's purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5288_b94f9b61a4d39155_b.jpg",
+                "width":603,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5288_b94f9b61a4d39155_n.jpg",
+                "width":188,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5288_b94f9b61a4d39155_z.jpg",
+                "width":377,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Miser's Purse, 1830\u201360.\n1830\u201360. Medium: silk, steel beads\nTechnique: knitted using openwork stitches. Gift of Richard C. Greenleaf. 1951-105-22."
+    },
+    "colors":[
+        {
+            "color":"#d3bcb4",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#9f6745",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#5d382b",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#7f6c6e",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#5d4f53",
+            "closest_css3":"#696969"
+        }
+    ]
+}

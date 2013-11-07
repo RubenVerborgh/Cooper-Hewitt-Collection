@@ -1,0 +1,42 @@
+{
+    "id":"18481897",
+    "tms:id":"151805",
+    "accession_number":"1973-51-87",
+    "title":"Fragment, late 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481897\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35254623",
+    "date":"late 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: cotton\nTechnique: plate printed on plain weave; pink, purple, brown, blue and yellow added by brush",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"H x W: 25 in. x 38 1\/2 in. (63.5 x 97.8 cm)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Design of flowers and tree trunk.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, late 18th century.\nlate 18th century. Medium: cotton\nTechnique: plate printed on plain weave; pink, purple, brown, blue and yellow added by brush. Gift of Josephine Howell. 1973-51-87."
+    },
+    "colors":[
+
+    ]
+}

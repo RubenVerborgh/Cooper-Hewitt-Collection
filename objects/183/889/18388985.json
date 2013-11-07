@@ -1,0 +1,80 @@
+{
+    "id":"18388985",
+    "tms:id":"104637",
+    "accession_number":"1951-60-9",
+    "title":"Cap Streamer, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18388985\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35284867",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":"23424757",
+    "medium":"Medium: linen\nTechnique: bobbin lace, Brussels style",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35284867",
+        "name":"Cap streamer"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33774_120fafd9ac19bb7e_b.jpg",
+                "width":271,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33774_120fafd9ac19bb7e_n.jpg",
+                "width":85,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33774_120fafd9ac19bb7e_z.jpg",
+                "width":169,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Cap Streamer, 18th century.\n18th century. Medium: linen\nTechnique: bobbin lace, Brussels style. Gift of Mrs. R. Keith Kane from the estate of Mrs. Robert B. Noyes. 1951-60-9."
+    },
+    "colors":[
+        {
+            "color":"#a09eb1",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#ecddf1",
+            "closest_css3":"#e6e6fa"
+        },
+        {
+            "color":"#7e8b89",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#56645e",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#2d392e",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

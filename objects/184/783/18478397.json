@@ -1,0 +1,80 @@
+{
+    "id":"18478397",
+    "tms:id":"150008",
+    "accession_number":"1972-75-62",
+    "title":"Sample, ca. 1948",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18478397\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35379399",
+    "type_id":"35268079",
+    "date":"ca. 1948",
+    "year_start":"1943",
+    "year_end":"1953",
+    "year_acquired":"1972",
+    "decade":"1940",
+    "woe:country":"23424977",
+    "medium":"Medium: synthetic, cotton\nTechnique: 2\/2 twill",
+    "markings":null,
+    "signed":null,
+    "inscribed":"#2649 c. 1948 Dorothy Liebes",
+    "provenance":null,
+    "dimensions":"Warp x Weft: 22 x 24 cm (8 11\/16 x 9 7\/16 in.)",
+    "creditline":"Gift of the Estate of Dorothy (Liebes) Morin",
+    "description":"Twill weave in muted colors. Warp is stripes of seventeen ends, each green, gray, light brown and light purple boucle. Weft is a repeating pattern sequence of seventeen gray chenille yarns with flat metallic yarns, sixteen brown chenille yarns, nineteen flat metallic with narrow gray ratin\u00e9 yearns, and fourteen blue chenille yarns.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35946_0d2a0ffdb42194fc_b.jpg",
+                "width":793,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35946_0d2a0ffdb42194fc_n.jpg",
+                "width":248,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35946_0d2a0ffdb42194fc_z.jpg",
+                "width":496,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample, ca. 1948.\nca. 1948. Medium: synthetic, cotton\nTechnique: 2\/2 twill. Gift of the Estate of Dorothy (Liebes) Morin. 1972-75-62."
+    },
+    "colors":[
+        {
+            "color":"#60675e",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#423428",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#847f6e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#695b49",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#40464f",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

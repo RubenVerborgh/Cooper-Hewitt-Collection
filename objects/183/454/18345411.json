@@ -1,0 +1,80 @@
+{
+    "id":"18345411",
+    "tms:id":"56580",
+    "accession_number":"1937-74-16",
+    "title":"Swatch",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18345411\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35518947",
+    "type_id":"35287849",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1937",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk warp and weft; rayon supplementary pile",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 7.6 x 19.1 cm (3 in. x 7 1\/2 in.)",
+    "creditline":"Gift of Edith Wetmore",
+    "description":"Black ground with velvet polka dots in pink and white.",
+    "justification":null,
+    "type":{
+        "id":"35287849",
+        "name":"Swatch"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51845_b91d97b0bff1ea58_b.jpg",
+                "width":1024,
+                "height":457,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51845_b91d97b0bff1ea58_n.jpg",
+                "width":320,
+                "height":143,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/51845_b91d97b0bff1ea58_z.jpg",
+                "width":640,
+                "height":285,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Swatch.\nMedium: silk warp and weft; rayon supplementary pile. Gift of Edith Wetmore. 1937-74-16."
+    },
+    "colors":[
+        {
+            "color":"#b0c2ce",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#71303b",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#8996a0",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#33141c",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#98495b",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

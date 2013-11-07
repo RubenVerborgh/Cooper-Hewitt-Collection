@@ -1,0 +1,42 @@
+{
+    "id":"18104911",
+    "tms:id":"7047",
+    "accession_number":"1899-5-50",
+    "title":"Trimming Fragment, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18104911\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410759",
+    "type_id":"35256329",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1899",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTewchnique: woven",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Georges A. Glaenzer",
+    "description":"Vine and ornament within borders in yellow.",
+    "justification":null,
+    "type":{
+        "id":"35256329",
+        "name":"Trimming fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Trimming Fragment, 19th century.\n19th century. Medium: silk\nTewchnique: woven. Gift of Georges A. Glaenzer. 1899-5-50."
+    },
+    "colors":[
+
+    ]
+}

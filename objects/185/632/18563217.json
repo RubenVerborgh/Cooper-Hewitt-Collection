@@ -1,0 +1,42 @@
+{
+    "id":"18563217",
+    "tms:id":"74812",
+    "accession_number":"1941-31-48",
+    "title":"Rank Badge, Ch'ing",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18563217\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367389",
+    "type_id":"35256533",
+    "date":"Ch'ing",
+    "year_start":null,
+    "year_end":"1912",
+    "year_acquired":"1941",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of the Estate of Mrs. Robert H. Patterson",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35256533",
+        "name":"Rank badge"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Rank Badge, Ch'ing.\nCh&#039;ing. embroidered. Gift of the Estate of Mrs. Robert H. Patterson. 1941-31-48."
+    },
+    "colors":[
+
+    ]
+}

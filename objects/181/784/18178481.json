@@ -1,0 +1,42 @@
+{
+    "id":"18178481",
+    "tms:id":"19558",
+    "accession_number":"1913-23-1",
+    "title":"Medal",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18178481\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389405",
+    "type_id":"35259189",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1913",
+    "decade":null,
+    "woe:country":null,
+    "medium":"brass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mr. Kaltenberg",
+    "description":"national academy of design",
+    "justification":null,
+    "type":{
+        "id":"35259189",
+        "name":"Medal"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Medal.\nbrass. Gift of Mr. Kaltenberg. 1913-23-1."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18650161",
+    "tms:id":"200006",
+    "accession_number":"1995-145-11",
+    "title":"Letterhead, \"Letterhead: Independent P\", ca. 1986\u201392",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18650161\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35423909",
+    "type_id":"35238811",
+    "date":"ca. 1986\u201392",
+    "year_start":"1976",
+    "year_end":"1995",
+    "year_acquired":"1995",
+    "decade":"1970",
+    "woe:country":"23424977",
+    "medium":"Support: tan paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"11 x 8 7\/16 inches",
+    "creditline":"Gift of Bruce Licher",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35238811",
+        "name":"letterhead"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12753_3a3e1c9271a4b56a_b.jpg",
+                "width":805,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12753_3a3e1c9271a4b56a_n.jpg",
+                "width":252,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12753_3a3e1c9271a4b56a_z.jpg",
+                "width":503,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Letterhead, \"Letterhead: Independent P\", ca. 1986\u201392.\nca. 1986\u201392. Support: tan paper. Gift of Bruce Licher. 1995-145-11."
+    },
+    "colors":[
+        {
+            "color":"#e3d7dc",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#cea8a1",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#a07f74",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#9c9099",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#7f5f5d",
+            "closest_css3":"#696969"
+        }
+    ]
+}

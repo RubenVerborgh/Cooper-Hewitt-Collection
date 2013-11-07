@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "47441", 
+  "images": [], 
+  "id": "18325723", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Portrait Miniature, 1931-6-82", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": null, 
+  "description": "girl in white dress", 
+  "creditline": "Bequest of Sarah Cooper Hewitt", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18325723/", 
+  "type": {
+    "id": "35264093", 
+    "name": "Portrait miniature"
+  }, 
+  "accession_number": "1931-6-82", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1931"
+}

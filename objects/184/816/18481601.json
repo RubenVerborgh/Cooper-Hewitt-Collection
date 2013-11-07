@@ -1,0 +1,42 @@
+{
+    "id":"18481601",
+    "tms:id":"151656",
+    "accession_number":"1973-46-6",
+    "title":"Textile, ca. 1825",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481601\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"ca. 1825",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: cotton\nTechnique: roller printed on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. Benjamin Ginsburg",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1825.\nca. 1825. Medium: cotton\nTechnique: roller printed on plain weave. Gift of Mrs. Benjamin Ginsburg. 1973-46-6."
+    },
+    "colors":[
+
+    ]
+}

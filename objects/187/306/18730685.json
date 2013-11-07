@@ -1,0 +1,68 @@
+{
+    "id":"18730685",
+    "tms:id":"241436",
+    "accession_number":"2009-16-22",
+    "title":"Drawing, \"Design for a Steak Knife:  Iona\", 1979\u201380",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18730685\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35375107",
+    "type_id":"35237093",
+    "date":"1979\u201380",
+    "year_start":"1979",
+    "year_end":"1980",
+    "year_acquired":"2009",
+    "decade":"1970",
+    "woe:country":null,
+    "medium":"Photostat",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Sheet: 2.7 x 22 cm (1 1\/16 x 8 11\/16 in.) (irregular)",
+    "creditline":"Gift of Gerald Gulotta",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46871_96bfc61eaf8e3dd9_b.jpg",
+                "width":1024,
+                "height":191,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46871_96bfc61eaf8e3dd9_n.jpg",
+                "width":320,
+                "height":60,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46871_96bfc61eaf8e3dd9_z.jpg",
+                "width":640,
+                "height":119,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Design for a Steak Knife:  Iona\", 1979\u201380.\n1979\u201380. Photostat. Gift of Gerald Gulotta. 2009-16-22."
+    },
+    "colors":[
+        {
+            "color":"#e8deba",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#bca87b",
+            "closest_css3":"#bdb76b"
+        }
+    ]
+}

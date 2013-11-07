@@ -1,0 +1,80 @@
+{
+    "id":"18546805",
+    "tms:id":"66582",
+    "accession_number":"1938-88-580",
+    "title":"Drawing, \"Bedroom Furniture\", ca. 1810",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18546805\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35370715",
+    "type_id":"35237093",
+    "date":"ca. 1810",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Pen and black ink; brush and yellow, brown, blue, and brown watercolor, black chalk on off-white paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Inscribed in pen and black ink at lower center: Mobilis per la cammera da Letto; indication of scale in pen and black ink in Palmi Romani",
+    "provenance":"Giovanni Piancastelli (1845-1926); Mr. and Mrs. Edward D. Brandegee",
+    "dimensions":"22.4 x 33.4 cm (8 13\/16 x 13 1\/8 in.)",
+    "creditline":"Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund",
+    "description":"Sheet showing a series of related furniture designs. Top row, at left, a bed shown from the front; a bed-table, with a burning torch in front, center; and a chair at right. Bottom row: a low case with two door wings, each with a wreath in front. Base lines.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3827_adf33b91e120e388_b.jpg",
+                "width":1024,
+                "height":674,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3827_adf33b91e120e388_n.jpg",
+                "width":320,
+                "height":211,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3827_adf33b91e120e388_z.jpg",
+                "width":640,
+                "height":422,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Bedroom Furniture\", ca. 1810.\nca. 1810. Pen and black ink; brush and yellow, brown, blue, and brown watercolor, black chalk on off-white paper. Museum purchase through gift of various donors and from Eleanor G. Hewitt Fund. 1938-88-580."
+    },
+    "colors":[
+        {
+            "color":"#e1763b",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#f9c87a",
+            "closest_css3":"#deb887"
+        },
+        {
+            "color":"#a6d7c6",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#d39c61",
+            "closest_css3":"#e9967a"
+        },
+        {
+            "color":"#926439",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

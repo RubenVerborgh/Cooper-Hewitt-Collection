@@ -1,0 +1,42 @@
+{
+    "id":"18475089",
+    "tms:id":"148307",
+    "accession_number":"1971-50-98",
+    "title":"Band, 16th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18475089\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35372035",
+    "type_id":"35254631",
+    "date":"16th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424950",
+    "medium":"Medium: silk on linen\nTechnique: embroidered",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Marian Hague",
+    "description":"Band fragment showing a pattern of a fantastic animal and tree in faded red silk on a linen ground.",
+    "justification":null,
+    "type":{
+        "id":"35254631",
+        "name":"Band"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Band, 16th century.\n16th century. Medium: silk on linen\nTechnique: embroidered. Bequest of Marian Hague. 1971-50-98."
+    },
+    "colors":[
+
+    ]
+}

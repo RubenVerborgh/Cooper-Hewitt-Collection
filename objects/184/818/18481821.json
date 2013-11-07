@@ -1,0 +1,80 @@
+{
+    "id":"18481821",
+    "tms:id":"151766",
+    "accession_number":"1973-51-52",
+    "title":"Chintz Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481821\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35292779",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Medium: cotton\nTechnique: mordants for 3 reds, black and purple applied by pen or brush; madder dyed; blue applied by brush over resist; chintz on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"H x W: 18.5 x 10.5 cm (7 5\/16 x 4 1\/8 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Small fragment showing part of a cornucopia-like shape and floral vines.",
+    "justification":null,
+    "type":{
+        "id":"35292779",
+        "name":"Chintz fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8359_8db273aada9e6a6b_b.jpg",
+                "width":1024,
+                "height":604,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8359_8db273aada9e6a6b_n.jpg",
+                "width":320,
+                "height":189,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8359_8db273aada9e6a6b_z.jpg",
+                "width":640,
+                "height":377,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chintz Fragment, 18th century.\n18th century. Medium: cotton\nTechnique: mordants for 3 reds, black and purple applied by pen or brush; madder dyed; blue applied by brush over resist; chintz on plain weave. Gift of Josephine Howell. 1973-51-52."
+    },
+    "colors":[
+        {
+            "color":"#ddc0ba",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#b89992",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#f8e7d2",
+            "closest_css3":"#faebd7"
+        },
+        {
+            "color":"#997a75",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#6c5c5b",
+            "closest_css3":"#696969"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18310151",
+    "tms:id":"41163",
+    "accession_number":"1925-2-406-a",
+    "title":"Button, late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18310151\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35392931",
+    "type_id":"35237135",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1925",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Glass and brass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Circular glass button with pressed ornament on under side; brass shank.",
+    "justification":null,
+    "type":{
+        "id":"35237135",
+        "name":"button"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Button, late 19th century.\nlate 19th century. Glass and brass. Gift of Eleanor and Sarah Hewitt. 1925-2-406-a."
+    },
+    "colors":[
+
+    ]
+}

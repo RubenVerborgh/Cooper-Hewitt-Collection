@@ -1,0 +1,42 @@
+{
+    "id":"18180449",
+    "tms:id":"19863",
+    "accession_number":"1914-21-1",
+    "title":"Box",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18180449\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35418561",
+    "type_id":"35236855",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1914",
+    "decade":null,
+    "woe:country":null,
+    "medium":"tin, painted",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35236855",
+        "name":"Box"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Box.\ntin, painted. Gift of Eleanor and Sarah Hewitt. 1914-21-1."
+    },
+    "colors":[
+
+    ]
+}

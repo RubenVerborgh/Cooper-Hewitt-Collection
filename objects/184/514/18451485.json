@@ -1,0 +1,82 @@
+{
+    "id":"18451485",
+    "tms:id":"136263",
+    "accession_number":"1964-24-65",
+    "title":"Hanging, \"Vitae\", 1959\u20131960",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451485\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35376185",
+    "type_id":"35257233",
+    "date":"1959\u20131960",
+    "year_start":"1959",
+    "year_end":"1960",
+    "year_acquired":"1964",
+    "decade":"1950",
+    "woe:country":"23424977",
+    "medium":"Medium: linen, wool, silk\nTechnique: plain weave with discontinuous wefts, eccentric wefts (tapestry)\nLabel: linen, wool and silk tapestry with eccentric wefts",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 228 x 81.3 cm (89 3\/4 x 32 in.)",
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":"Hanging of linen, wool and silk; open weave construction in white and shades of gray and light brown. Abstract all-over pattern.",
+    "justification":null,
+    "type":{
+        "id":"35257233",
+        "name":"Hanging"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46039_daccaf962c5dab5d_b.jpg",
+                "width":442,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46039_daccaf962c5dab5d_n.jpg",
+                "width":138,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/46039_daccaf962c5dab5d_z.jpg",
+                "width":276,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        [
+
+        ]
+    ],
+    "participants":[
+        {
+            "person_id":"18046125",
+            "role_id":"35236745",
+            "person_name":"Lenore Tawney",
+            "role_name":"Weaver",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046125\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236745\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Hanging, \"Vitae\", 1959\u20131960.\n1959\u20131960. Medium: linen, wool, silk\nTechnique: plain weave with discontinuous wefts, eccentric wefts (tapestry)\nLabel: linen, wool and silk tapestry with eccentric wefts. Gift of Elizabeth Gordon. 1964-24-65."
+    },
+    "colors":[
+        {
+            "color":"#e7d8ba",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#a49477",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#817662",
+            "closest_css3":"#696969"
+        }
+    ]
+}

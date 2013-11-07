@@ -1,0 +1,95 @@
+{
+    "id":"18462777",
+    "tms:id":"141994",
+    "accession_number":"1968-111-49",
+    "title":"Sidewall, 1905\u201325",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18462777\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35367331",
+    "type_id":"35256475",
+    "date":"1905\u201325",
+    "year_start":"1905",
+    "year_end":"1925",
+    "year_acquired":"1968",
+    "decade":"1900",
+    "woe:country":null,
+    "medium":"Block-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"59 x 48 cm (23 1\/4 x 18 7\/8 in.)",
+    "creditline":"Gift of Harvey Smith",
+    "description":"On pale gray ground, bamboo trellis with blue, pink and white morning glories entwined.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6997_6208816682c2d478_b.jpg",
+                "width":816,
+                "height":1000,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6997_6208816682c2d478_n.jpg",
+                "width":261,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/6997_6208816682c2d478_z.jpg",
+                "width":522,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18049985",
+            "role_id":"35351535",
+            "person_name":"Harvey Smith",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049985\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18046987",
+            "role_id":"35236565",
+            "person_name":"Ericson & Weiss",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046987\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1905\u201325.\n1905\u201325. Block-printed. Gift of Harvey Smith. 1968-111-49."
+    },
+    "colors":[
+        {
+            "color":"#c3c0b8",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#b1c6dd",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#382722",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#d0c4cd",
+            "closest_css3":"#d8bfd8"
+        },
+        {
+            "color":"#b1825f",
+            "closest_css3":"#cd853f"
+        }
+    ]
+}

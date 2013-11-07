@@ -1,0 +1,42 @@
+{
+    "id":"18491235",
+    "tms:id":"156498",
+    "accession_number":"1976-55-1",
+    "title":"Illustrated Book",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18491235\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35250717",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mary Griffin",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35250717",
+        "name":"illustrated book"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Illustrated Book.\nGift of Mary Griffin. 1976-55-1."
+    },
+    "colors":[
+
+    ]
+}

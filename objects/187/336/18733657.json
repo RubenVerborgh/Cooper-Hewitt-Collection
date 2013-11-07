@@ -1,0 +1,87 @@
+{
+    "id":"18733657",
+    "tms:id":"242972",
+    "accession_number":"2009-17-1",
+    "title":"Floor Lamp, ca. 1938",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18733657\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35422757",
+    "type_id":"35293521",
+    "date":"ca. 1938",
+    "year_start":"1933",
+    "year_end":"1943",
+    "year_acquired":"2009",
+    "decade":"1930",
+    "woe:country":"23424977",
+    "medium":"Chrome-plated metal",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Provenance:  Acquired for the Hollywood Wing of  Duke Farms , the addition of 1938, designed by  Thomas W. Lamb (1871-1942) for Doris Duke.  For a fuller history of the building, see Greg Herringshaw's history of the house in the justification for the six window shades from the same wing. (5969.2-7.2009)\nIt has been in the wing until sent for donation by the Doris Duke Charitable Foundation to CHNDM.",
+    "dimensions":"H: 173.4 cm (5 ft. 8 1\/4 in.)",
+    "creditline":"Gift of Doris Duke Charitable Foundation",
+    "description":"three-tiered conical lamp with spaces between the tiers to reveal light, on a reeded stem decending to a circular base",
+    "justification":null,
+    "type":{
+        "id":"35293521",
+        "name":"Floor lamp"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35381_83365cef358c5525_b.jpg",
+                "width":483,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35381_83365cef358c5525_n.jpg",
+                "width":151,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35381_83365cef358c5525_z.jpg",
+                "width":302,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18062879",
+            "role_id":"35351535",
+            "person_name":"Doris Duke Charitable Foundation",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18062879\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        },
+        {
+            "person_id":"18537453",
+            "role_id":"35236655",
+            "person_name":"Walter von Nessen",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18537453\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Floor Lamp, ca. 1938.\nca. 1938. Chrome-plated metal. Gift of Doris Duke Charitable Foundation. 2009-17-1."
+    },
+    "colors":[
+        {
+            "color":"#e0d6cc",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#958c81",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#5c564f",
+            "closest_css3":"#696969"
+        }
+    ]
+}

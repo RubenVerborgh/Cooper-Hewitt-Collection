@@ -1,0 +1,49 @@
+{
+    "id":"18131005",
+    "tms:id":"11648",
+    "accession_number":"1902-1-462-a,b",
+    "title":"Fragment, 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131005\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk\nTechnique: supplementary warp forming pile (velvet); then stamped with pattern then stamped (embossed)",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Deep red velvet stamped with a motif of diagonal floral forms , rosettes and fleur-de-lys.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk\nTechnique: supplementary warp forming pile (velvet); then stamped with pattern then stamped (embossed). Gift of John Pierpont Morgan. 1902-1-462-a,b."
+    },
+    "colors":[
+
+    ]
+}

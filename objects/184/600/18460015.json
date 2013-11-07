@@ -1,0 +1,42 @@
+{
+    "id":"18460015",
+    "tms:id":"140587",
+    "accession_number":"1967-92-14",
+    "title":"Weight (4)",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18460015\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35291947",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Paul Manheim",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35291947",
+        "name":"weight (4)"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Weight (4).\nGift of Paul Manheim. 1967-92-14."
+    },
+    "colors":[
+
+    ]
+}

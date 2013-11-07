@@ -1,0 +1,80 @@
+{
+    "id":"18495437",
+    "tms:id":"158609",
+    "accession_number":"1978-146-5",
+    "title":"Matchsafe, 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18495437\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35431477",
+    "type_id":"35287419",
+    "date":"20th century",
+    "year_start":"1901",
+    "year_end":"1978",
+    "year_acquired":"1978",
+    "decade":"1900",
+    "woe:country":"23424977",
+    "medium":"Celluloid, metal",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 6.8 x 3.8 x 1 cm (2 11\/16 x 1 1\/2 x 3\/8 in.)",
+    "creditline":"Gift of Stephen W. Brener and Carol B. Brener",
+    "description":"Frank H. Meyer Pioneer Sample & Pool Room",
+    "justification":null,
+    "type":{
+        "id":"35287419",
+        "name":"Matchsafe"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26838_389c71f1b9765f59_b.jpg",
+                "width":656,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26838_389c71f1b9765f59_n.jpg",
+                "width":205,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/26838_389c71f1b9765f59_z.jpg",
+                "width":410,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Matchsafe, 20th century.\n20th century. Celluloid, metal. Gift of Stephen W. Brener and Carol B. Brener. 1978-146-5."
+    },
+    "colors":[
+        {
+            "color":"#472a26",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#87857f",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#2c251f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#ae8b5e",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#666451",
+            "closest_css3":"#696969"
+        }
+    ]
+}

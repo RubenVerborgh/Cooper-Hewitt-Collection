@@ -1,0 +1,42 @@
+{
+    "id":"18370399",
+    "tms:id":"77265",
+    "accession_number":"1942-58-1",
+    "title":"Commemorative Ribbon",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18370399\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35287953",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1942",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Rudolph C.M. Hartman",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35287953",
+        "name":"Commemorative ribbon"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Commemorative Ribbon.\nGift of Rudolph C.M. Hartman. 1942-58-1."
+    },
+    "colors":[
+
+    ]
+}

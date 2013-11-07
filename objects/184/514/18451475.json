@@ -1,0 +1,42 @@
+{
+    "id":"18451475",
+    "tms:id":"136258",
+    "accession_number":"1964-24-61",
+    "title":"Tray Cloth, \"Helen\", 1950\u201360",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451475\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"112909",
+    "type_id":"35291589",
+    "date":"1950\u201360",
+    "year_start":"1950",
+    "year_end":"1960",
+    "year_acquired":"1964",
+    "decade":"1950",
+    "woe:country":"23424910",
+    "medium":"Technique: damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35291589",
+        "name":"Tray cloth"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tray Cloth, \"Helen\", 1950\u201360.\n1950\u201360. Technique: damask. Gift of Elizabeth Gordon. 1964-24-61."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18214777",
+    "tms:id":"25625",
+    "accession_number":"1921-17-3",
+    "title":"Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18214777\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394323",
+    "type_id":"35254623",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1921",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, metallic thread\nTechnique: plain compound cloth with supplementary weft",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 14.9 x 29 cm (5 7\/8 x 11 7\/16 in.)",
+    "creditline":"Gift of Mrs. James O. Green and Eleanor and Sarah Hewitt",
+    "description":"Flower brocaded in thick rust colored chenille thread and silk on a background trellis pattern in metallic threads.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk, metallic thread\nTechnique: plain compound cloth with supplementary weft. Gift of Mrs. James O. Green and Eleanor and Sarah Hewitt. 1921-17-3."
+    },
+    "colors":[
+
+    ]
+}

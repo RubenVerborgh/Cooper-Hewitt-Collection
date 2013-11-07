@@ -1,0 +1,76 @@
+{
+    "id":"18481765",
+    "tms:id":"151738",
+    "accession_number":"1973-51-27",
+    "title":"Chintz, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481765\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35289239",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Medium: cotton\nTechnique: mordants for 2 reds, purple and black applied by pen and brush, then immersion dyed in madder; 2 shades of blue; yellow applied by brush; chintz on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"Warp x Weft: 88 x 72 cm (34 5\/8 x 28 3\/8 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Curving floral stripes of carnations and roses in an alternate arrangement of motifs.",
+    "justification":null,
+    "type":{
+        "id":"35289239",
+        "name":"Chintz"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7502_198823b6fe277869_b.jpg",
+                "width":680,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7502_198823b6fe277869_n.jpg",
+                "width":213,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7502_198823b6fe277869_z.jpg",
+                "width":425,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chintz, 18th century.\n18th century. Medium: cotton\nTechnique: mordants for 2 reds, purple and black applied by pen and brush, then immersion dyed in madder; 2 shades of blue; yellow applied by brush; chintz on plain weave. Gift of Josephine Howell. 1973-51-27."
+    },
+    "colors":[
+        {
+            "color":"#857875",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#e9d6d5",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#5f5558",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#9a7272",
+            "closest_css3":"#808080"
+        }
+    ]
+}

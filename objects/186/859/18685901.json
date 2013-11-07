@@ -1,0 +1,42 @@
+{
+    "id":"18685901",
+    "tms:id":"218441",
+    "accession_number":"2000-68-214",
+    "title":"Greeting Card, \"Christmas Greetings from the Women's Committee for Peace and Democracy\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18685901\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35385445",
+    "type_id":"35285127",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"2000",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Offset lithograph on cream paper board",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of James Howard Fraser",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35285127",
+        "name":"Greeting card"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Greeting Card, \"Christmas Greetings from the Women's Committee for Peace and Democracy\".\nOffset lithograph on cream paper board. Gift of James Howard Fraser. 2000-68-214."
+    },
+    "colors":[
+
+    ]
+}

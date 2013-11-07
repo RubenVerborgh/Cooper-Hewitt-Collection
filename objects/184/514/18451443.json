@@ -1,0 +1,49 @@
+{
+    "id":"18451443",
+    "tms:id":"136242",
+    "accession_number":"1964-24-44",
+    "title":"Hanging, \"Motley Birds\", 1948",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451443\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402849",
+    "type_id":"35257233",
+    "date":"1948",
+    "year_start":"1948",
+    "year_end":"1948",
+    "year_acquired":"1964",
+    "decade":"1940",
+    "woe:country":"23424954",
+    "medium":"Medium: wool\nTechnique: slit tapestry weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 210 x 136 cm (6 ft. 10 11\/16 in. x 53 9\/16 in.)",
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":"Multicolored hanging in an allover pattern of stylized birds.",
+    "justification":null,
+    "type":{
+        "id":"35257233",
+        "name":"Hanging"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18057839",
+            "role_id":"35236655",
+            "person_name":"Marianne Richter",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18057839\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Hanging, \"Motley Birds\", 1948.\n1948. Medium: wool\nTechnique: slit tapestry weave. Gift of Elizabeth Gordon. 1964-24-44."
+    },
+    "colors":[
+
+    ]
+}

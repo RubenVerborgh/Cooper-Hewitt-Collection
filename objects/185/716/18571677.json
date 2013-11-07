@@ -1,0 +1,42 @@
+{
+    "id":"18571677",
+    "tms:id":"79540",
+    "accession_number":"1944-44-12",
+    "title":"Band, late 19th\u2013early 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18571677\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35254631",
+    "date":"late 19th\u2013early 20th century",
+    "year_start":null,
+    "year_end":"1925",
+    "year_acquired":"1944",
+    "decade":null,
+    "woe:country":"23424757",
+    "medium":"Medium: linen\nTechnique: bobbin lace, Brussels style",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 62 x 23.5 cm (24 7\/16 x 9 1\/4 in.)",
+    "creditline":"Gift of Mary T. Cockcroft",
+    "description":"A design of flowers with scrolling leaves, ground of Dieppe and needle point stitches.",
+    "justification":null,
+    "type":{
+        "id":"35254631",
+        "name":"Band"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Band, late 19th\u2013early 20th century.\nlate 19th\u2013early 20th century. Medium: linen\nTechnique: bobbin lace, Brussels style. Gift of Mary T. Cockcroft. 1944-44-12."
+    },
+    "colors":[
+
+    ]
+}

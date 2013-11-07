@@ -1,0 +1,80 @@
+{
+    "id":"18481627",
+    "tms:id":"151669",
+    "accession_number":"1973-51-10",
+    "title":"Chintz Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481627\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35292779",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Medium: cotton\nTechnique: mordants for 2 reds, 2 purples and black applied over resist; madder dyed; blue applied over resist by immersion; yellow applied by brush, (chintz) on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"Warp x Weft: 56 x 22 cm (22 1\/16 x 8 11\/16 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Fragment from a larger panel. Design of flowers springing from decorative shapes.",
+    "justification":null,
+    "type":{
+        "id":"35292779",
+        "name":"Chintz fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7947_cfaeb41b517b274c_b.jpg",
+                "width":537,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7947_cfaeb41b517b274c_n.jpg",
+                "width":168,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7947_cfaeb41b517b274c_z.jpg",
+                "width":336,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chintz Fragment, 18th century.\n18th century. Medium: cotton\nTechnique: mordants for 2 reds, 2 purples and black applied over resist; madder dyed; blue applied over resist by immersion; yellow applied by brush, (chintz) on plain weave. Gift of Josephine Howell. 1973-51-10."
+    },
+    "colors":[
+        {
+            "color":"#ddbec2",
+            "closest_css3":"#d8bfd8"
+        },
+        {
+            "color":"#bc999d",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#83726d",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#848690",
+            "closest_css3":"#778899"
+        },
+        {
+            "color":"#d4cfdc",
+            "closest_css3":"#d3d3d3"
+        }
+    ]
+}

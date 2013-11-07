@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "11278", 
+  "images": [], 
+  "id": "18130273", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Fragment, 1902-1-139", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347501", 
+  "medium": "Medium: wool, linen\nTechnique;", 
+  "description": "Polychrome band with figures and flowers", 
+  "creditline": "Gift of John Pierpont Morgan", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18130273/", 
+  "type": {
+    "id": "35254623", 
+    "name": "Fragment"
+  }, 
+  "accession_number": "1902-1-139", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1902"
+}

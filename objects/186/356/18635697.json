@@ -1,0 +1,42 @@
+{
+    "id":"18635697",
+    "tms:id":"192696",
+    "accession_number":"1991-140-8-a,b",
+    "title":"Clock",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18635697\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35398545",
+    "type_id":"35249083",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1991",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"steel (stainless), plexiglass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"a: 1.9 x diameter: 13.7 cm (3\/4 x 5 3\/8 in.)\nb: 10 x 7.5 x 7.8 cm (3 15\/16 x 2 15\/16 x 3 1\/16 in.)",
+    "creditline":"Gift of Hank Horwitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35249083",
+        "name":"clock"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Clock.\nsteel (stainless), plexiglass. Gift of Hank Horwitt. 1991-140-8-a,b."
+    },
+    "colors":[
+
+    ]
+}

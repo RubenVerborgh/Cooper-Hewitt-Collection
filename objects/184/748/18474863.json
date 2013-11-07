@@ -1,0 +1,42 @@
+{
+    "id":"18474863",
+    "tms:id":"148194",
+    "accession_number":"1971-50-502",
+    "title":"Textile",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474863\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421283",
+    "type_id":"35251739",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424802",
+    "medium":"tapestry weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Marian Hague",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile.\ntapestry weave. Bequest of Marian Hague. 1971-50-502."
+    },
+    "colors":[
+
+    ]
+}

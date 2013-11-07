@@ -1,0 +1,80 @@
+{
+    "id":"18455193",
+    "tms:id":"138151",
+    "accession_number":"1967-21-1-b",
+    "title":"Necklace, 1960s",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18455193\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421473",
+    "type_id":"35237147",
+    "date":"1960s",
+    "year_start":"1960",
+    "year_end":"1969",
+    "year_acquired":"1967",
+    "decade":"1960",
+    "woe:country":"23424942",
+    "medium":"Medium: glass beads, cotton string",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"33 x 8 cm (13 x 3 1\/8 in.)",
+    "creditline":"Gift of Mrs. M.R. Ford",
+    "description":"Group of tribal necklaces known as love letters. The various color combinations and designs convey messages connected with courtship.",
+    "justification":null,
+    "type":{
+        "id":"35237147",
+        "name":"Necklace"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24625_8055066a4300e76e_b.jpg",
+                "width":1024,
+                "height":567,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24625_8055066a4300e76e_n.jpg",
+                "width":320,
+                "height":177,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/24625_8055066a4300e76e_z.jpg",
+                "width":640,
+                "height":354,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Necklace, 1960s.\n1960s. Medium: glass beads, cotton string. Gift of Mrs. M.R. Ford. 1967-21-1-b."
+    },
+    "colors":[
+        {
+            "color":"#1e2437",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#dfd9e7",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#493533",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#9097a9",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#6d3f32",
+            "closest_css3":"#8b4513"
+        }
+    ]
+}

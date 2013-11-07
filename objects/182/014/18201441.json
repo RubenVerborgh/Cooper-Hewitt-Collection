@@ -1,0 +1,87 @@
+{
+    "id":"18201441",
+    "tms:id":"23577",
+    "accession_number":"1917-4-756-a",
+    "title":"Drawing, \"Mt. Katahdin, from Lake Katahdin\", 1877",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18201441\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35419557",
+    "type_id":"35237093",
+    "date":"1877",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1917",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Brush and oil on cardboard",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Gift of Louis P.  Church",
+    "dimensions":"22.6 x 36.5 cm (8 7\/8 x 14 3\/8 in.)",
+    "creditline":"Gift of Louis P. Church",
+    "description":"Horizontal view shown from Katahdin Lake with the Lake in the foreground.  Dark clouds above.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/16790_f5679ef7e6c11b63_b.jpg",
+                "width":1024,
+                "height":640,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/16790_f5679ef7e6c11b63_n.jpg",
+                "width":320,
+                "height":200,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/16790_f5679ef7e6c11b63_z.jpg",
+                "width":640,
+                "height":400,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041941",
+            "role_id":"35236565",
+            "person_name":"Frederic Edwin Church",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041941\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Mt. Katahdin, from Lake Katahdin\", 1877.\n1877. Brush and oil on cardboard. Gift of Louis P. Church. 1917-4-756-a."
+    },
+    "colors":[
+        {
+            "color":"#302e2c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#4d4233",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#736f60",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#a69980",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#291916",
+            "closest_css3":"#000000"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18383623",
+    "tms:id":"101942",
+    "accession_number":"1950-121-22",
+    "title":"Sleeve Ruffle, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383623\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35289417",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1950",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: linen\nTechnique: needle lace with bobbin lace ground",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 87 x 20 cm (34 1\/4 x 7 7\/8 in.)",
+    "creditline":"Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Sleeve ruffle in a pattern showing freely-placed floral sprays and cartouche.",
+    "justification":null,
+    "type":{
+        "id":"35289417",
+        "name":"Sleeve ruffle"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sleeve Ruffle, 18th century.\n18th century. Medium: linen\nTechnique: needle lace with bobbin lace ground. Gift of Richard C. Greenleaf Esq. in memory of his mother, Adeline Emma Greenleaf. 1950-121-22."
+    },
+    "colors":[
+
+    ]
+}

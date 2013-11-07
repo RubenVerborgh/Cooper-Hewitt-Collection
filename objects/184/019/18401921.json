@@ -1,0 +1,42 @@
+{
+    "id":"18401921",
+    "tms:id":"111139",
+    "accession_number":"1955-101-1",
+    "title":"Banknote, \"Chinese Imperial Bank Note\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18401921\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35290579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1955",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Pruyn Harrison",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35290579",
+        "name":"banknote"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Banknote, \"Chinese Imperial Bank Note\".\nGift of Pruyn Harrison. 1955-101-1."
+    },
+    "colors":[
+
+    ]
+}

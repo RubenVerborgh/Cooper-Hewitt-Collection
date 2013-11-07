@@ -1,0 +1,42 @@
+{
+    "id":"18647953",
+    "tms:id":"198883",
+    "accession_number":"1994-129-14",
+    "title":"Box, early 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18647953\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35423495",
+    "type_id":"35236855",
+    "date":"early 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1994",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Agate, gold",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 4.2 x 2 x 1.6 cm (1 5\/8 x 13\/16 x 5\/8 in.)",
+    "creditline":"Gift of the Panwy Foundation, from the collection of Maria Wyman",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35236855",
+        "name":"Box"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Box, early 18th century.\nearly 18th century. Agate, gold. Gift of the Panwy Foundation, from the collection of Maria Wyman. 1994-129-14."
+    },
+    "colors":[
+
+    ]
+}

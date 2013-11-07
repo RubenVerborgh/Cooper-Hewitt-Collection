@@ -1,0 +1,42 @@
+{
+    "id":"18188211",
+    "tms:id":"21289",
+    "accession_number":"1916-33-116",
+    "title":"Textile, late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18188211\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1916",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: cotton\nTechnique: plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 211.9 x 71.5 cm (6 ft. 11 7\/16 in. x 28 1\/8 in.)",
+    "creditline":"Gift of Mrs. William P. Treadwell",
+    "description":"Green and white gingham.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, late 19th century.\nlate 19th century. Medium: cotton\nTechnique: plain weave. Gift of Mrs. William P. Treadwell. 1916-33-116."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id":"18797751",
+    "tms:id":"177884",
+    "accession_number":"1981-49-19",
+    "title":"Sugar Tongs, ca. 1760",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18797751\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35389463",
+    "type_id":"35285619",
+    "date":"ca. 1760",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1981",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Silver",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Mr. and Mrs. William M. Cahn, Jr.; 1981: acquired by Museum",
+    "dimensions":null,
+    "creditline":"Gift of Mr. and Mrs. William M. Cahn, Jr. in memory of Rosalie S. and William M. Cahn",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35285619",
+        "name":"Sugar tongs"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49328_94196910be2f0d9f_b.jpg",
+                "width":606,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49328_94196910be2f0d9f_n.jpg",
+                "width":189,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/49328_94196910be2f0d9f_z.jpg",
+                "width":379,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19480_37d56fbd16a6e0e9_b.jpg",
+                "width":523,
+                "height":987,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19480_37d56fbd16a6e0e9_n.jpg",
+                "width":170,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19480_37d56fbd16a6e0e9_z.jpg",
+                "width":339,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18059127",
+            "role_id":"35236685",
+            "person_name":"William Harrison I",
+            "role_name":"Maker",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18059127\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sugar Tongs, ca. 1760.\nca. 1760. Silver. Gift of Mr. and Mrs. William M. Cahn, Jr. in memory of Rosalie S. and William M. Cahn. 1981-49-19."
+    },
+    "colors":[
+        {
+            "color":"#7e7f7d",
+            "closest_css3":"#808080"
+        }
+    ]
+}

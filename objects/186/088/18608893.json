@@ -1,0 +1,87 @@
+{
+    "id":"18608893",
+    "tms:id":"97975",
+    "accession_number":"1948-134-43",
+    "title":"Print, \"Kuwana. Mouth of Seven Ri Ferry\", ca. 1834",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18608893\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"51496397",
+    "type_id":"35236873",
+    "date":"ca. 1834",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1948",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Woodblock, brush and watercolor on paper",
+    "markings":"Seal, upper right: Hoyeido.",
+    "signed":null,
+    "inscribed":"Inscribed in black ink, upper center, Japanese characters and stamp in red ink",
+    "provenance":"Mary Rutherford Jay",
+    "dimensions":"24 x 36.1 cm (9 7\/16 x 14 3\/16 in.)",
+    "creditline":"Gift of Mary Rutherford Jay",
+    "description":"Right, two sailing boats with sails partly lowered, entering inlet on farther side of which is Kuwana Castle. Left, other sailing boats out at sea.",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45179_17243301366bdb81_b.jpg",
+                "width":1024,
+                "height":679,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45179_17243301366bdb81_n.jpg",
+                "width":320,
+                "height":212,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45179_17243301366bdb81_z.jpg",
+                "width":640,
+                "height":424,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18042839",
+            "role_id":"35236565",
+            "person_name":"Ando Hiroshige",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18042839\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Kuwana. Mouth of Seven Ri Ferry\", ca. 1834.\nca. 1834. Woodblock, brush and watercolor on paper. Gift of Mary Rutherford Jay. 1948-134-43."
+    },
+    "colors":[
+        {
+            "color":"#686157",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#5b7d79",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#48443e",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a7bcac",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#2e5273",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

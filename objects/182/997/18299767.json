@@ -1,0 +1,80 @@
+{
+    "id":"18299767",
+    "tms:id":"39159",
+    "accession_number":"1923-22-80",
+    "title":"Purse, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18299767\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35264073",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1923",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTechnique: embroidered in chain stitch",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 16 x 20.4 cm (6 5\/16 x 8 1\/16 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"White silk embroidered in chain stitch in designs of birds, flowers, and flaming hearts within borders.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29772_89f8736b5fec8ffd_b.jpg",
+                "width":1024,
+                "height":823,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29772_89f8736b5fec8ffd_n.jpg",
+                "width":320,
+                "height":257,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29772_89f8736b5fec8ffd_z.jpg",
+                "width":640,
+                "height":514,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 18th century.\n18th century. Medium: silk\nTechnique: embroidered in chain stitch. Gift of Eleanor and Sarah Hewitt. 1923-22-80."
+    },
+    "colors":[
+        {
+            "color":"#cac0bc",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#39382e",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a39e98",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#ccd7dc",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#867b7c",
+            "closest_css3":"#808080"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18408289",
+    "tms:id":"114335",
+    "accession_number":"1956-181-80",
+    "title":"Fragment, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18408289\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"117147",
+    "type_id":"35254623",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1956",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: \nTechnique: printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mary M. Kenway from the estate of Sarah B. Russell",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 19th century.\n19th century. Medium: \nTechnique: printed. Gift of Mary M. Kenway from the estate of Sarah B. Russell. 1956-181-80."
+    },
+    "colors":[
+
+    ]
+}

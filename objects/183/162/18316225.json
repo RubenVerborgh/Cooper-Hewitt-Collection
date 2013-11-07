@@ -1,0 +1,87 @@
+{
+    "id":"18316225",
+    "tms:id":"43593",
+    "accession_number":"1928-2-113",
+    "title":"Sidewall - Panel, \"Uranie\", ca. 1825",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316225\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414641",
+    "type_id":"35284895",
+    "date":"ca. 1825",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1928",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Block-printed on handmade paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"209 x 65.5 cm (82 5\/16 x 25 13\/16 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Vertical rectangle. Large diamond-shaped framework of leaf forms, set with lyre and candelabrum, enclosing circular medallion at center. In medallion classical profile of woman's head, with caption: \"Uranie\". Framework in yellow, against on olive-green ground.",
+    "justification":null,
+    "type":{
+        "id":"35284895",
+        "name":"Sidewall - panel"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_b.jpg",
+                "width":328,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_n.jpg",
+                "width":102,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2883_a02e24889c82d519_z.jpg",
+                "width":205,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046693",
+            "role_id":"35236657",
+            "person_name":"Xavier Mader",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046693\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall - Panel, \"Uranie\", ca. 1825.\nca. 1825. Block-printed on handmade paper. Gift of Eleanor and Sarah Hewitt. 1928-2-113."
+    },
+    "colors":[
+        {
+            "color":"#747169",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#aaa495",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#4d4840",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#a3896b",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#caab8a",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18568881",
+    "tms:id":"78136",
+    "accession_number":"1943-20-1-a,b",
+    "title":"Fragments, 13th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18568881\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35427701",
+    "type_id":"35254679",
+    "date":"13th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1943",
+    "decade":null,
+    "woe:country":"23424950",
+    "medium":"Medium: silk; gilded goldbeaters' skin wound around a silk core",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W (a): 18.4 x 29.2 cm (7 1\/4 x 11 1\/2 in.)\nH x W (b): 6.7 x 1.6 cm (2 5\/8 x 5\/8 in.)",
+    "creditline":"Museum purchase through gift of Erskine Hewitt",
+    "description":"Eight-pointed stars enclosing rampant addorsed lions, heads turned toward each other; the pointed-armed crosses forming the interstices are filled with symmetrical foliate arabesques. The pattern appears slightly raised in gold on blue and pink ground.  Fragment from a set of vestments from the Cathedral of L\u00e9rida, Spain.",
+    "justification":null,
+    "type":{
+        "id":"35254679",
+        "name":"Fragments"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4194_c2ad6bba97f282b1_b.jpg",
+                "width":1024,
+                "height":652,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4194_c2ad6bba97f282b1_n.jpg",
+                "width":320,
+                "height":204,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4194_c2ad6bba97f282b1_z.jpg",
+                "width":640,
+                "height":407,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragments, 13th century.\n13th century. Medium: silk; gilded goldbeaters&#039; skin wound around a silk core. Museum purchase through gift of Erskine Hewitt. 1943-20-1-a,b."
+    },
+    "colors":[
+        {
+            "color":"#957b56",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#bc8f5f",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#81572e",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#666d64",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#c9b99b",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

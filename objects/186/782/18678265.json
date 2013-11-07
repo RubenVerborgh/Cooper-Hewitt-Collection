@@ -1,0 +1,49 @@
+{
+    "id":"18678265",
+    "tms:id":"214598",
+    "accession_number":"1931-4-38-a\/d",
+    "title":"Panels, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18678265\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"148953",
+    "type_id":"35263007",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Technique: velvet, cut and voided",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt",
+    "description":"four vertical panels of red voided velvet - design of dragon, clouds, bats, waves, spray flaming jewels, etc.  ground of satin - lined with blue figured silk.",
+    "justification":null,
+    "type":{
+        "id":"35263007",
+        "name":"Panels"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18050385",
+            "role_id":"51570923",
+            "person_name":"Franco Scalamandre",
+            "role_name":"Buyer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18050385\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51570923\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Panels, 19th century.\n19th century. Technique: velvet, cut and voided. Gift of Eleanor and Sarah Hewitt, from the textile collection of Mrs. Abram Stevens Hewitt. 1931-4-38-a\/d."
+    },
+    "colors":[
+
+    ]
+}

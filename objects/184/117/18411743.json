@@ -1,0 +1,84 @@
+{
+    "id":"18411743",
+    "tms:id":"116094",
+    "accession_number":"1957-120-10",
+    "title":"Headcovering, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18411743\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35290805",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1957",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTechnique: bobbin lace",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 34 x 100 cm (13 3\/8 x 39 3\/8 in.)",
+    "creditline":"Gift of Mrs. Rufus King",
+    "description":"Woman's headcovering in Chantilly-style black silk.",
+    "justification":null,
+    "type":{
+        "id":"35290805",
+        "name":"Headcovering"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59191_ebe00044b3ce3f56_b.jpg",
+                "width":1024,
+                "height":372,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59191_ebe00044b3ce3f56_n.jpg",
+                "width":320,
+                "height":116,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59191_ebe00044b3ce3f56_z.jpg",
+                "width":640,
+                "height":232,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33948_ac18a17dc395897e_b.jpg",
+                "width":1024,
+                "height":380,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33948_ac18a17dc395897e_n.jpg",
+                "width":320,
+                "height":119,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33948_ac18a17dc395897e_z.jpg",
+                "width":640,
+                "height":237,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Headcovering, 19th century.\n19th century. Medium: silk\nTechnique: bobbin lace. Gift of Mrs. Rufus King. 1957-120-10."
+    },
+    "colors":[
+        {
+            "color":"#33312e",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18327127",
+    "tms:id":"48004",
+    "accession_number":"1931-66-112",
+    "title":"Rosette",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18327127\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35367581",
+    "type_id":"35259761",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"poplar",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Sarah Cooper Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35259761",
+        "name":"rosette"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Rosette.\npoplar. Gift of Sarah Cooper Hewitt. 1931-66-112."
+    },
+    "colors":[
+
+    ]
+}

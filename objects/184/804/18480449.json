@@ -1,0 +1,42 @@
+{
+    "id":"18480449",
+    "tms:id":"151057",
+    "accession_number":"1973-29-42",
+    "title":"Bedcover",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18480449\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"135313",
+    "type_id":"35282877",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Technique: quilted resist",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Elinor Merrell",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35282877",
+        "name":"Bedcover"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Bedcover.\nTechnique: quilted resist. Gift of Elinor Merrell. 1973-29-42."
+    },
+    "colors":[
+
+    ]
+}

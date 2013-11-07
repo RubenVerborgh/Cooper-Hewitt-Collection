@@ -1,0 +1,49 @@
+{
+    "id":"18325565",
+    "tms:id":"47377",
+    "accession_number":"1931-6-26",
+    "title":"Medal, 1809",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18325565\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35372063",
+    "type_id":"35259189",
+    "date":"1809",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424900",
+    "medium":"Gilt bronze",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Sarah Cooper Hewitt",
+    "description":"Front with portrait bust of Ferdinand VII of Spain, commemorated as the protector of commerce in Mexico.",
+    "justification":null,
+    "type":{
+        "id":"35259189",
+        "name":"Medal"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18060941",
+            "role_id":"35236685",
+            "person_name":"Thomas Suria",
+            "role_name":"Maker",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18060941\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Medal, 1809.\n1809. Gilt bronze. Bequest of Sarah Cooper Hewitt. 1931-6-26."
+    },
+    "colors":[
+
+    ]
+}

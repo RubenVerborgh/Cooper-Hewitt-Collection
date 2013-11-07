@@ -1,0 +1,42 @@
+{
+    "id":"18424069",
+    "tms:id":"122409",
+    "accession_number":"1958-93-11-b",
+    "title":"Print, \"Whirlpool near Niagara\", ca. 1857",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18424069\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35389619",
+    "type_id":"35236873",
+    "date":"ca. 1857",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1958",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Color lithograph",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Inscribed, lower center: \"Whirlpool near Niagara\"",
+    "provenance":null,
+    "dimensions":"Image: 9.3 x 14.5 cm (3 11\/16 x 5 11\/16 in.)",
+    "creditline":"Gift of Mrs. Frederick Larsen",
+    "description":"Horizontal rectangle",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Whirlpool near Niagara\", ca. 1857.\nca. 1857. Color lithograph. Gift of Mrs. Frederick Larsen. 1958-93-11-b."
+    },
+    "colors":[
+
+    ]
+}

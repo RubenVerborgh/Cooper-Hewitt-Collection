@@ -1,0 +1,42 @@
+{
+    "id":"18344327",
+    "tms:id":"56015",
+    "accession_number":"1937-28-21",
+    "title":"Panel, Stained Glass, possibly ca. 1695",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18344327\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35270237",
+    "date":"possibly ca. 1695",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1937",
+    "decade":null,
+    "woe:country":"23424957",
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 33.5 x 25.2 x 0.5 cm (13 3\/16 x 9 15\/16 x 3\/16 in.)",
+    "creditline":"Gift of Mrs. A. Murray Young",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35270237",
+        "name":"Panel, stained glass"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Panel, Stained Glass, possibly ca. 1695.\npossibly ca. 1695. glass. Gift of Mrs. A. Murray Young. 1937-28-21."
+    },
+    "colors":[
+
+    ]
+}

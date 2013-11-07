@@ -1,0 +1,80 @@
+{
+    "id":"18349525",
+    "tms:id":"58419",
+    "accession_number":"1938-57-284-a,b",
+    "title":"Box And Cover, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349525\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35374789",
+    "type_id":"35264075",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":"Stoneware, glazed enamel",
+    "markings":"Mark on base: see file",
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam. (a): 2.5 x 6 cm (1 x 2 3\/8 in.)\nH x diam. (b): 2.7 x 6.1 cm (1 1\/16 x 2 3\/8 in.)",
+    "creditline":"Bequest of Erskine Hewitt",
+    "description":"Cover of curled-up cat with the head in high relief, decorated with black and yellow enamel markings.  Ground glaze of small crackle orange-yellow.",
+    "justification":null,
+    "type":{
+        "id":"35264075",
+        "name":"Box and cover"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3291_613c239aa013eb16_b.jpg",
+                "width":1024,
+                "height":986,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3291_613c239aa013eb16_n.jpg",
+                "width":320,
+                "height":308,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/3291_613c239aa013eb16_z.jpg",
+                "width":640,
+                "height":616,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Box And Cover, 19th century.\n19th century. Stoneware, glazed enamel. Bequest of Erskine Hewitt. 1938-57-284-a,b."
+    },
+    "colors":[
+        {
+            "color":"#597db0",
+            "closest_css3":"#4682b4"
+        },
+        {
+            "color":"#e1c88d",
+            "closest_css3":"#deb887"
+        },
+        {
+            "color":"#3a5073",
+            "closest_css3":"#483d8b"
+        },
+        {
+            "color":"#504b40",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#ab8c61",
+            "closest_css3":"#bdb76b"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18443177",
+    "tms:id":"132071",
+    "accession_number":"1962-18-1",
+    "title":"Textile, ca. 1928",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18443177\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35251739",
+    "date":"ca. 1928",
+    "year_start":"1926",
+    "year_end":"1931",
+    "year_acquired":"1962",
+    "decade":"1920",
+    "woe:country":"23424829",
+    "medium":"Medium: linen\nTechnique: printed on plain weave\nLabel: printed linen",
+    "markings":null,
+    "signed":null,
+    "inscribed":"ENTW. GEYER-RAACK. DEWE. TEX.",
+    "provenance":null,
+    "dimensions":"H x W: 461 x 129.5 cm (181 1\/2 x 51 in.)\nRepeat: 63.5 x 62.5 cm (25 x 24 5\/8 in.)",
+    "creditline":"Gift of Bertha Schaefer",
+    "description":"Length of printed linen with a bold, large-scale design of highly stylized flowers in blue, green, light gray, orange, and orange-tan on a printed black ground.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42565_c9252c71051f3bf0_b.jpg",
+                "width":785,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42565_c9252c71051f3bf0_n.jpg",
+                "width":245,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/42565_c9252c71051f3bf0_z.jpg",
+                "width":490,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, ca. 1928.\nca. 1928. Medium: linen\nTechnique: printed on plain weave\nLabel: printed linen. Gift of Bertha Schaefer. 1962-18-1."
+    },
+    "colors":[
+        {
+            "color":"#32312f",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#898a70",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#b08f72",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#4c6a90",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#cec5b3",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

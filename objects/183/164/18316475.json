@@ -1,0 +1,100 @@
+{
+    "id":"18316475",
+    "tms:id":"43695",
+    "accession_number":"1928-5-3-a,b",
+    "title":"Cuff Buttons, ca. 1860",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18316475\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35393199",
+    "type_id":"35284957",
+    "date":"ca. 1860",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1928",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Aluminum, gold",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Mrs. Gustav E. Kissel; 1928: acquired by the Museum",
+    "dimensions":"H x diam. (a): 1.5 x 2.1 cm (9\/16 x 13\/16 in.)\nH x diam. (b): 1.5 x 2.2 cm (9\/16 x 7\/8 in.)",
+    "creditline":"Gift of Mrs. Gustav E. Kissel",
+    "description":"Each circular button in the form of a knot decorated with cross-hatched bands and lozenges.",
+    "justification":null,
+    "type":{
+        "id":"35284957",
+        "name":"Cuff buttons"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2518_32d949e6bbc2506b_b.jpg",
+                "width":1024,
+                "height":531,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2518_32d949e6bbc2506b_n.jpg",
+                "width":320,
+                "height":166,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2518_32d949e6bbc2506b_z.jpg",
+                "width":640,
+                "height":332,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2885_eca8c09b03451f94_b.jpg",
+                "width":1024,
+                "height":872,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2885_eca8c09b03451f94_n.jpg",
+                "width":320,
+                "height":273,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2885_eca8c09b03451f94_z.jpg",
+                "width":640,
+                "height":545,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Cuff Buttons, ca. 1860.\nca. 1860. Aluminum, gold. Gift of Mrs. Gustav E. Kissel. 1928-5-3-a,b."
+    },
+    "colors":[
+        {
+            "color":"#e2d1d0",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#bca9a5",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#928075",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#4d3024",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#885430",
+            "closest_css3":"#a0522d"
+        }
+    ]
+}

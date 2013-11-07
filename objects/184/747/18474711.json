@@ -1,0 +1,42 @@
+{
+    "id":"18474711",
+    "tms:id":"148118",
+    "accession_number":"1971-50-435",
+    "title":"Fragment, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474711\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35397777",
+    "type_id":"35254623",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424936",
+    "medium":"Medium: natural linen\nTechnique: bobbin lace, peasant style",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Marian Hague",
+    "description":"Trimming with blossoms forming tabs.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 19th century.\n19th century. Medium: natural linen\nTechnique: bobbin lace, peasant style. Bequest of Marian Hague. 1971-50-435."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id":"18740015",
+    "tms:id":"246247",
+    "accession_number":"2010-12-7",
+    "title":"Drawing, \"Design for Spoon:  Helix Pattern\", September 1980",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18740015\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35433915",
+    "type_id":"35237093",
+    "date":"September 1980",
+    "year_start":"1980",
+    "year_end":"1980",
+    "year_acquired":"2010",
+    "decade":"1980",
+    "woe:country":null,
+    "medium":"Graphite, red and green color pencil on tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Ward Bennett, by gift to David McCorkle, New York",
+    "dimensions":"30.5 x 55.5 cm (12 x 21 7\/8 in.), irregular",
+    "creditline":"Gift of David McCorkle and Ernest Hood",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34725_73ca3c0a06257203_b.jpg",
+                "width":1024,
+                "height":574,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34725_73ca3c0a06257203_n.jpg",
+                "width":320,
+                "height":179,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34725_73ca3c0a06257203_z.jpg",
+                "width":640,
+                "height":359,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18044031",
+            "role_id":"35236657",
+            "person_name":"Sasaki",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044031\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18062981",
+            "role_id":"51571159",
+            "person_name":"Ernest Hood",
+            "role_name":"Agent",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18062981\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Design for Spoon:  Helix Pattern\", September 1980.\nSeptember 1980. Graphite, red and green color pencil on tracing paper. Gift of David McCorkle and Ernest Hood. 2010-12-7."
+    },
+    "colors":[
+        {
+            "color":"#7f7159",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#b7a277",
+            "closest_css3":"#bdb76b"
+        }
+    ]
+}

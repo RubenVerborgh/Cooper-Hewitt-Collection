@@ -1,0 +1,32 @@
+{
+    "id":"18065129",
+    "url":"http:\/\/collection.cooperhewitt.org\/people\/18065129\/",
+    "name":"Ford Motor Company",
+    "supersedes":"0",
+    "superseded_by":"0",
+    "count_objects":"1",
+    "biography":null,
+    "woe:country":null,
+    "date":null,
+    "roles":[
+        {
+            "id":"35236675",
+            "name":"For",
+            "count_objects":"1"
+        }
+    ],
+    "concordances":{
+        "freebase:id":null,
+        "ulan:id":null,
+        "ima:id":null,
+        "lcnaf:id":null,
+        "ldm:id":null,
+        "moma:id":null,
+        "phm:id":"70831",
+        "tms:id":"16553",
+        "vanda:id":"74878",
+        "viaf:id":null,
+        "walker:id":null,
+        "wikipedia:id":"30433662"
+    }
+}

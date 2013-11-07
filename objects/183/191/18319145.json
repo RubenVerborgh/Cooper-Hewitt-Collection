@@ -1,0 +1,80 @@
+{
+    "id":"18319145",
+    "tms:id":"44766",
+    "accession_number":"1931-45-103-a\/o",
+    "title":"Sidewall, 1820\u201335",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18319145\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414641",
+    "type_id":"35256475",
+    "date":"1820\u201335",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Block-printed on handmade paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"89 x 49 cm (35 1\/16 x 19 5\/16 in.)",
+    "creditline":"Gift of Eleanor and Sarah Hewitt",
+    "description":"Horizontal rectangle. Design of palmettes, vines and scrolls. Irise or rainbow insets in the shape of leaves. Printed in yellow-orange and turquoise, on paler neutral yellow-orange ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_b.jpg",
+                "width":1024,
+                "height":550,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_n.jpg",
+                "width":320,
+                "height":172,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2600_1489216096e604e3_z.jpg",
+                "width":640,
+                "height":344,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1820\u201335.\n1820\u201335. Block-printed on handmade paper. Gift of Eleanor and Sarah Hewitt. 1931-45-103-a\/o."
+    },
+    "colors":[
+        {
+            "color":"#8ca1b4",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#687a89",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#676c66",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#3e4843",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#445d66",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id":"18490925",
+    "tms:id":"156341",
+    "accession_number":"1976-48-15-a\/c",
+    "title":"Border, 1840\u201370",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490925\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35431321",
+    "type_id":"35237285",
+    "date":"1840\u201370",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Machine print on continuous paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall (a): 11 x 48 cm (4 5\/16 x 18 7\/8 in.)\nOverall (b): 14.5 x 6 cm (5 11\/16 x 2 3\/8 in.)\nOverall (c): 14.5 x 18 cm (5 11\/16 x 7 1\/16 in.)",
+    "creditline":"Gift of Thomas Strahan Company",
+    "description":"Three fragments of the same design printed in two colorways: a) small green diamonds in brown cartouches with gray background; b and c) small brown diamonds in blue cartouches with off-white background.",
+    "justification":null,
+    "type":{
+        "id":"35237285",
+        "name":"Border"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8102_afde9c511bef07b1_b.jpg",
+                "width":246,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8102_afde9c511bef07b1_n.jpg",
+                "width":77,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/8102_afde9c511bef07b1_z.jpg",
+                "width":154,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046371",
+            "role_id":"35351535",
+            "person_name":"Thomas Strahan & Co., Manufactory",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046371\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Border, 1840\u201370.\n1840\u201370. Machine print on continuous paper. Gift of Thomas Strahan Company. 1976-48-15-a\/c."
+    },
+    "colors":[
+        {
+            "color":"#e7e5d1",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#aeaca4",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#c6bb97",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#998675",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#1b101b",
+            "closest_css3":"#000000"
+        }
+    ]
+}

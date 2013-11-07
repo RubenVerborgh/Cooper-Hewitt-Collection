@@ -1,0 +1,80 @@
+{
+    "id":"18444447",
+    "tms:id":"132707",
+    "accession_number":"1962-50-153",
+    "title":"Border, late 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444447\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35237285",
+    "date":"late 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424757",
+    "medium":"Medium: linen\nTechnique: bobbin lace",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 11.5 x 105 cm (4 1\/2 x 41 5\/16 in.)",
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Border of Mechlin lace showing small-scale blossoms and powdered-over ground with a border of symmetric, repeated floral sprays. Fond: Droschel. Modes: sem\u00e9 de Larmes, enchainettes.",
+    "justification":null,
+    "type":{
+        "id":"35237285",
+        "name":"Border"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32247_6494501d6b2d7ba2_b.jpg",
+                "width":1024,
+                "height":526,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32247_6494501d6b2d7ba2_n.jpg",
+                "width":320,
+                "height":164,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32247_6494501d6b2d7ba2_z.jpg",
+                "width":640,
+                "height":329,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Border, late 18th century.\nlate 18th century. Medium: linen\nTechnique: bobbin lace. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-153."
+    },
+    "colors":[
+        {
+            "color":"#25160e",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#d1bfcc",
+            "closest_css3":"#d8bfd8"
+        },
+        {
+            "color":"#e4d1c9",
+            "closest_css3":"#d3d3d3"
+        },
+        {
+            "color":"#7f8588",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#9b8779",
+            "closest_css3":"#808080"
+        }
+    ]
+}

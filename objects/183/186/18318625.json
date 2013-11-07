@@ -1,0 +1,96 @@
+{
+    "id":"18318625",
+    "tms:id":"44552",
+    "accession_number":"1931-40-7-c",
+    "title":"Textile, \"Apotheosis of Franklin\", ca. 1780",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18318625\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367117",
+    "type_id":"35251739",
+    "date":"ca. 1780",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1931",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Medium: linen warp, cotton weft\nTechnique: copperplate printed on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 154.9 x 76.2 cm (61 x 30 in.)",
+    "creditline":"Gift of Eleanor Garnier Hewitt",
+    "description":"Off-white cotton textile copperplate printed in red. The design, known as \"American Independence\" or \"Apotheosis of Franklin\" shows George Washington standing in a chariot drawn by leopards, and behind him a female figure holding a shield on which \"American Independence 1776\" is inscribed.  Benjamin Franklin is shown with a female figure carrying a liberty cap on a staff; above them on a scroll: \"Where Liberty Dwells There is my Country.\"",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15424_21ca85672e10c850_b.jpg",
+                "width":689,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15424_21ca85672e10c850_n.jpg",
+                "width":215,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15424_21ca85672e10c850_z.jpg",
+                "width":431,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15380_0aa47314b413f313_b.jpg",
+                "width":1024,
+                "height":927,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15380_0aa47314b413f313_n.jpg",
+                "width":320,
+                "height":290,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/15380_0aa47314b413f313_z.jpg",
+                "width":640,
+                "height":579,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, \"Apotheosis of Franklin\", ca. 1780.\nca. 1780. Medium: linen warp, cotton weft\nTechnique: copperplate printed on plain weave. Gift of Eleanor Garnier Hewitt. 1931-40-7-c."
+    },
+    "colors":[
+        {
+            "color":"#d4c4af",
+            "closest_css3":"#c0c0c0"
+        },
+        {
+            "color":"#b6877a",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#a35051",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#c8a89a",
+            "closest_css3":"#d2b48c"
+        }
+    ]
+}

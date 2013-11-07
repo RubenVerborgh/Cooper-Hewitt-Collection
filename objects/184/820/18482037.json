@@ -1,0 +1,80 @@
+{
+    "id":"18482037",
+    "tms:id":"151875",
+    "accession_number":"1973-62-1",
+    "title":"Textile, 1775\u20131785",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18482037\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"1775\u20131785",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: cotton\nTechnique: block printed and painted on plain weave, blue and yellow applied by hand",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 38 x 70.5 cm (14 15\/16 x 27 3\/4 in.)\nRepeat H: 22.9 cm (9 in.)",
+    "creditline":"Gift of Elinor Merrell",
+    "description":"Printed cotton with a straight repeat of four offset, slightly dovetailed rows of  flowers, a different flower in each row. The flowers, in black, blue, green, yellow and red, are widely spaced on the white fabric.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43670_6df07d0a8e06beba_b.jpg",
+                "width":1024,
+                "height":560,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43670_6df07d0a8e06beba_n.jpg",
+                "width":320,
+                "height":175,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43670_6df07d0a8e06beba_z.jpg",
+                "width":640,
+                "height":350,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 1775\u20131785.\n1775\u20131785. Medium: cotton\nTechnique: block printed and painted on plain weave, blue and yellow applied by hand. Gift of Elinor Merrell. 1973-62-1."
+    },
+    "colors":[
+        {
+            "color":"#787154",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#9b815a",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#b7a37e",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#7e3a37",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#57403d",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

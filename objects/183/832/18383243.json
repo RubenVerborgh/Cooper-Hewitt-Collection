@@ -1,0 +1,80 @@
+{
+    "id":"18383243",
+    "tms:id":"101745",
+    "accession_number":"1949-92-8",
+    "title":"Fragment, 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18383243\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1949",
+    "decade":null,
+    "woe:country":"23424781",
+    "medium":"Medium: silk\nTechnique: plain compound satin",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 12.5 x 31.2 cm (4 15\/16 x 12 5\/16 in.)",
+    "creditline":"Gift of Walter Hochstradter",
+    "description":"Allover geometrical design in blue and tan on a gray ground.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48922_724ed4af46802a65_b.jpg",
+                "width":1024,
+                "height":465,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48922_724ed4af46802a65_n.jpg",
+                "width":320,
+                "height":145,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48922_724ed4af46802a65_z.jpg",
+                "width":640,
+                "height":291,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 18th century.\n18th century. Medium: silk\nTechnique: plain compound satin. Gift of Walter Hochstradter. 1949-92-8."
+    },
+    "colors":[
+        {
+            "color":"#87805a",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#635f42",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#98a3a1",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#4d4f4b",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#74827f",
+            "closest_css3":"#808080"
+        }
+    ]
+}

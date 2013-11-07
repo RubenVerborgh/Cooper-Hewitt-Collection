@@ -1,0 +1,75 @@
+{
+    "id":"18103393",
+    "tms:id":"6808",
+    "accession_number":"1898-6-29",
+    "title":"Print, \"Gardner (Cassatt) Held by His Mother\", ca. 1889",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18103393\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35394591",
+    "type_id":"35236873",
+    "date":"ca. 1889",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1898",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Black ink on cream colored paper",
+    "markings":null,
+    "signed":"Signed in graphite, lower right: Mary Cassatt.",
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"26.2 x 20.5 cm (10 5\/16 x 8 1\/16 in.)\nPlatemark: 21.1 x 14 cm (8 5\/16 x 5 1\/2 in.)",
+    "creditline":"Gift of Samuel P. Avery",
+    "description":"Woman seated frontally, holds baby in her arms and looks into its face. Heads only finished.",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55645_ecd2ed6e362716f8_b.jpg",
+                "width":818,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55645_ecd2ed6e362716f8_n.jpg",
+                "width":256,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/55645_ecd2ed6e362716f8_z.jpg",
+                "width":511,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"34624791",
+            "role_id":"35236565",
+            "person_name":"Mary Cassatt",
+            "role_name":"Artist",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/34624791\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236565\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Gardner (Cassatt) Held by His Mother\", ca. 1889.\nca. 1889. Black ink on cream colored paper. Gift of Samuel P. Avery. 1898-6-29."
+    },
+    "colors":[
+        {
+            "color":"#826c51",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#e7dbbd",
+            "closest_css3":"#f5deb3"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18422665",
+    "tms:id":"121574",
+    "accession_number":"1958-148-2",
+    "title":"Fan, mid-19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18422665\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35420133",
+    "type_id":"35252007",
+    "date":"mid-19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1958",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk, ivory",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Width (diam.): 38.0 cm (14 15\/16 in.)\nLength: 45.5 cm (17 15\/16 in.)",
+    "creditline":"Gift of Lea S. Luquer",
+    "description":"Each of twenty-four ovals has sixteen scallops, all edges rolled and whipped, each decorated at three points with brocaded colored silk flowers; each attached to guards by slender shaft on back.  Two end ovals adhere to guards that have portions sliding in groove, forming handle.  Inner ends of sticks pivot on metal pin; inner two and a half inches of sticks are of pierced ivory and have leaf-like embosses ornament.",
+    "justification":null,
+    "type":{
+        "id":"35252007",
+        "name":"fan"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5648_1f7835d4ee5eb131_b.jpg",
+                "width":885,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5648_1f7835d4ee5eb131_n.jpg",
+                "width":276,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5648_1f7835d4ee5eb131_z.jpg",
+                "width":553,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fan, mid-19th century.\nmid-19th century. Medium: silk, ivory. Gift of Lea S. Luquer. 1958-148-2."
+    },
+    "colors":[
+        {
+            "color":"#252130",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#bdb082",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#9b8d67",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#585340",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#393025",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

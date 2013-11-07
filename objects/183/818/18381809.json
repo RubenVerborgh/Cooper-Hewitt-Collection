@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "101027", 
+  "images": [], 
+  "id": "18381809", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Bookmark: Trowel, 1949-19-4", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver", 
+  "description": null, 
+  "creditline": "Gift of Anonymous Donor", 
+  "period_id": null, 
+  "date": null, 
+  "url": "http://collection.cooperhewitt.org/objects/18381809/", 
+  "type": {
+    "id": "35289687", 
+    "name": "bookmark: trowel"
+  }, 
+  "accession_number": "1949-19-4", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1949"
+}

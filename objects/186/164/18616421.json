@@ -1,0 +1,80 @@
+{
+    "id":"18616421",
+    "tms:id":"176740",
+    "accession_number":"1981-28-156",
+    "title":"Sampler, 1830",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18616421\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410831",
+    "type_id":"35256439",
+    "date":"1830",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1981",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Medium: silk embroidery on linen foundation\nTechnique: cross and satin embroidery stitches on plain weave foundation",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 42 x 46.5cm (16 9\/16 x 18 5\/16in.)",
+    "creditline":"Bequest of Gertrude M. Oppenheimer",
+    "description":"Family record of John and Clarissa Tallman and their children, Esther, Hannah, Sarah, Margaret, Clarissa, and John. In the lower third, a gazebo flanked by two willow trees, with women and children. A border of roses frames three sides.",
+    "justification":null,
+    "type":{
+        "id":"35256439",
+        "name":"Sampler"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19340_df0898cd8e0cc784_b.jpg",
+                "width":1024,
+                "height":914,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19340_df0898cd8e0cc784_n.jpg",
+                "width":320,
+                "height":286,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19340_df0898cd8e0cc784_z.jpg",
+                "width":640,
+                "height":571,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sampler, 1830.\n1830. Medium: silk embroidery on linen foundation\nTechnique: cross and satin embroidery stitches on plain weave foundation. Bequest of Gertrude M. Oppenheimer. 1981-28-156."
+    },
+    "colors":[
+        {
+            "color":"#977e5e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#b99b75",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#634f34",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#1d2f2a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#868a75",
+            "closest_css3":"#808080"
+        }
+    ]
+}

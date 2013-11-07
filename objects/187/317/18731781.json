@@ -1,0 +1,80 @@
+{
+    "id":"18731781",
+    "tms:id":"241988",
+    "accession_number":"2009-20-11",
+    "title":"Poster, \"Modes et Publicit\u00e9, Le Regard du Marie Claire,1885-1986\", 1986",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18731781\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35433379",
+    "type_id":"35238163",
+    "date":"1986",
+    "year_start":"1986",
+    "year_end":"1986",
+    "year_acquired":"2009",
+    "decade":"1980",
+    "woe:country":null,
+    "medium":"Photo-offset lithograph",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Marc Benda",
+    "dimensions":"79.5 x 59.5 cm (31 5\/16 x 23 7\/16 in.)",
+    "creditline":"Gift of Sara and Marc Benda",
+    "description":"Headline in white across top reads: \"MODES ET PUBLICITE.\" text below in yellow reads: 1885-1986 LE REGARD DE marie claire.\" Text below in white reads: \"Du 15 janvier au 31 mars 1986,\/ 100 ans d'affiches\/ et d'annonces publicitaires\/\nMusee de la Publicite\/ 18, rue de Paradis\/ Ouvert tous les jours\/ de 12h a 18h. Sauf le mardi.\" In center, two images of a woman with crack running between them. On left, woman in evening dress. On right, woman in yellow blazer, patterned shirt and blue skirt. Black background.",
+    "justification":null,
+    "type":{
+        "id":"35238163",
+        "name":"poster"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35454_4f2050bc1ccac644_b.jpg",
+                "width":771,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35454_4f2050bc1ccac644_n.jpg",
+                "width":241,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/35454_4f2050bc1ccac644_z.jpg",
+                "width":482,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Poster, \"Modes et Publicit\u00e9, Le Regard du Marie Claire,1885-1986\", 1986.\n1986. Photo-offset lithograph. Gift of Sara and Marc Benda. 2009-20-11."
+    },
+    "colors":[
+        {
+            "color":"#e7dec5",
+            "closest_css3":"#f5deb3"
+        },
+        {
+            "color":"#312b2d",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#e2ba8c",
+            "closest_css3":"#deb887"
+        },
+        {
+            "color":"#915753",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#6b373f",
+            "closest_css3":"#8b4513"
+        }
+    ]
+}

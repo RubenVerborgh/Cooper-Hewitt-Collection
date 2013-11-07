@@ -1,0 +1,87 @@
+{
+    "id":"18806319",
+    "tms:id":"183464",
+    "accession_number":"1986-118-9",
+    "title":"Drawing, \"Movie Poster for \"Fashions for Women\"\", 1927",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18806319\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35475559",
+    "type_id":"35237093",
+    "date":"1927",
+    "year_start":"1927",
+    "year_end":"1927",
+    "year_acquired":"1986",
+    "decade":"1920",
+    "woe:country":"23424977",
+    "medium":"Brush and gouache, chalk on cardboard",
+    "markings":null,
+    "signed":"Signed in green gouache, lower right: BATISTE \/ MADALENA \/ 1927",
+    "inscribed":null,
+    "provenance":"Judith and Steven Katten",
+    "dimensions":"110 x 56 cm (43 5\/16 x 22 1\/16 in.)",
+    "creditline":"Gift of Judith and Steven Katten",
+    "description":"The poster depicts the figure of a woman in chalk, with arms out, standing on a blue tiled floor. Text in orange gouache, lower margin: \"FASHIONS \/ for WOMEN\" \/ [in white gouache] WITH RAYMOND HATTON.",
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28186_12c23deb16647f7e_b.jpg",
+                "width":558,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28186_12c23deb16647f7e_n.jpg",
+                "width":174,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/28186_12c23deb16647f7e_z.jpg",
+                "width":349,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18041971",
+            "role_id":"35236655",
+            "person_name":"Batiste Madalena",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18041971\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Movie Poster for \"Fashions for Women\"\", 1927.\n1927. Brush and gouache, chalk on cardboard. Gift of Judith and Steven Katten. 1986-118-9."
+    },
+    "colors":[
+        {
+            "color":"#866790",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#9e8da5",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#67b7c5",
+            "closest_css3":"#66cdaa"
+        },
+        {
+            "color":"#de7b30",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#4876b3",
+            "closest_css3":"#4682b4"
+        }
+    ]
+}

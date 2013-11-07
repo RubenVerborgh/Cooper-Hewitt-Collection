@@ -1,0 +1,52 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "59877", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/3165_d1a0129b9ce173c0_b.jpg", 
+        "width": 1024, 
+        "is_primary": "1", 
+        "height": 883
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/3165_d1a0129b9ce173c0_z.jpg", 
+        "width": 640, 
+        "is_primary": "1", 
+        "height": 552
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/3165_d1a0129b9ce173c0_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 276
+      }
+    }
+  ], 
+  "id": "18353065", 
+  "decade": null, 
+  "dimensions": null, 
+  "title": "Miniature, \"ship\", mid-19th century", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "silver filigree", 
+  "description": "Three masted ship, the foremast carrying the mainsail, which bears a cross of pierced silver, with sails and flags of pebbled texture.  Supported by wire spirals on oval filigree stand.", 
+  "creditline": "Gift of Anonymous Donor in memory of Albert and Rebecca Elsberg", 
+  "period_id": null, 
+  "date": "mid-19th century", 
+  "url": "http://collection.cooperhewitt.org/objects/18353065/", 
+  "type": {
+    "id": "35264083", 
+    "name": "miniature"
+  }, 
+  "accession_number": "1938-6-6", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1938"
+}

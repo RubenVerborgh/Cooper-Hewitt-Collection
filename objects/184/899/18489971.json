@@ -1,0 +1,80 @@
+{
+    "id":"18489971",
+    "tms:id":"155859",
+    "accession_number":"1976-103-25",
+    "title":"Stencil",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489971\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Helen Snyder",
+    "dimensions":null,
+    "creditline":"Gift of Helen Snyder",
+    "description":"Allover pattern of vines with flowers.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45104_1aae144b24170532_b.jpg",
+                "width":1024,
+                "height":717,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45104_1aae144b24170532_n.jpg",
+                "width":320,
+                "height":224,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/45104_1aae144b24170532_z.jpg",
+                "width":640,
+                "height":448,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-25."
+    },
+    "colors":[
+        {
+            "color":"#473128",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#6c4d39",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#7f6a5b",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#bbb4ad",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#9b8d82",
+            "closest_css3":"#808080"
+        }
+    ]
+}

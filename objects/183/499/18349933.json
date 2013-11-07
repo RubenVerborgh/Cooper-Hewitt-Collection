@@ -1,0 +1,72 @@
+{
+    "id":"18349933",
+    "tms:id":"58584",
+    "accession_number":"1938-57-425",
+    "title":"Wine Glass Rinser",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18349933\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35414521",
+    "type_id":"51585323",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1938",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Glazed earthenware",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"10.9 x 16 cm (4 5\/16 x 6 5\/16 in.)",
+    "creditline":"Bequest of Erskine Hewitt",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"51585323",
+        "name":"Wine glass rinser"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59236_d96456367af4d129_b.jpg",
+                "width":1024,
+                "height":999,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59236_d96456367af4d129_n.jpg",
+                "width":320,
+                "height":312,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59236_d96456367af4d129_z.jpg",
+                "width":640,
+                "height":624,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Wine Glass Rinser.\nGlazed earthenware. Bequest of Erskine Hewitt. 1938-57-425."
+    },
+    "colors":[
+        {
+            "color":"#e9e4ce",
+            "closest_css3":"#faebd7"
+        },
+        {
+            "color":"#9c968c",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#5a4a3a",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

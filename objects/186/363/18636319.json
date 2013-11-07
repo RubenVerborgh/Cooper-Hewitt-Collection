@@ -1,0 +1,42 @@
+{
+    "id":"18636319",
+    "tms:id":"193007",
+    "accession_number":"1991-30-13",
+    "title":"Tumbler",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18636319\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35237437",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1991",
+    "decade":null,
+    "woe:country":null,
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Overall: 8.9 x 5.6 diameter cm (3 1\/2 x 2 3\/16 in.)",
+    "creditline":"Gift of Paul F. Walter",
+    "description":"Frosted and etched checker board pattern; Manufacturer's logo on bottom",
+    "justification":null,
+    "type":{
+        "id":"35237437",
+        "name":"tumbler"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Tumbler.\nglass. Gift of Paul F. Walter. 1991-30-13."
+    },
+    "colors":[
+
+    ]
+}

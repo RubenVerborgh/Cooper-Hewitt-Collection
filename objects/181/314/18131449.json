@@ -1,0 +1,49 @@
+{
+    "id":"18131449",
+    "tms:id":"11762",
+    "accession_number":"1902-1-564",
+    "title":"Fragment, possibly 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18131449\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35394285",
+    "type_id":"35254623",
+    "date":"possibly 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":"23424950",
+    "medium":"Medium: silk, metallic\nTechnique: cut supplementary warp forming pile (velvet) with supplementary weft",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Antonio Viv\u00e8s y Escudero",
+    "dimensions":"H x W: 25.3 x 12.5 cm (9 15\/16 x 4 15\/16 in.)",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Blue velvet with silver thread.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, possibly 18th century.\npossibly 18th century. Medium: silk, metallic\nTechnique: cut supplementary warp forming pile (velvet) with supplementary weft. Gift of John Pierpont Morgan. 1902-1-564."
+    },
+    "colors":[
+
+    ]
+}

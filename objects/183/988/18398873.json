@@ -1,0 +1,42 @@
+{
+    "id":"18398873",
+    "tms:id":"109610",
+    "accession_number":"1953-86-4",
+    "title":"Page From Ackermann's Repository",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18398873\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35290499",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1953",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Josephine Howell",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35290499",
+        "name":"Page from Ackermann's Repository"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Page From Ackermann's Repository.\nGift of Josephine Howell. 1953-86-4."
+    },
+    "colors":[
+
+    ]
+}

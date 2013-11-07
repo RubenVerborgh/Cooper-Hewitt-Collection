@@ -1,0 +1,31 @@
+{
+  "year_start": null, 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "156634", 
+  "images": [], 
+  "id": "18491507", 
+  "decade": null, 
+  "dimensions": "Overall: 7.5 x 5.8 x 1.2 cm (2 15/16 x 2 5/16 x 1/2 in.)", 
+  "title": "Coin Box, 1976-87-1, 19th century", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": null, 
+  "description": null, 
+  "creditline": "Gift of Simon Lissim", 
+  "period_id": null, 
+  "date": "19th century", 
+  "url": "http://collection.cooperhewitt.org/objects/18491507/", 
+  "type": {
+    "id": "35293073", 
+    "name": "Coin box"
+  }, 
+  "accession_number": "1976-87-1", 
+  "year_end": null, 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "1976"
+}

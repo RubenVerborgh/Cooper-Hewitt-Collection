@@ -1,0 +1,49 @@
+{
+    "id":"18132499",
+    "tms:id":"11926",
+    "accession_number":"1902-1-710",
+    "title":"Fragment, 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18132499\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35410719",
+    "type_id":"35254623",
+    "date":"17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, cotton\nTechnique: plain weave plus plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions":"H x W: 40.5 x 19.5 cm (15 15\/16 x 7 11\/16 in.)",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Detached circular flower motifs.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, 17th century.\n17th century. Medium: silk, cotton\nTechnique: plain weave plus plain weave. Gift of John Pierpont Morgan. 1902-1-710."
+    },
+    "colors":[
+
+    ]
+}

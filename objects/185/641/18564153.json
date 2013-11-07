@@ -1,0 +1,87 @@
+{
+    "id":"18564153",
+    "tms:id":"75280",
+    "accession_number":"1941-69-213",
+    "title":"Sampler, 1814",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18564153\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35427187",
+    "type_id":"35256439",
+    "date":"1814",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1941",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk embroidery, cotton foundation\nTechnique: running and cross stitches on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Mrs. Henry E. Coe (Eva Johnston Coe)",
+    "dimensions":"22 x 17 cm (8 11\/16 x 6 11\/16 in.)",
+    "creditline":"Bequest of Mrs. Henry E. Coe",
+    "description":"Twelve designs in darning.",
+    "justification":null,
+    "type":{
+        "id":"35256439",
+        "name":"Sampler"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29154_403f2585a626b863_b.jpg",
+                "width":784,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29154_403f2585a626b863_n.jpg",
+                "width":245,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/29154_403f2585a626b863_z.jpg",
+                "width":490,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18536517",
+            "role_id":"35236583",
+            "person_name":"Sarah Knott",
+            "role_name":"Embroiderer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18536517\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236583\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Sampler, 1814.\n1814. Medium: silk embroidery, cotton foundation\nTechnique: running and cross stitches on plain weave. Bequest of Mrs. Henry E. Coe. 1941-69-213."
+    },
+    "colors":[
+        {
+            "color":"#5b3918",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#d7883e",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#a6ae60",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#927133",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#7f824b",
+            "closest_css3":"#696969"
+        }
+    ]
+}

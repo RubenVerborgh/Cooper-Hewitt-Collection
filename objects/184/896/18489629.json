@@ -1,0 +1,42 @@
+{
+    "id":"18489629",
+    "tms:id":"155688",
+    "accession_number":"1976-103-1-2",
+    "title":"Print, \"Plate 14 from Relais\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489629\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35423849",
+    "type_id":"35236873",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Pochoir",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Helen Snyder",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"Plate 14 from Relais\".\nPochoir. Gift of Helen Snyder. 1976-103-1-2."
+    },
+    "colors":[
+
+    ]
+}

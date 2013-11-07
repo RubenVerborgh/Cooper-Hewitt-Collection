@@ -1,0 +1,80 @@
+{
+    "id":"18444829",
+    "tms:id":"132900",
+    "accession_number":"1962-50-32",
+    "title":"Chalice Cover, 17th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18444829\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35414465",
+    "type_id":"35266821",
+    "date":"17th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Medium: linen\nTechnique: needle lace",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex-collection: Ikl\u00e9",
+    "dimensions":"H x W: 16.5 x 16.5 cm (6 1\/2 x 6 1\/2 in.)",
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Design consists of a figure of a bishop, surrounded by floral scrolls terminating in angel heads at each of the four corners. Border is comprised of stylized floral forms. Pattern connected by brides, outlined by cordonnet, interspersed by portes.",
+    "justification":null,
+    "type":{
+        "id":"35266821",
+        "name":"Chalice cover"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_b.jpg",
+                "width":1024,
+                "height":1006,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_n.jpg",
+                "width":320,
+                "height":314,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/31881_f50f90e0dfd66a43_z.jpg",
+                "width":640,
+                "height":629,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chalice Cover, 17th century.\n17th century. Medium: linen\nTechnique: needle lace. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-50-32."
+    },
+    "colors":[
+        {
+            "color":"#cabfce",
+            "closest_css3":"#d8bfd8"
+        },
+        {
+            "color":"#26210f",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#b29689",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#b2ada5",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#a8bdc7",
+            "closest_css3":"#c0c0c0"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id":"18311871",
+    "tms:id":"41844",
+    "accession_number":"1926-11-11",
+    "title":"Chair, \"Sgabello\", 16th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18311871\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35367501",
+    "type_id":"35237307",
+    "date":"16th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1926",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Carved walnut",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Monogram: A.D. in cartouch carved in back of seat.",
+    "provenance":"From the Bardini collection.",
+    "dimensions":"105 x 30.2 x 42.5 cm (41 5\/16 x 11 7\/8 x 16 3\/4 in. )",
+    "creditline":"Gift of Charles W. Gould",
+    "description":"Shaped back bears decoration of paired rosettes, leaves, and scrolls centering a fleur-de-lys and heraldic ornament. Moulded octagonal seat on panelled spreading box frame, moulded and dentillated at base. Front and rear leg panels joined by single stretcher. The front panel bears paired bound and scrolled leaves and centers a panel of feathering.",
+    "justification":null,
+    "type":{
+        "id":"35237307",
+        "name":"chair"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2778_d4c86db217aa6e2b_b.jpg",
+                "width":526,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2778_d4c86db217aa6e2b_n.jpg",
+                "width":164,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2778_d4c86db217aa6e2b_z.jpg",
+                "width":329,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2779_6109f32e2ec92542_b.jpg",
+                "width":1024,
+                "height":768,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2779_6109f32e2ec92542_n.jpg",
+                "width":320,
+                "height":240,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2779_6109f32e2ec92542_z.jpg",
+                "width":640,
+                "height":480,
+                "is_primary":"0"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2780_447fdedd242e6cce_b.jpg",
+                "width":635,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2780_447fdedd242e6cce_n.jpg",
+                "width":198,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/2780_447fdedd242e6cce_z.jpg",
+                "width":397,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chair, \"Sgabello\", 16th century.\n16th century. Carved walnut. Gift of Charles W. Gould. 1926-11-11."
+    },
+    "colors":[
+        {
+            "color":"#311918",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#766465",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#584446",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#ac9194",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#702e22",
+            "closest_css3":"#8b4513"
+        }
+    ]
+}

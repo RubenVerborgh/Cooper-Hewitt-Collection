@@ -1,0 +1,42 @@
+{
+    "id":"18458651",
+    "tms:id":"139895",
+    "accession_number":"1967-66-12",
+    "title":"Vase",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18458651\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35402723",
+    "type_id":"35237225",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1967",
+    "decade":null,
+    "woe:country":null,
+    "medium":"glass",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x diam.: 26 x 13 cm (10 1\/4 x 5 1\/8 in.)",
+    "creditline":"Gift of Mr. and Mrs. Arthur Wiesenberger",
+    "description":"Long cylindrical vase with 6 curled feet ( one damaged)",
+    "justification":null,
+    "type":{
+        "id":"35237225",
+        "name":"Vase"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Vase.\nglass. Gift of Mr. and Mrs. Arthur Wiesenberger. 1967-66-12."
+    },
+    "colors":[
+
+    ]
+}

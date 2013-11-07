@@ -1,0 +1,42 @@
+{
+    "id":"18445509",
+    "tms:id":"133247",
+    "accession_number":"1962-56-170",
+    "title":"Waistcoat Pocket",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445509\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35291509",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":null,
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35291509",
+        "name":"Waistcoat pocket"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Waistcoat Pocket.\nBequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-170."
+    },
+    "colors":[
+
+    ]
+}

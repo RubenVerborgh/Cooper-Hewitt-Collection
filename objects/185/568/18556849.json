@@ -1,0 +1,100 @@
+{
+    "id":"18556849",
+    "tms:id":"71076",
+    "accession_number":"1939-45-2",
+    "title":"Frieze, ca. 1880",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18556849\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35426663",
+    "type_id":"35259269",
+    "date":"ca. 1880",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1939",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Flocked, embossed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"89.5 x 57 cm (35 1\/4 x 22 7\/16 in.)",
+    "creditline":"Gift of Edith and Maude Wetmore",
+    "description":"Two bands, apparently intended to be cut longitudinally. Alternating wide and narrow stripes of flock. Paper embossed with pebbled ground. Printed in gold with green underprinting, and black flock.",
+    "justification":null,
+    "type":{
+        "id":"35259269",
+        "name":"Frieze"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48803_e4a5169fa56290a6_b.jpg",
+                "width":680,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48803_e4a5169fa56290a6_n.jpg",
+                "width":213,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/48803_e4a5169fa56290a6_z.jpg",
+                "width":425,
+                "height":640,
+                "is_primary":"1"
+            }
+        },
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21799_1f6b9e9bff4eb7c5_b.jpg",
+                "width":715,
+                "height":1024,
+                "is_primary":"0"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21799_1f6b9e9bff4eb7c5_n.jpg",
+                "width":223,
+                "height":320,
+                "is_primary":"0"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21799_1f6b9e9bff4eb7c5_z.jpg",
+                "width":447,
+                "height":640,
+                "is_primary":"0"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Frieze, ca. 1880.\nca. 1880. Flocked, embossed. Gift of Edith and Maude Wetmore. 1939-45-2."
+    },
+    "colors":[
+        {
+            "color":"#b3944a",
+            "closest_css3":"#cd853f"
+        },
+        {
+            "color":"#55482a",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#8e7943",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#9aab95",
+            "closest_css3":"#8fbc8f"
+        },
+        {
+            "color":"#322c20",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

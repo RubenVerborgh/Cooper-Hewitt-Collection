@@ -1,0 +1,42 @@
+{
+    "id":"18388717",
+    "tms:id":"104503",
+    "accession_number":"1951-58-2-a,b",
+    "title":"Earrings, ca. 1850",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18388717\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35419097",
+    "type_id":"35269265",
+    "date":"ca. 1850",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":"23424977",
+    "medium":"Hair, gold",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W x D: 4.8 x 2.3 x 0.6 cm (1 7\/8 x 7\/8 x 1\/4 in.)",
+    "creditline":"Gift of Mrs. Edward Haynes",
+    "description":"Pair of earrings of hairi-work woven into spherical and cylindrical forms, mounted in gold.",
+    "justification":null,
+    "type":{
+        "id":"35269265",
+        "name":"Earrings"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Earrings, ca. 1850.\nca. 1850. Hair, gold. Gift of Mrs. Edward Haynes. 1951-58-2-a,b."
+    },
+    "colors":[
+
+    ]
+}

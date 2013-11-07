@@ -1,0 +1,42 @@
+{
+    "id":"18474507",
+    "tms:id":"148014",
+    "accession_number":"1971-50-342-a,b",
+    "title":"Border & Hexagon, 16th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18474507\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35374723",
+    "type_id":"51496853",
+    "date":"16th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1971",
+    "decade":null,
+    "woe:country":"23424853",
+    "medium":"Medium: linen, metallic thread\nTechnique: needle lace, interlacing",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Bequest of Marian Hague",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"51496853",
+        "name":"Border & Hexagon"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Border & Hexagon, 16th century.\n16th century. Medium: linen, metallic thread\nTechnique: needle lace, interlacing. Bequest of Marian Hague. 1971-50-342-a,b."
+    },
+    "colors":[
+
+    ]
+}

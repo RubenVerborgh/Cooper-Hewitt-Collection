@@ -1,0 +1,87 @@
+{
+    "id":"18797501",
+    "tms:id":"274410",
+    "accession_number":"2012-6-1",
+    "title":"Baby Carrier (mei Tai), 1950\u20132000",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18797501\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35456703",
+    "type_id":"35456707",
+    "date":"1950\u20132000",
+    "year_start":"1950",
+    "year_end":"2000",
+    "year_acquired":"2012",
+    "decade":"1950",
+    "woe:country":"23424781",
+    "medium":"Medium: cotton embroidery on cotton foundation, rattan? \nTechnique: appliqu\u00e9d and embroidered in cross stitch on plain weave\nLabel: indigo-dyed cotton, appliqu\u00e9d and embroidered with cotton in cross stitch",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Purchased by the dealer, Dennis Kord, from a Miao woman in Guizhou.",
+    "dimensions":"H x W (without straps): 69.5 x 51.4 cm (27 3\/8 x 20 1\/4 in.)\nH x W (with straps): 69.5 x 332.7 cm (27 3\/8 in. x 10 ft. 11 in.)",
+    "creditline":"Museum purchase from General Acquisitions Endowment Fund",
+    "description":"Baby carrier with an upper rectangular section stiffened with a reed mat, and a soft lower square, with long tying straps. The upper section is of blackish-blue cotton with red cotton appliqu\u00e9 around the outside and forming three squares, all filled with fine embroidered geometric pattern in white. The lower square and straps are indigo blue, embroidered all over with a diamond grid of fine white cross-stitch embroidery in geometric and floral forms. Back lined with several pieces of indigo-dyed cotton in varied shades. Straps lined with undyed cotton.",
+    "justification":null,
+    "type":{
+        "id":"35456707",
+        "name":"Baby carrier (mei tai)"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59213_8f9e4a4ed399b650_b.jpg",
+                "width":782,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59213_8f9e4a4ed399b650_n.jpg",
+                "width":244,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/59213_8f9e4a4ed399b650_z.jpg",
+                "width":489,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18065353",
+            "role_id":"35352249",
+            "person_name":"Apsara",
+            "role_name":"Vendor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18065353\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35352249\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Baby Carrier (mei Tai), 1950\u20132000.\n1950\u20132000. Medium: cotton embroidery on cotton foundation, rattan? \nTechnique: appliqu\u00e9d and embroidered in cross stitch on plain weave\nLabel: indigo-dyed cotton, appliqu\u00e9d and embroidered with cotton in cross stitch. Museum purchase from General Acquisitions Endowment Fund. 2012-6-1."
+    },
+    "colors":[
+        {
+            "color":"#c7b9a4",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#9f9587",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#807669",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#524b45",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#302c2f",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

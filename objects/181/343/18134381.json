@@ -1,0 +1,87 @@
+{
+    "id":"18134381",
+    "tms:id":"12238",
+    "accession_number":"1902-1-985",
+    "title":"Textile, 14th\u201317th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18134381\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367229",
+    "type_id":"35251739",
+    "date":"14th\u201317th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: silk, metal-wrapped linen\nTechnique: 4&1 satin with supplementary wefts",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Antonio Viv\u00e9s y Escudero",
+    "dimensions":"H x W: 87.5 x 52.5 cm (34 7\/16 x 20 11\/16 in.)",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Spiked palmettes in horizontal rows. One selvage.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/1372_c916500891163090_b.jpg",
+                "width":645,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/1372_c916500891163090_n.jpg",
+                "width":202,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/1372_c916500891163090_z.jpg",
+                "width":403,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 14th\u201317th century.\n14th\u201317th century. Medium: silk, metal-wrapped linen\nTechnique: 4&amp;1 satin with supplementary wefts. Gift of John Pierpont Morgan. 1902-1-985."
+    },
+    "colors":[
+        {
+            "color":"#8c7f76",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#715b49",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#4d3d2d",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#aaa09e",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#726868",
+            "closest_css3":"#696969"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18703509",
+    "tms:id":"227532",
+    "accession_number":"2007-45-23",
+    "title":"Staircase Model, late 20th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18703509\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35425309",
+    "type_id":"35302429",
+    "date":"late 20th century",
+    "year_start":"1975",
+    "year_end":"2000",
+    "year_acquired":"2007",
+    "decade":"1970",
+    "woe:country":"23424819",
+    "medium":"Cherry",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 106 x 57 cm (41 3\/4 x 22 7\/16 in.)",
+    "creditline":"Gift of Eugene V. and Clare E. Thaw",
+    "description":"double revolution spiral staircase model",
+    "justification":null,
+    "type":{
+        "id":"35302429",
+        "name":"Staircase model"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_b.jpg",
+                "width":655,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_n.jpg",
+                "width":205,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/21642_6c9a89bacfd1bda8_z.jpg",
+                "width":410,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Staircase Model, late 20th century.\nlate 20th century. Cherry. Gift of Eugene V. and Clare E. Thaw. 2007-45-23."
+    },
+    "colors":[
+        {
+            "color":"#908880",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#332624",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#4e4845",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#522f1b",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#7b695c",
+            "closest_css3":"#696969"
+        }
+    ]
+}

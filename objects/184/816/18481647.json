@@ -1,0 +1,80 @@
+{
+    "id":"18481647",
+    "tms:id":"151679",
+    "accession_number":"1973-51-109",
+    "title":"Textile, 1750\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481647\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"1750\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: cotton\nTechnique: block printed (two reds and deep purple) with yellow and blue applied by brush on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Jacques Martin  scrapbook",
+    "dimensions":"Warp x Weft: 60.5 x 41.5 cm (23 13\/16 x 16 5\/16 in.)\nH x W (block): 21.6 x 16.5 cm (8 1\/2 x 6 1\/2 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Fine meandering vertical floral line on a deep purple background.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43678_7254f01dcb631633_b.jpg",
+                "width":710,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43678_7254f01dcb631633_n.jpg",
+                "width":222,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/43678_7254f01dcb631633_z.jpg",
+                "width":444,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 1750\u20131800.\n1750\u20131800. Medium: cotton\nTechnique: block printed (two reds and deep purple) with yellow and blue applied by brush on plain weave. Gift of Josephine Howell. 1973-51-109."
+    },
+    "colors":[
+        {
+            "color":"#2f2d2b",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#6d5438",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#483823",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#8f6f44",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#a99177",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

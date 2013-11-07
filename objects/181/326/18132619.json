@@ -1,0 +1,49 @@
+{
+    "id":"18132619",
+    "tms:id":"11947",
+    "accession_number":"1902-1-73",
+    "title":"Medallion, 4th\u20135th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18132619\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35367131",
+    "type_id":"35249475",
+    "date":"4th\u20135th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1902",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: S-spun, Z-twist linen. Wefts: Z-spun linen, Z-spun wool, S-spun wool.\nTechnique: slit tapestry with supplementary weft wrapping.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 9.7 x 8.4 cm (3 13\/16 x 3 5\/16 in. )",
+    "creditline":"Gift of John Pierpont Morgan",
+    "description":"Roundel depicting Herculas wearing lion skin and carrying a club with Victory in the sky. Seated figure at the lower right is incomplete.",
+    "justification":null,
+    "type":{
+        "id":"35249475",
+        "name":"medallion"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18049445",
+            "role_id":"35351535",
+            "person_name":"John Pierpont Morgan",
+            "role_name":"Donor",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18049445\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35351535\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Medallion, 4th\u20135th century.\n4th\u20135th century. Medium: S-spun, Z-twist linen. Wefts: Z-spun linen, Z-spun wool, S-spun wool.\nTechnique: slit tapestry with supplementary weft wrapping.. Gift of John Pierpont Morgan. 1902-1-73."
+    },
+    "colors":[
+
+    ]
+}

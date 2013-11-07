@@ -1,0 +1,42 @@
+{
+    "id":"18637577",
+    "tms:id":"193641",
+    "accession_number":"1991-87-2",
+    "title":"Sample, 1989",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18637577\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35268079",
+    "date":"1989",
+    "year_start":"1989",
+    "year_end":"1989",
+    "year_acquired":"1991",
+    "decade":"1980",
+    "woe:country":"23424977",
+    "medium":"Medium: silk\nTechnique: Silk plisse that was shrunk and clamp discharged in her studio.  The silk  was woven to cause puckering when shrunk which produced ridges in the fabric.",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Marian Clayden",
+    "description":"Black with areas of brown and redish brown.",
+    "justification":null,
+    "type":{
+        "id":"35268079",
+        "name":"Sample"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sample, 1989.\n1989. Medium: silk\nTechnique: Silk plisse that was shrunk and clamp discharged in her studio.  The silk  was woven to cause puckering when shrunk which produced ridges in the fabric.. Gift of Marian Clayden. 1991-87-2."
+    },
+    "colors":[
+
+    ]
+}

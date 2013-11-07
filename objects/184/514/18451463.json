@@ -1,0 +1,49 @@
+{
+    "id":"18451463",
+    "tms:id":"136252",
+    "accession_number":"1964-24-57-a",
+    "title":"Tablecloth, ca. 1956",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451463\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35419771",
+    "type_id":"35237897",
+    "date":"ca. 1956",
+    "year_start":"1931",
+    "year_end":"1981",
+    "year_acquired":"1964",
+    "decade":"1930",
+    "woe:country":"23424812",
+    "medium":"Technique: damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Elizabeth Gordon",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237897",
+        "name":"tablecloth"
+    },
+    "images":[
+
+    ],
+    "participants":[
+        {
+            "person_id":"18046235",
+            "role_id":"35236685",
+            "person_name":"Dora Jung",
+            "role_name":"Maker",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046235\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236685\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Tablecloth, ca. 1956.\nca. 1956. Technique: damask. Gift of Elizabeth Gordon. 1964-24-57-a."
+    },
+    "colors":[
+
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id":"18606535",
+    "tms:id":"96793",
+    "accession_number":"1947-47-1-a,b",
+    "title":"Gloves, 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18606535\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35392757",
+    "type_id":"35289021",
+    "date":"19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1947",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: cotton, glass beads\nTechnique: beaded knitting",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W (a): 22.5 x 13.8 cm (8 7\/8 x 5 7\/16 in.)\nH x W (b): 22.2 x 14.3 cm (8 3\/4 x 5 5\/8 in.)",
+    "creditline":"Gift of Mrs. Henry J. Bernheim",
+    "description":"Gloves ornamented with blue, green and gold beads in design of conventionalized flowers.",
+    "justification":null,
+    "type":{
+        "id":"35289021",
+        "name":"Gloves"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4689_65e2c765e296138c_b.jpg",
+                "width":1024,
+                "height":883,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4689_65e2c765e296138c_n.jpg",
+                "width":320,
+                "height":276,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/4689_65e2c765e296138c_z.jpg",
+                "width":640,
+                "height":552,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Gloves, 19th century.\n19th century. Medium: cotton, glass beads\nTechnique: beaded knitting. Gift of Mrs. Henry J. Bernheim. 1947-47-1-a,b."
+    },
+    "colors":[
+        {
+            "color":"#6e6472",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#817e90",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#4f4951",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#180c29",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#293469",
+            "closest_css3":"#191970"
+        }
+    ]
+}

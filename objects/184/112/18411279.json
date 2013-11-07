@@ -1,0 +1,87 @@
+{
+    "id":"18411279",
+    "tms:id":"115859",
+    "accession_number":"1956-97-1",
+    "title":"Purse, 1910\u201330",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18411279\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35419835",
+    "type_id":"35264073",
+    "date":"1910\u201330",
+    "year_start":"1910",
+    "year_end":"1930",
+    "year_acquired":"1956",
+    "decade":"1910",
+    "woe:country":null,
+    "medium":"Medium: silk, glass beads, metal, cotton\nTechnique: beaded embroidery, applique, satin and velvet weaves",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 24 x 23 cm (9 7\/16 x 9 1\/16 in.)",
+    "creditline":"Gift of Gwendolyn Sauvage",
+    "description":"Small purse with a gold-colored metal frame and chain, black velvet exterior with beadwork embroidery, lined with pale turquoise satin with vegetal design in gold floats. The beadwork designs are derived from 8th-10th century Near Eastern silks: on one side a gazelle under a flowering tree; on the other a peacock with spreading tail, with a floral vine at the curved lower edge of the bag. In variously colored glass beads with pinks, mauves, and peacock blues predominating.",
+    "justification":null,
+    "type":{
+        "id":"35264073",
+        "name":"Purse"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5516_217ec8a606580d36_b.jpg",
+                "width":644,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5516_217ec8a606580d36_n.jpg",
+                "width":201,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/5516_217ec8a606580d36_z.jpg",
+                "width":403,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18056077",
+            "role_id":"35236655",
+            "person_name":"M.E.D. Jenkinson",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18056077\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Purse, 1910\u201330.\n1910\u201330. Medium: silk, glass beads, metal, cotton\nTechnique: beaded embroidery, applique, satin and velvet weaves. Gift of Gwendolyn Sauvage. 1956-97-1."
+    },
+    "colors":[
+        {
+            "color":"#fffee5",
+            "closest_css3":"#ffffe0"
+        },
+        {
+            "color":"#2b252a",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#d0b9a6",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#a38969",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#604939",
+            "closest_css3":"#556b2f"
+        }
+    ]
+}

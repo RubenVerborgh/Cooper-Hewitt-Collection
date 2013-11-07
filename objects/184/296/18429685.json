@@ -1,0 +1,87 @@
+{
+    "id":"18429685",
+    "tms:id":"125236",
+    "accession_number":"1960-1-89",
+    "title":"Textile, \"Quatre Parties du monde\", ca. 1785",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18429685\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35251739",
+    "date":"ca. 1785",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1960",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTechnique: damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 216 x 53 cm (7 ft. 1 1\/16 in. x 20 7\/8 in.)",
+    "creditline":"Gift of the Estate of James Hazen Hyde",
+    "description":"Panel of pale yellow silk damask with design of allegorical figures representing the Four Continents. Asia is depicted as a man seated on a camel carrying an open parasol, and behind him an ape plays with a butterfly. Europe is a seated, helmeted female resting her hand on a shield, on which appears a horse. Other attributes include: flags, trumpet, anchor, caduceus, and cornucopia. Africa appears as two men in plumed turbans spearing lions. America is represented by seated Indians, in high feather headdress, carrying a bow and playing with a parrot. Based on designs by Joseph Bourne and Pascal Picart.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32272_cefef7131fbf133e_b.jpg",
+                "width":572,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32272_cefef7131fbf133e_n.jpg",
+                "width":179,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/32272_cefef7131fbf133e_z.jpg",
+                "width":357,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18063161",
+            "role_id":"35236655",
+            "person_name":"Joseph Gaspard Picart",
+            "role_name":"Designer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18063161\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236655\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Textile, \"Quatre Parties du monde\", ca. 1785.\nca. 1785. Medium: silk\nTechnique: damask. Gift of the Estate of James Hazen Hyde. 1960-1-89."
+    },
+    "colors":[
+        {
+            "color":"#6c4b2a",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#b8a484",
+            "closest_css3":"#bc8f8f"
+        },
+        {
+            "color":"#4c2b17",
+            "closest_css3":"#8b4513"
+        },
+        {
+            "color":"#9c754e",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#e7d1ae",
+            "closest_css3":"#f5deb3"
+        }
+    ]
+}

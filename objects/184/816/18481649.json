@@ -1,0 +1,80 @@
+{
+    "id":"18481649",
+    "tms:id":"151680",
+    "accession_number":"1973-51-11",
+    "title":"Textile, 1750\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481649\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"1750\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Medium: cotton\nTechnique: mordants for black, 2 reds, 2 purples, and brown applied by pen or brush; madder dyed; blue painted over resist; yellow painted by brush, (chintz) on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"Warp x Weft: 55 x 39.5 cm (21 5\/8 x 15 9\/16 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Curving vines with alternately symmetrical bouquets. Isolated motifs of animals, birds and plants.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/40622_dbe54e56b69d2d98_b.jpg",
+                "width":738,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/40622_dbe54e56b69d2d98_n.jpg",
+                "width":231,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/40622_dbe54e56b69d2d98_z.jpg",
+                "width":461,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, 1750\u20131800.\n1750\u20131800. Medium: cotton\nTechnique: mordants for black, 2 reds, 2 purples, and brown applied by pen or brush; madder dyed; blue painted over resist; yellow painted by brush, (chintz) on plain weave. Gift of Josephine Howell. 1973-51-11."
+    },
+    "colors":[
+        {
+            "color":"#d0bc8f",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#b89666",
+            "closest_css3":"#bdb76b"
+        },
+        {
+            "color":"#937957",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#503e34",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#2d2a28",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

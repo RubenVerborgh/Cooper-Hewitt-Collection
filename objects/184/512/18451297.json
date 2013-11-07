@@ -1,0 +1,42 @@
+{
+    "id":"18451297",
+    "tms:id":"136169",
+    "accession_number":"1964-17-1",
+    "title":"Unknown, 1894",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18451297\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35421257",
+    "type_id":"35257573",
+    "date":"1894",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1964",
+    "decade":null,
+    "woe:country":null,
+    "medium":"muslin appliqued on net",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":null,
+    "creditline":"Gift of Mrs. I. Ellis",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35257573",
+        "name":"Unknown"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Unknown, 1894.\n1894. muslin appliqued on net. Gift of Mrs. I. Ellis. 1964-17-1."
+    },
+    "colors":[
+
+    ]
+}

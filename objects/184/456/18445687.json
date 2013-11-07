@@ -1,0 +1,80 @@
+{
+    "id":"18445687",
+    "tms:id":"133354",
+    "accession_number":"1962-56-69-a,b",
+    "title":"Fragment, mid\u2013late 18th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18445687\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402827",
+    "type_id":"35254623",
+    "date":"mid\u2013late 18th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1962",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: silk\nTechnique: 5-harness satin damask",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"Warp x Weft: 118 x 78 cm (46 7\/16 x 30 11\/16 in.)",
+    "creditline":"Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf",
+    "description":"Panel of red silk damask with a pattern of ribbon festoons and clusters of flowers.",
+    "justification":null,
+    "type":{
+        "id":"35254623",
+        "name":"Fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_b.jpg",
+                "width":522,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_n.jpg",
+                "width":163,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/33062_61608f0e045b5058_z.jpg",
+                "width":326,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Fragment, mid\u2013late 18th century.\nmid\u2013late 18th century. Medium: silk\nTechnique: 5-harness satin damask. Bequest of Richard Cranch Greenleaf in memory of his mother, Adeline Emma Greenleaf. 1962-56-69-a,b."
+    },
+    "colors":[
+        {
+            "color":"#682021",
+            "closest_css3":"#800000"
+        },
+        {
+            "color":"#b4423e",
+            "closest_css3":"#a0522d"
+        },
+        {
+            "color":"#ea5049",
+            "closest_css3":"#ff6347"
+        },
+        {
+            "color":"#361c1e",
+            "closest_css3":"#000000"
+        },
+        {
+            "color":"#6b7475",
+            "closest_css3":"#696969"
+        }
+    ]
+}

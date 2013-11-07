@@ -1,0 +1,80 @@
+{
+    "id":"18638085",
+    "tms:id":"193901",
+    "accession_number":"1991-89-72",
+    "title":"Sidewall, 1936\u201356",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18638085\/",
+    "department_id":"35347503",
+    "period_id":null,
+    "media_id":"35414653",
+    "type_id":"35256475",
+    "date":"1936\u201356",
+    "year_start":"1936",
+    "year_end":"1956",
+    "year_acquired":"1991",
+    "decade":"1930",
+    "woe:country":"23424977",
+    "medium":"Machine-printed",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"658 x 48.5 cm (259 1\/16 x 19 1\/8 in. )",
+    "creditline":"Gift of Suzanne Lipschutz",
+    "description":"Allover floral pattern with green flowers on a light green background, grey leaves with metallic silver highlights, and white leaves edged in green on a white ground.",
+    "justification":null,
+    "type":{
+        "id":"35256475",
+        "name":"Sidewall"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11361_189a5cba0eda312b_b.jpg",
+                "width":506,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11361_189a5cba0eda312b_n.jpg",
+                "width":158,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/11361_189a5cba0eda312b_z.jpg",
+                "width":316,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Sidewall, 1936\u201356.\n1936\u201356. Machine-printed. Gift of Suzanne Lipschutz. 1991-89-72."
+    },
+    "colors":[
+        {
+            "color":"#a6b9c7",
+            "closest_css3":"#b0c4de"
+        },
+        {
+            "color":"#5c7b7c",
+            "closest_css3":"#708090"
+        },
+        {
+            "color":"#89a8a8",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#506a58",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#c3e0e7",
+            "closest_css3":"#b0e0e6"
+        }
+    ]
+}

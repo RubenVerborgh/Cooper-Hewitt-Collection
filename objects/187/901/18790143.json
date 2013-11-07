@@ -1,0 +1,52 @@
+{
+  "year_start": "2008", 
+  "exhibitions": [], 
+  "justification": null, 
+  "tms:id": "271386", 
+  "images": [
+    {
+      "b": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/32054_2ec2743bc3780176_b.jpg", 
+        "width": 560, 
+        "is_primary": "1", 
+        "height": 400
+      }, 
+      "z": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/32054_2ec2743bc3780176_z.jpg", 
+        "width": 560, 
+        "is_primary": "1", 
+        "height": 400
+      }, 
+      "n": {
+        "url": "http://images.collection.cooperhewitt.org.s3.amazonaws.com/32054_2ec2743bc3780176_n.jpg", 
+        "width": 320, 
+        "is_primary": "1", 
+        "height": 229
+      }
+    }
+  ], 
+  "id": "18790143", 
+  "decade": "2000", 
+  "dimensions": "H x diam. (Coffee cup): 6 x 8.9 cm (2 3/8 x 3 1/2 in.)", 
+  "title": "Coffee Cup, \"WASARA Tableware\", 2008", 
+  "provenance": null, 
+  "participants": [], 
+  "woe:country": null, 
+  "department_id": "35347497", 
+  "medium": "Reed, bamboo, bagasse pulp", 
+  "description": null, 
+  "creditline": "Gift of WASARA Co. Ltd.", 
+  "period_id": null, 
+  "date": "2008", 
+  "url": "http://collection.cooperhewitt.org/objects/18790143/", 
+  "type": {
+    "id": "35299919", 
+    "name": "coffee cup"
+  }, 
+  "accession_number": "2011-12-48", 
+  "year_end": "2008", 
+  "signed": null, 
+  "inscribed": null, 
+  "markings": null, 
+  "year_acquired": "2011"
+}

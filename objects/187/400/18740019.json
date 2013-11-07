@@ -1,0 +1,83 @@
+{
+    "id":"18740019",
+    "tms:id":"246249",
+    "accession_number":"2010-12-9",
+    "title":"Drawing, \"Design for Fork:  Helix Pattern\", September 1980",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18740019\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35433917",
+    "type_id":"35237093",
+    "date":"September 1980",
+    "year_start":"1980",
+    "year_end":"1980",
+    "year_acquired":"2010",
+    "decade":"1980",
+    "woe:country":null,
+    "medium":"Graphite, red color pencil on tracing paper",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Ward Bennett, by gift to David McCorkle, New York",
+    "dimensions":"30.3 x 54.2 cm (11 15\/16 x 21 5\/16 in.), irregular",
+    "creditline":"Gift of David McCorkle and Ernest Hood",
+    "description":null,
+    "justification":null,
+    "type":{
+        "id":"35237093",
+        "name":"Drawing"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34732_52fe5accde28c4e0_b.jpg",
+                "width":1024,
+                "height":579,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34732_52fe5accde28c4e0_n.jpg",
+                "width":320,
+                "height":181,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/34732_52fe5accde28c4e0_z.jpg",
+                "width":640,
+                "height":362,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18044031",
+            "role_id":"35236657",
+            "person_name":"Sasaki",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044031\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        },
+        {
+            "person_id":"18062981",
+            "role_id":"51571159",
+            "person_name":"Ernest Hood",
+            "role_name":"Agent",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18062981\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/51571159\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Drawing, \"Design for Fork:  Helix Pattern\", September 1980.\nSeptember 1980. Graphite, red color pencil on tracing paper. Gift of David McCorkle and Ernest Hood. 2010-12-9."
+    },
+    "colors":[
+        {
+            "color":"#daad7d",
+            "closest_css3":"#deb887"
+        },
+        {
+            "color":"#8e755b",
+            "closest_css3":"#808080"
+        }
+    ]
+}

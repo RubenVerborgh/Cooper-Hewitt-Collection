@@ -1,0 +1,72 @@
+{
+    "id":"18489807",
+    "tms:id":"155777",
+    "accession_number":"1976-103-176",
+    "title":"Stencil",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18489807\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Helen Snyder",
+    "dimensions":null,
+    "creditline":"Gift of Helen Snyder",
+    "description":"Alternating vertical columns, one with plant forms and one with diagonal stripes.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_b.jpg",
+                "width":1024,
+                "height":738,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_n.jpg",
+                "width":320,
+                "height":231,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/44894_301bfb348e7be632_z.jpg",
+                "width":640,
+                "height":461,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil.\nGift of Helen Snyder. 1976-103-176."
+    },
+    "colors":[
+        {
+            "color":"#5f473b",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#6a645e",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#928b87",
+            "closest_css3":"#808080"
+        }
+    ]
+}

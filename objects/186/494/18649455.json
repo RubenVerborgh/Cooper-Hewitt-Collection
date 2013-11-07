@@ -1,0 +1,87 @@
+{
+    "id":"18649455",
+    "tms:id":"199638",
+    "accession_number":"1994-80-29",
+    "title":"Chef De Piece, ca. 1850",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18649455\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35295179",
+    "date":"ca. 1850",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1994",
+    "decade":null,
+    "woe:country":"23424819",
+    "medium":"Medium: cotton\nTechnique: block-printed on plain weave with blocks for red, pink, brown, black, blue and yellow.",
+    "markings":null,
+    "signed":null,
+    "inscribed":"Stamps at bottom edge: \"MANUFACTURE DE TOILES PEINTES DE WEBER PERE ET FILS. S.MARIE \/ Ht RHIN\" in black within box and \"D. Schoene\" within an oval frame repeated four times; in red, pink, brown and black. Also: large \"3\" in black and \"M.Turg\" within frame in blue. All above stamps are on the front. On back: a partial stamp within an oval frame ending in \".ER\"",
+    "provenance":"Formerly in the collection of Elinor Merrell where it was No 13 on her list of chefs de piece.",
+    "dimensions":"Warp: 67.5 cm (26 1\/2 in.) Weft: 86.5 cm (34 in.). Both selvedges present.\nPattern: Height of repeat: 47 cm (18 1\/2 in.)  Width of repeat: 42 cm (16 1\/2 in.). Arranged as a straight repeat.",
+    "creditline":"Gift of Cora Ginsburg",
+    "description":"Polychrome massed floral sprays. There are seven floral sprays in each minimum unit.",
+    "justification":null,
+    "type":{
+        "id":"35295179",
+        "name":"Chef de piece"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12111_60d7b1e0086280c0_b.jpg",
+                "width":1024,
+                "height":683,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12111_60d7b1e0086280c0_n.jpg",
+                "width":320,
+                "height":213,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/12111_60d7b1e0086280c0_z.jpg",
+                "width":640,
+                "height":427,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18046265",
+            "role_id":"35236681",
+            "person_name":"Weber Pere et fils",
+            "role_name":"Company",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18046265\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236681\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Chef De Piece, ca. 1850.\nca. 1850. Medium: cotton\nTechnique: block-printed on plain weave with blocks for red, pink, brown, black, blue and yellow.. Gift of Cora Ginsburg. 1994-80-29."
+    },
+    "colors":[
+        {
+            "color":"#8b6e6c",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#fde5d0",
+            "closest_css3":"#ffebcd"
+        },
+        {
+            "color":"#d8b5a0",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#533934",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#b88e7e",
+            "closest_css3":"#bc8f8f"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id":"18434445",
+    "tms:id":"127642",
+    "accession_number":"1960-79-31",
+    "title":"Textile, late 19th century",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18434445\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35251739",
+    "date":"late 19th century",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1960",
+    "decade":null,
+    "woe:country":null,
+    "medium":"Medium: cotton\nTechnique: printed by engraved roller",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"L x W: 171 x 78 cm (5 ft. 7 5\/16 in. x 30 11\/16 in.)",
+    "creditline":"Gift of Harold M. Bailey",
+    "description":"Gray ground showing a design of large scale, natural size groups of fruit and flowers, in staggered repeats, in shades of lavender, grey and white.",
+    "justification":null,
+    "type":{
+        "id":"35251739",
+        "name":"textile"
+    },
+    "images":[
+
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Textile, late 19th century.\nlate 19th century. Medium: cotton\nTechnique: printed by engraved roller. Gift of Harold M. Bailey. 1960-79-31."
+    },
+    "colors":[
+
+    ]
+}

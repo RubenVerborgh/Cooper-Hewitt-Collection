@@ -1,0 +1,80 @@
+{
+    "id":"18490001",
+    "tms:id":"155874",
+    "accession_number":"1976-103-263",
+    "title":"Stencil, \"Autumn Grasses, Bush Clover, and Butterflies\"",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18490001\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35371135",
+    "type_id":"35288579",
+    "date":null,
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1976",
+    "decade":null,
+    "woe:country":"23424856",
+    "medium":null,
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"H x W: 36.4 x 34.8 cm (14 5\/16 x 13 11\/16 in.)",
+    "creditline":"Gift of Helen Snyder",
+    "description":"Butterfly motif with other floral elements.",
+    "justification":null,
+    "type":{
+        "id":"35288579",
+        "name":"Stencil"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/56019_51c44a304d8aec63_b.jpg",
+                "width":949,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/56019_51c44a304d8aec63_n.jpg",
+                "width":297,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/56019_51c44a304d8aec63_z.jpg",
+                "width":593,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Stencil, \"Autumn Grasses, Bush Clover, and Butterflies\".\nH x W: 36.4 x 34.8 cm (14 5\/16 x 13 11\/16 in.). Gift of Helen Snyder. 1976-103-263."
+    },
+    "colors":[
+        {
+            "color":"#5f554c",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#39312c",
+            "closest_css3":"#2f4f4f"
+        },
+        {
+            "color":"#e3ddcc",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#b8ae9d",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#897d6c",
+            "closest_css3":"#808080"
+        }
+    ]
+}

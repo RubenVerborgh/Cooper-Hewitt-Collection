@@ -1,0 +1,80 @@
+{
+    "id":"18387191",
+    "tms:id":"103737",
+    "accession_number":"1951-13-4",
+    "title":"Print, \"The Gallery of H.M.S. Calcutta (Souvenir of a Ball on Shipboard)\", 1876",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18387191\/",
+    "department_id":"35347493",
+    "period_id":null,
+    "media_id":"35376469",
+    "type_id":"35236873",
+    "date":"1876",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1951",
+    "decade":null,
+    "woe:country":"23424975",
+    "medium":"Drypoint on off-white wove paper",
+    "markings":null,
+    "signed":"Upper right, in the plate: J.J. Tissot 1876",
+    "inscribed":null,
+    "provenance":null,
+    "dimensions":"34.5 x 46.8 cm (13 9\/16 x 18 7\/16 in.)",
+    "creditline":"Gift of Edmond C. Bonaventure",
+    "description":"Two women and a gentleman are shown standing on the deck of a ship leaning against the rail at right. In the distance, a view of a harbor with ships.",
+    "justification":null,
+    "type":{
+        "id":"35236873",
+        "name":"Print"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19528_8d29272c144a93a6_b.jpg",
+                "width":1024,
+                "height":765,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19528_8d29272c144a93a6_n.jpg",
+                "width":320,
+                "height":239,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/19528_8d29272c144a93a6_z.jpg",
+                "width":640,
+                "height":478,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Print, \"The Gallery of H.M.S. Calcutta (Souvenir of a Ball on Shipboard)\", 1876.\n1876. Drypoint on off-white wove paper. Gift of Edmond C. Bonaventure. 1951-13-4."
+    },
+    "colors":[
+        {
+            "color":"#bcb3a3",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#e6dccb",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#847c6e",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#544e44",
+            "closest_css3":"#556b2f"
+        },
+        {
+            "color":"#33302b",
+            "closest_css3":"#2f4f4f"
+        }
+    ]
+}

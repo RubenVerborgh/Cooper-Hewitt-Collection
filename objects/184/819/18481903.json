@@ -1,0 +1,80 @@
+{
+    "id":"18481903",
+    "tms:id":"151808",
+    "accession_number":"1973-51-9",
+    "title":"Chintz Fragment, 1750\u20131800",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18481903\/",
+    "department_id":"35347501",
+    "period_id":null,
+    "media_id":"35402927",
+    "type_id":"35292779",
+    "date":"1750\u20131800",
+    "year_start":null,
+    "year_end":null,
+    "year_acquired":"1973",
+    "decade":null,
+    "woe:country":"23424848",
+    "medium":"Medium: cotton\nTechnique: block-printed for outlines and imbricated background with mordant painted over resist for fillings (chintz) on plain weave",
+    "markings":null,
+    "signed":null,
+    "inscribed":null,
+    "provenance":"ex. coll. Martin scrapbook",
+    "dimensions":"Warp x Weft: 21 x 56.5 cm (8 1\/4 x 22 1\/4 in.)",
+    "creditline":"Gift of Josephine Howell",
+    "description":"Curving floral stems on white islands on a background of red ribbons and picotage.",
+    "justification":null,
+    "type":{
+        "id":"35292779",
+        "name":"Chintz fragment"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7946_55fc6c2180c9c11d_b.jpg",
+                "width":1024,
+                "height":685,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7946_55fc6c2180c9c11d_n.jpg",
+                "width":320,
+                "height":214,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/7946_55fc6c2180c9c11d_z.jpg",
+                "width":640,
+                "height":428,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+
+    ],
+    "tombstone":{
+        "epitaph":"Chintz Fragment, 1750\u20131800.\n1750\u20131800. Medium: cotton\nTechnique: block-printed for outlines and imbricated background with mordant painted over resist for fillings (chintz) on plain weave. Gift of Josephine Howell. 1973-51-9."
+    },
+    "colors":[
+        {
+            "color":"#9a837d",
+            "closest_css3":"#808080"
+        },
+        {
+            "color":"#b7abac",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#fde3e9",
+            "closest_css3":"#ffe4e1"
+        },
+        {
+            "color":"#5d4b4f",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#7c6d73",
+            "closest_css3":"#696969"
+        }
+    ]
+}

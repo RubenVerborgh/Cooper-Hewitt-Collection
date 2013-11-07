@@ -1,0 +1,87 @@
+{
+    "id":"18643229",
+    "tms:id":"196479",
+    "accession_number":"1993-120-3-a\/c",
+    "title":"Clock, ca. 1910",
+    "url":"http:\/\/collection.cooperhewitt.org\/objects\/18643229\/",
+    "department_id":"35347497",
+    "period_id":null,
+    "media_id":"35422575",
+    "type_id":"35249083",
+    "date":"ca. 1910",
+    "year_start":null,
+    "year_end":"1920",
+    "year_acquired":"1993",
+    "decade":null,
+    "woe:country":"23424909",
+    "medium":"Earthenware, metal, enamel, glass",
+    "markings":"On underside, stamp in black: [indecipherable]; in blue: \"22\"",
+    "signed":null,
+    "inscribed":null,
+    "provenance":"Justin G. Schiller; 1993: acquired by Museum",
+    "dimensions":"22.7 x 13.1 cm (8 15\/16 x 5 3\/16 in.)",
+    "creditline":"Gift of Justin G. Schiller",
+    "description":"Curved clock with double handles and rounded edges; decorated with symmetrical floral and line motifs in yellow, red-orange, and blue on cream background. Face of clock lightly decorated with floral arrangement of violet calla lilies.",
+    "justification":null,
+    "type":{
+        "id":"35249083",
+        "name":"clock"
+    },
+    "images":[
+        {
+            "b":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47668_3f8e7a4dc9363972_b.jpg",
+                "width":893,
+                "height":1024,
+                "is_primary":"1"
+            },
+            "n":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47668_3f8e7a4dc9363972_n.jpg",
+                "width":279,
+                "height":320,
+                "is_primary":"1"
+            },
+            "z":{
+                "url":"http:\/\/images.collection.cooperhewitt.org\/47668_3f8e7a4dc9363972_z.jpg",
+                "width":558,
+                "height":640,
+                "is_primary":"1"
+            }
+        }
+    ],
+    "participants":[
+        {
+            "person_id":"18044619",
+            "role_id":"35236657",
+            "person_name":"Arnhem Faience Factory",
+            "role_name":"Manufacturer",
+            "person_url":"http:\/\/collection.cooperhewitt.org\/people\/18044619\/",
+            "role_url":"http:\/\/collection.cooperhewitt.org\/roles\/35236657\/"
+        }
+    ],
+    "tombstone":{
+        "epitaph":"Clock, ca. 1910.\nca. 1910. Earthenware, metal, enamel, glass. Gift of Justin G. Schiller. 1993-120-3-a\/c."
+    },
+    "colors":[
+        {
+            "color":"#e3ddc7",
+            "closest_css3":"#dcdcdc"
+        },
+        {
+            "color":"#bea981",
+            "closest_css3":"#d2b48c"
+        },
+        {
+            "color":"#b5b8a6",
+            "closest_css3":"#a9a9a9"
+        },
+        {
+            "color":"#76786f",
+            "closest_css3":"#696969"
+        },
+        {
+            "color":"#9d8768",
+            "closest_css3":"#808080"
+        }
+    ]
+}
