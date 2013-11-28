@@ -14,6 +14,7 @@ if (!dir)
 var output = fs.createWriteStream(path.join(dir, 'index.json'));
 
 // Find all files
+// Note: not _all_ files will be indexed (on purpose), as the buffer is limited
 var find = exec('find ' + dir + ' -type f', indexFiles),
     first = true;
 
